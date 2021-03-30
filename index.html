@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Pathogen Testing Vocabulary v0.1</title>
+    <meta http-equiv='Content-Type' content='text/html;charset=utf-8'/>
+    <!--
+      === NOTA BENE ===
+      For the three scripts below, if your spec resides on dev.w3 you can check them
+      out in the same tree and use relative links so that they'll work offline,
+     -->
+    <script src='https://www.w3.org/Tools/respec/respec-w3c' class='remove'></script>
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.min.js"
+      integrity="sha256-9/aliU8dGd2tb6OSsuzixeV4y/faTqgFtohetphbbj0="
+      crossorigin="anonymous"></script>
+    <script src='https://www.w3.org/Tools/respec/respec-w3c-common' class='remove'></script>
+    <script class='remove'>
+      var respecConfig = {
+          specStatus: 'unofficial',
+          logos: [{
+            id: 'place-holder',
+          }],
+          editors: [
+          {
+            name: "Tobias Looker",
+            url: "https://github.com/tplooker",
+            company: "Mattr",
+            companyURL: "https://www.mattr.global/",
+          },
+          {
+            name: "Carsten Stoecker",
+            url: "https://github.com/OR13",
+            company: "Spherity",
+            companyURL: "https://www.spherity.com/",
+          }],
+          processVersion: 2017,
+          edDraftURI: "https://w3id.org/pathogen-test",
+          previousMaturity: "UNOFFICIAL",
+          shortName: "pathogen-test",
+          github: "https://github.com/spherity/pathogen-test/",
+          pluralize: true,
+      };
+    </script>
+    <script src="./common.js" class="remove"></script>
+  </head>
+  <body>
+    <section id="abstract">
+      <p>
+        This specification describes <b>an experimental vocabulary</b> for asserting
+        Verifiable Credentials related to testing a party for infection of a particular pathogen
+      </p>
+    </section>
+
+    <section id="sotd">
+      <!--p>
+Comments regarding all aspects of this document are welcome.
+Please file issues
+directly on <a href="github: "https://github.com/mattrglobal/appointment-vocab/issues/">GitHub</a>,
+or send them to
+<a href="mailto:public-credentials@w3.org">public-credentials@w3.org</a>
+(<a href="mailto:public-credentials-request@w3.org?subject=subscribe">subscribe</a>,
+<a href="https://lists.w3.org/Archives/Public/public-credentials/">archives</a>).
+</p-->
+    </section>
+
+    <section class="informative">
+      <h2>Introduction</h2>
+      <p>
+        This specification describes <b>an experimental vocabulary</b> for asserting
+        Verifiable Credentials related to testing a party for infection of a particular pathogen
+      </p>
+
+      <section class="informative">
+        <h3>Use Cases and Requirements</h3>
+
+        <p>
+          The following use cases outline a number of key scenarios that readers
+          might find useful:
+        </p>
+
+        <ul>
+          <li>Proving current status of infection in reference to a particular pathogen</li>
+          <li>Providing health care</li>
+        </ul>
+      </section>
+
+      <section class="informative">
+        <h3>Example</h3>
+
+        <p>
+          The following examples are provided as a simple example of how this
+          vocabulary can be used in-conjunction with Verifiable Credentials [[VC-DATA-MODEL]]
+        </p>
+
+        <pre class="example" title="A Pathogen Test Result expressed as a W3C Verifiable Credential featuring an Ed25519 Digital Signature">
+          {
+            "@context": [
+              "https://www.w3.org/2018/credentials/v1",
+              "https://w3id.org/pathogen-test/v1",
+            ],
+            "type": [
+              "VerifiableCredential",
+              "PathogenTestCertificate"
+            ],
+            "id": "urn:uvci:af5vshde843jf831j128fj",
+            "name": "COVID-19 Pathogen Test Result",
+            "description": "COVID-19 Pathogen Test Result",
+            "issuanceDate": "2021-03-30T08:30:44.409Z",
+            "expirationDate": "2029-12-03T12:19:52Z",
+            "issuer": "did:key:z6MkrtYMJe2ZesvsnoSr8K1yVerjo6EhC2G5jxBDKrD284L2",
+            "credentialSubject": {
+              "type": "PathogenTestEvent",
+              "testingCentre": "MoH",
+              "healthProfessional": "MoH",
+              "countryOfTest": "NZ",
+              "recipient": {
+                "type": "PathogenTestRecipient",
+                "givenName": "JOHN",
+                "familyName": "SMITH",
+                "gender": "Male",
+                "birthDate": "1958-07-17"
+              },
+              "disease": {
+                "type": "Disease",
+                "name": "COVID-19"
+              }
+            },
+            "proof": {
+              "type": "Ed25519Signature2018",
+              "created": "2021-03-30T08:30:44Z",
+              "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..pF-y3qAf-TNQFvK_hwYddQKjD8WcY2wZFijrdlLEnNBLH79IT1ydQ4SX-0LEGIMpQFjmJlo60oyIIRB_Ey0YAg",
+              "proofPurpose": "assertionMethod",
+              "verificationMethod": "did:key:z6MkrtYMJe2ZesvsnoSr8K1yVerjo6EhC2G5jxBDKrD284L2#z6MkrtYMJe2ZesvsnoSr8K1yVerjo6EhC2G5jxBDKrD284L2"
+            }
+          }
+        </pre>
+
+        <pre class="example" title="A Pathogen Test Result Certificate expressed as a W3C Verifiable Credential featuring a BBS+ Digital Signature that supports selective disclosure">
+          {
+            "@context": [
+              "https://www.w3.org/2018/credentials/v1",
+              "https://w3id.org/pathogen-test/v1",
+              "https://w3id.org/security/bbs/v1"
+            ],
+            "type": [
+              "VerifiableCredential",
+              "PathogenTestCertificate"
+            ],
+            "id": "urn:uvci:af5vshde843jf831j128fj",
+            "name": "COVID-19 Pathogen Test Result",
+            "description": "COVID-19 Pathogen Test Result",
+            "issuanceDate": "2021-03-30T08:30:44.420Z",
+            "expirationDate": "2029-12-03T12:19:52Z",
+            "issuer": "did:key:zUC7FDatnzAjdDAssyKMByijTXf4FT2hWBNtXxbTjbWv1UppCgK21E9gKpwfGc3FNyPGGTdRV8BcJX3vLupnBiUEoECmkCfJvY9F76GYn9VaszGtLazTv64YtwnkyFwRMfPw21q",
+            "credentialSubject": {
+              "type": "PathogenTestEvent",
+              "testingCentre": "MoH",
+              "healthProfessional": "MoH",
+              "countryOfTest": "NZ",
+              "recipient": {
+                "type": "PathogenTestRecipient",
+                "givenName": "JOHN",
+                "familyName": "SMITH",
+                "gender": "Male",
+                "birthDate": "1958-07-17"
+              },
+              "disease": {
+                "type": "Disease",
+                "name": "COVID-19"
+              }
+            },
+            "proof": {
+              "type": "BbsBlsSignature2020",
+              "created": "2021-03-30T08:30:44Z",
+              "proofPurpose": "assertionMethod",
+              "proofValue": "iyhKiXcYBcCnyuS0abodQMep1eIrpCtnqJI1vOya3MCcEsflw8dkgb7zl/PcobgAE7jGVQW8/gfG2am55BPnu/hAF/kNpKTJMA/Q655J3cplP21YHVKGz39sCULTqJX82Lo8WQRffHBwFzdjiYRbYg==",
+              "verificationMethod": "did:key:zUC7FDatnzAjdDAssyKMByijTXf4FT2hWBNtXxbTjbWv1UppCgK21E9gKpwfGc3FNyPGGTdRV8BcJX3vLupnBiUEoECmkCfJvY9F76GYn9VaszGtLazTv64YtwnkyFwRMfPw21q#zUC7FDatnzAjdDAssyKMByijTXf4FT2hWBNtXxbTjbWv1UppCgK21E9gKpwfGc3FNyPGGTdRV8BcJX3vLupnBiUEoECmkCfJvY9F76GYn9VaszGtLazTv64YtwnkyFwRMfPw21q"
+            }
+          }
+        </pre>
+
+        <pre class="example" title="A Pathogen Test Result Certificate expressed as a W3C Verifiable Credential featuring a BBS+ Signature Proof leveraging selective disclosure">
+          TODO
+        </pre>
+      </section>
+    </section>
+
+    <section>
+      <h2>Representation Size</h2>
+
+      <p>
+        Certain applications of Verifiable Credentials create constraints around the permitted size of a credentials representation, one such example constraint is expressing 
+        a Verifiable Credential in a QR Code.
+      </p>
+
+      <p>
+        Pathogen Test Certificates are a particular use-case where a solution involving much of the benefits of Verifiable Credentials can be realized without requiring the 
+        credential subject to possess or have access to digital infrastructure such as a digital wallet. Instead the Verifiable Credential can be issued by the issuer, printed
+        to a physical medium (e.g paper) and shared with the subject.
+      </p>
+
+      <p>
+        There are numerous techniques that can be used to keep the representation of a Verifiable Credential small, two of the most notable are:
+      </p>
+
+      <ul>
+        <li><b>Limiting the included data elements</b>: The resulting representation is a product of the encoded information, less information, smaller representation.</li>
+        <li><b>Choice of data encoding technology</b>: Different data encoding technologies (e.g JSON, CBOR) have different characteristics around the resulting size of representation.</li>
+      </ul>
+
+      <p>
+        As an example below the following Pathogen Test Certificate is issued as a Verifiable Credential using a subset of the vocabulary defined
+        by this document. The resulting Verifiable Credential is then encoded in both JSON-LD and CBOR-LD to show the compression.
+      </p>
+
+      <pre class="example" title="A Pathogen Test Result Certificate expressed as a W3C Verifiable Credential using a limited subset of the defined vocabulary">
+        TODO      
+      </pre>
+
+      <pre class="example" title="CBOR Diagnostic output for the above W3C Verifiable Credential expressed in CBOR-LD">
+        TODO
+      </pre>
+
+      <p>
+        Below illustrates the size difference of the Verifiable Credential example shown above encoded in JSON-LD and CBOR-LD.
+      </p>
+
+      <table class="simple" style="margin-left: auto; margin-right: auto;">
+        <thead>
+          <tr>
+            <th>Encoding Technology</th>
+            <th>Size (bytes)</th>
+          </tr>
+        </thead>
+        <tbody>
+          TODO
+          <!-- <tr>
+            <td>JSON-LD</td>
+            <td>1217</td>
+          </tr>
+          <tr>
+            <td>CBOR-LD</td>
+            <td>461</td>
+          </tr> -->
+        </tbody>
+      </table>
+
+      <p>
+        Below shows a QR Code that features the Verifiable Credential example shown above compressed using CBOR-LD converted to 
+        base32 in accordance with [[!RFC4648]] and encoded into a QR Code using the alphanumeric mode.
+      </p>
+
+      <figure id="information-model">
+        <!-- <img style="margin: auto; display: block;"
+       src="assets/vaccine-certificate-qrcode.png" alt="a qr code based representation of a Verifiable Credential encoded as CBOR-LD"/>
+        <figcaption style="text-align: center;">
+          A QR Code based representation of a Verifiable Credential encoded as CBOR-LD
+        </figcaption>
+      </figure> -->
+    </section>
+
+    <section class="informative">
+      <h2>Terminology</h2>
+
+      <div
+        data-include="./terms.html"
+        data-oninclude="restrictReferences"
+      ></div>
+    </section>
+
+    <section class="informative">
+      <h2>Concepts</h2>
+
+      <p>
+        A pathogen test certificate contains many different pieces of information
+        relating to the testing of an individual. These pieces can be
+        organized into the following categories
+      </p>
+
+      <ul>
+        <li><b>Pathogen Test Certificate</b>: Information pertaining to the pathogen certificate itself (e.g when the certificate expires)</li>
+        <li><b>Pathogen Test Event</b>: Information describing the pathogen test event event (e.g date the test occurred or how it was conducted)</li>
+        <li><b>Disease</b>: Information describing the pathogen tested for (e.g name of disease)</li>
+        <li><b>Pathogen Test Recipient</b>: Information describing the recipient of the pathogen test (e.g first name)</li>
+      </ul>
+
+      <figure id="information-model">
+        <img style="margin: auto; display: block;"
+       src="assets/information-model.png" alt="diagram showing
+       the information model for a pathogen test certificate"/>
+        <figcaption style="text-align: center;">
+          The information model for a pathogen test result certificate
+        </figcaption>
+      </figure>
+
+    </section>
+
+    <section class="normative">
+      <h2>The Pathogen Test Certificate Vocabulary</h2>
+      
+      <p>
+        This vocabulary assumes all terms specified in the base Verifiable
+        Credentials [[VC-DATA-MODEL]] context. In addition, the following
+        classes are available for specifying information related to testing 
+        a party for infection of a particular pathogen
+      </p>
+
+      <table class="simple">
+        <thead>
+          <tr>
+            <th>Class</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>PathogenTestCertificate</td>
+            <td>Specifies that the credential is a pathogen test certificate</td>
+          </tr>
+          <tr>
+            <td>PathogenTestEvent</td>
+            <td>Specifies the details of the pathogen test event including the administration details.</td>
+          </tr>
+          <tr>
+            <td>PathogenTestRecipient</td>
+            <td>Specifies that the subject of the credential is the recipient of a specified pathogen test.</td>
+          </tr>
+          <tr>
+            <td>Disease</td>
+            <td>Specifies the details of disease the test is designed to detect.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <section class="normative" id="PathogenTestEvent">
+        <h3>Pathogen Test Event</h3>
+  
+        <table class="simple">
+          <thead>
+            <tr>
+              <th>Term</th>
+              <th>Description</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>
+                dateOfTest
+              </td>
+              <td>
+                Date in which the test event occurred.
+              </td>
+            </tr>
+            <tr>
+              <td>
+                testingCentre
+              </td>
+              <td>
+                Name/code of testing centre or a health authority responsible for the pathogen test event.
+              </td>
+            </tr>
+            <tr>
+              <td>
+                healthProfessional
+              </td>
+              <td>
+                Name or health professional code responsible for testing the recipient for infection.
+              </td>
+            </tr>
+            <tr>
+              <td>
+                countryOfTest
+              </td>
+              <td>
+                The country in which the recipient was tested.
+              </td>
+            </tr>
+            <tr>
+              <td>
+                recipient
+              </td>
+              <td>
+                The recipient of the test.
+              </td>
+            </tr>
+            <tr>
+              <td>
+                desease
+              </td>
+              <td>
+                The details of disease tested against.
+              </td>
+            </tr>
+          </tbody>
+        </table>
+  
+        
+        <section class="normative">
+          <h4>
+              Date Of Test
+          </h4>
+  
+          <p>
+              Date in which the test event occurred.
+          </p>
+          <table class="simple">
+            <tbody>
+              <tr>
+                <td>Term</td>
+                <td>
+                  dateOfTest
+              </td>
+              </tr>
+              <tr>
+                <td>URL</td>
+                <td>
+                  https://w3id.org/pathogen#dateOfTest
+              </td>
+              </tr>
+              <tr>
+                <td>Expected Value</td>
+                <td>
+                  Datetime
+              </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <section class="normative">
+          <h4>
+              Testing Centre
+          </h4>
+  
+          <p>
+              Name/code of testing centre or a health authority responsible for the pathogen test event.
+          </p>
+          <table class="simple">
+            <tbody>
+              <tr>
+                <td>Term</td>
+                <td>
+                  testingCentre
+              </td>
+              </tr>
+              <tr>
+                <td>URL</td>
+                <td>
+                  https://w3id.org/pathogen#testingCentre
+              </td>
+              </tr>
+              <tr>
+                <td>Expected Value</td>
+                <td>
+                  String
+              </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <section class="normative">
+          <h4>
+              Health Professional
+          </h4>
+  
+          <p>
+              Name or health professional code responsible for testing the recipient for infection.
+          </p>
+          <table class="simple">
+            <tbody>
+              <tr>
+                <td>Term</td>
+                <td>
+                  healthProfessional
+              </td>
+              </tr>
+              <tr>
+                <td>URL</td>
+                <td>
+                  https://w3id.org/pathogen#healthProfessional
+              </td>
+              </tr>
+              <tr>
+                <td>Expected Value</td>
+                <td>
+                  String
+              </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <section class="normative">
+          <h4>
+              Country Of Test
+          </h4>
+  
+          <p>
+              The country in which the test recipient was tested, MUST be a valid country code as per ISO 3166.
+          </p>
+          <table class="simple">
+            <tbody>
+              <tr>
+                <td>Term</td>
+                <td>
+                  countryOfTest
+              </td>
+              </tr>
+              <tr>
+                <td>URL</td>
+                <td>
+                  https://w3id.org/pathogen#countryOfTest
+              </td>
+              </tr>
+              <tr>
+                <td>Expected Value</td>
+                <td>
+                  String
+              </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <section class="normative">
+          <h4>
+              Recipient
+          </h4>
+  
+          <p>
+              The recipient of the pathogen test.
+          </p>
+          <table class="simple">
+            <tbody>
+              <tr>
+                <td>Term</td>
+                <td>
+                  recipient
+              </td>
+              </tr>
+              <tr>
+                <td>URL</td>
+                <td>
+                  https://w3id.org/pathogen#recipient
+              </td>
+              </tr>
+              <tr>
+                <td>Expected Value</td>
+                <td>
+                  https://w3id.org/pathogen#PathogenTestRecipient
+              </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+        <section class="normative" id="PathogenTestEventTest">
+          <h4>
+              disease
+          </h4>
+  
+          <p>
+              The details of pathogen test disease.
+          </p>
+          <table class="simple">
+            <tbody>
+              <tr>
+                <td>Term</td>
+                <td>
+                  disease
+              </td>
+              </tr>
+              <tr>
+                <td>URL</td>
+                <td>
+                  https://w3id.org/pathogen#PathogenTestEvent
+              </td>
+              </tr>
+              <tr>
+                <td>Expected Value</td>
+                <td>
+                  https://w3id.org/pathogen#disease
+              </td>
+              </tr>
+            </tbody>
+          </table>
+        </section>
+      </section>  
+
+      <section class="normative" id="PathogenTestRecipient">
+      <h3>Pathogen Test Recipient</h3>
+      
+      <p>
+        This document specifies the following terms for expressing
+        the details about the pathogen test recipient.
+      </p>
+      
+      <table class="simple">
+        <thead>
+          <tr>
+            <th>Term</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+                birthDate
+            </td>
+            <td>
+                The date on which the test recipient was born.
+            </td>
+          </tr>
+          <tr>
+            <td>
+                familyName
+            </td>
+            <td>
+                The name of the family with which the test recipient identifies.
+            </td>
+          </tr>
+          <tr>
+            <td>
+                givenName
+            </td>
+            <td>
+                The non-family name with which the test recipient identifies.
+            </td>
+          </tr>
+          <tr>
+            <td>
+                gender
+            </td>
+            <td>
+                The gender of the test recipient.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+
+      <section class="normative">
+        <h4>
+            Birth Date
+        </h4>
+
+        <p>
+            The date on which the test recipient was born.
+        </p>
+
+        <table class="simple">
+          <tbody>
+            <tr>
+              <td>Term</td>
+              <td>
+                  birthDate
+            </td>
+            </tr>
+            <tr>
+              <td>URL</td>
+              <td>
+                http://schema.org/birthDate
+            </td>
+            </tr>
+            <tr>
+              <td>Expected Value</td>
+              <td>
+                Datetime
+            </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <section class="normative">
+        <h4>
+            Family Name
+        </h4>
+
+        <p>
+            The date on which the test recipient was born.
+        </p>
+        <table class="simple">
+          <tbody>
+            <tr>
+              <td>Term</td>
+              <td>
+                  familyName
+            </td>
+            </tr>
+            <tr>
+              <td>URL</td>
+              <td>
+                http://schema.org/familyName
+            </td>
+            </tr>
+            <tr>
+              <td>Expected Value</td>
+              <td>
+                String
+            </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <section class="normative">
+        <h4>
+            Given Name
+        </h4>
+
+        <p>
+            The date on which the test recipient was born.
+        </p>
+        <table class="simple">
+          <tbody>
+            <tr>
+              <td>Term</td>
+              <td>
+                  givenName
+            </td>
+            </tr>
+            <tr>
+              <td>URL</td>
+              <td>
+                http://schema.org/givenName
+            </td>
+            </tr>
+            <tr>
+              <td>Expected Value</td>
+              <td>
+                String
+            </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+      <section class="normative">
+        <h4>
+            Gender
+        </h4>
+
+        <p>
+            The gender of the test recipient.
+        </p>
+        <table class="simple">
+          <tbody>
+            <tr>
+              <td>Term</td>
+              <td>
+                  gender
+            </td>
+            </tr>
+            <tr>
+              <td>URL</td>
+              <td>
+                http://schema.org/gender
+            </td>
+            </tr>
+            <tr>
+              <td>Expected Value</td>
+              <td>
+                String
+            </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </section>
+
+    <section class="normative" id="Disease">
+      <h3>Disease</h3>
+      
+      <p>
+        This document specifies the following terms for expressing
+        the details about the disease detected by the pathogen test
+      </p>
+      
+      <table class="simple">
+        <thead>
+          <tr>
+            <th>Term</th>
+            <th>Description</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>
+                disease
+            </td>
+            <td>
+                Disease or agent that the test administered is designed to detect infection of.
+            </td>
+          </tr>
+      </table>
+
+      <section class="normative">
+        <h4>
+            Disease
+        </h4>
+
+        <p>
+          Disease or agent that the test administered is designed to detect infection of.
+        </p>
+        <table class="simple">
+          <tbody>
+            <tr>
+              <td>Term</td>
+              <td>
+                  disease
+            </td>
+            </tr>
+            <tr>
+              <td>URL</td>
+              <td>
+                https://w3id.org/pathogen#disease
+            </td>
+            </tr>
+            <tr>
+              <td>Expected Value</td>
+              <td>
+                String
+            </td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+    </section>
+
+    
+    <section class="informative">
+      <h2>Privacy Considerations</h2>
+
+      <p>
+        This section details the general privacy considerations and specific
+        privacy implications of deploying this specification into production
+        environments.
+      </p>
+    </section>
+
+    <section class="informative">
+      <h2>Security Considerations</h2>
+
+      <p>
+        There are a number of security considerations that implementers should
+        be aware of when processing data described by this specification.
+        Ignoring or not understanding the implications of this section can
+        result in security vulnerabilities.
+      </p>
+
+      <p>
+        While this section attempts to highlight a broad set of security
+        considerations, it is not a complete list. Implementers are urged to
+        seek the advice of security and cryptography professionals when
+        implementing mission critical systems using the technology outlined in
+        this specification.
+      </p>
+    </section>
+
+    <section class="informative">
+      <h2>Accessibility Considerations</h2>
+
+      <p>
+        There are a number of accessibility considerations implementers should
+        be aware of when processing data described in this specification. As
+        with any web standards or protocols implementation, ignoring
+        accessibility issues makes this information unusable to a large subset
+        of the population. It is important to follow accessibility guidelines
+        and standards, such as [[WCAG21]], to ensure all people, regardless of
+        ability, can make use of this data. This is especially important when
+        establishing systems utilizing cryptography, which have historically
+        created problems for assistive technologies.
+      </p>
+
+      <p>
+        This section details the general accessibility considerations to take
+        into account when utilizing this data model.
+      </p>
+    </section>
+
+    <section class="informative">
+      <h2>Internationalization Considerations</h2>
+
+      <p>
+        There are a number of internationalization considerations implementers
+        should be aware of when publishing data described in this specification.
+        As with any web standards or protocols implementation, ignoring
+        internationalization makes it difficult for data to be produced and
+        consumed across a disparate set of languages and societies, which would
+        limit the applicability of the specification and significantly diminish
+        its value as a standard.
+      </p>
+
+      <p>
+        This section outlines general internationalization considerations to
+        take into account when utilizing this data model.
+      </p>
+    </section>
+  </body>
+</html>

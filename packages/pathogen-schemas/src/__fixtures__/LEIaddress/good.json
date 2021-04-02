@@ -1,0 +1,56 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "vi",
+    "addressLines": [
+      "Runolfsdottir, Satterfield and Connelly",
+      "847 Kuhic Estate"
+    ],
+    "addressNumber": "283",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "52756 Gerhold Point, 16849",
+    "city": "South Stephaniaville",
+    "region": "Cambridgeshire",
+    "country": "Botswana",
+    "postalCode": "26089-5185"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "en_IE",
+    "addressLines": [
+      "Reynolds, Metz and Fritsch",
+      "59844 Joshuah Junction"
+    ],
+    "addressNumber": "333",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "0319 Boehm Run, 67203",
+    "city": "Greenview",
+    "region": "Borders",
+    "country": "Morocco",
+    "postalCode": "97726"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "en_AU",
+    "addressLines": [
+      "Spinka - Bechtelar",
+      "36741 Herman Hollow"
+    ],
+    "addressNumber": "478",
+    "addressNumberWithinBuilding": "6",
+    "mailRouting": "447 Houston Rapids, 20807",
+    "city": "New Vivianburgh",
+    "region": "Berkshire",
+    "country": "Suriname",
+    "postalCode": "51330"
+  }
+]

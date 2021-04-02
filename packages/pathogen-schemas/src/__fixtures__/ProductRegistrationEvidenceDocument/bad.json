@@ -1,0 +1,52 @@
+[
+  {
+    "type": "ProductRegistrationEvidenceDocument",
+    "inProductGroupWithID": "Group499",
+    "gtin": "55415777363255",
+    "isAccessoryOrSparePartFor": "n/a",
+    "manufacturer": "Littel - Cummings",
+    "leiCode": "",
+    "color": "teal",
+    "height": "9.945 m",
+    "depth": "8.923 m",
+    "image": "http://placeimg.com/640/480",
+    "matrix": "quantify"
+  },
+  {
+    "releaseDate": "2020-01-07",
+    "globalLocationNumber": "8771927734604",
+    "color": "turquoise",
+    "bus": "synthesize",
+    "firewall": "hack",
+    "alarm": "copy"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "ProductRegistrationEvidenceDocument",
+    "inProductGroupWithID": "Group400",
+    "productID": "AQ7JYS0ZZ7",
+    "mpn": "OZT3A001QC",
+    "gtin": "83431045327521",
+    "isAccessoryOrSparePartFor": "n/a",
+    "releaseDate": "2020-01-07",
+    "manufacturer": "Robel - Bernhard",
+    "globalLocationNumber": "2285652593709",
+    "leiCode": "",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "model": "cecdacce-db91-4167-b146-a6014581ac9f",
+    "color": "magenta",
+    "material": "Steel",
+    "weight": "1.054 kg",
+    "height": "9.596 m",
+    "width": "1.908 m",
+    "depth": "5.703 m",
+    "url": "https://example.com/Generic Plastic Bacon",
+    "isBasedOn": "Refined Plastic Chicken",
+    "image": "http://placeimg.com/640/480",
+    "transmitter": "compress",
+    "feed": "connect",
+    "protocol": "synthesize"
+  }
+]

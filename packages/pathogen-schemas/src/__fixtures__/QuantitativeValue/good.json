@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "QuantitativeValue",
+    "unitCode": "",
+    "value": "4035"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "QuantitativeValue",
+    "unitCode": "",
+    "value": "9062"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "QuantitativeValue",
+    "unitCode": "",
+    "value": "9791"
+  }
+]

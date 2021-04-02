@@ -1,0 +1,27 @@
+[
+  {
+    "type": "LEIaddress",
+    "language": "vi",
+    "city": "South Stephaniaville",
+    "country": "Botswana",
+    "postalCode": "26089-5185",
+    "monitor": "override",
+    "bandwidth": "back up",
+    "panel": "hack",
+    "port": "reboot"
+  },
+  {
+    "type": "LEIaddress",
+    "language": "en_IE",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "0319 Boehm Run, 67203",
+    "sensor": "override",
+    "port": "back up",
+    "firewall": "compress"
+  },
+  {
+    "language": "en_AU",
+    "mailRouting": "447 Houston Rapids, 20807",
+    "hard drive": "parse"
+  }
+]

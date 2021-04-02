@@ -1,0 +1,47 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Organization",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "416 Phoebe Keys",
+      "addressLocality": "Cameronport",
+      "addressRegion": "Idaho",
+      "postalCode": "77706",
+      "addressCountry": "Morocco"
+    },
+    "phoneNumber": "555-724-6089",
+    "circuit": "quantify"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Person",
+    "firstName": "Joshuah",
+    "jobTitle": "Legacy Tactics Manager",
+    "idnumberType": "Passport",
+    "driver": "connect"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "description": "Operative zero tolerance collaboration",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "4140 Hettinger Unions",
+      "addressLocality": "McClureburgh",
+      "addressRegion": "New York",
+      "postalCode": "02651",
+      "addressCountry": "Virgin Islands, U.S."
+    },
+    "faxNumber": "555-233-6015",
+    "array": "override",
+    "sensor": "override",
+    "pixel": "back up",
+    "interface": "connect"
+  }
+]

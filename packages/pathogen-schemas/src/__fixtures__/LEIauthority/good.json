@@ -1,0 +1,29 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000002",
+    "otherValidationAuthorityID": "VRQNTRNQ",
+    "validationAuthorityEntityID": "OMUZ8WHN7OZ1XO11PLXZ"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000661",
+    "otherValidationAuthorityID": "A6X4YFXS",
+    "validationAuthorityEntityID": "HQV1UGBITN1NLD8K4H2V"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000005",
+    "otherValidationAuthorityID": "JJSNBQMI",
+    "validationAuthorityEntityID": "VFMV8F0GVZ00V6JDXXS2"
+  }
+]

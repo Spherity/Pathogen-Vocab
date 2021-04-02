@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "UPVNE0J7987OI0L3CSK6",
+    "certificateName": "US Legal Entity Certificate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "ZQLUTTYEXO57EABW30M3",
+    "certificateName": "US Legal Entity Certificate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "KNFPWWTMCC9TDDL19TMC",
+    "certificateName": "US Legal Entity Certificate"
+  }
+]

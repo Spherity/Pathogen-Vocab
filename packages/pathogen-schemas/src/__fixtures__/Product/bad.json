@@ -1,0 +1,113 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "manufacturer": {
+      "type": "Person",
+      "firstName": "Bo",
+      "lastName": "Metz",
+      "email": "Katherine.Rolfson40@example.com",
+      "phoneNumber": "555-432-1830",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Mitchell Group",
+        "description": "Public-key dedicated array",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "7489 Destin Radial",
+          "addressLocality": "Margretburgh",
+          "addressRegion": "Iowa",
+          "postalCode": "79987-0860",
+          "addressCountry": "Australia"
+        },
+        "email": "Geraldine_Schmidt@example.com",
+        "phoneNumber": "555-745-3318",
+        "faxNumber": "555-846-1535"
+      },
+      "jobTitle": "Senior Paradigm Director",
+      "idnumber": "TYKRQRQJXPPA",
+      "idnumberType": "National Identity Card",
+      "birthDate": "1985-11-23"
+    },
+    "name": "Unbranded Wooden Soap",
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "1397"
+    },
+    "sku": "873699861486",
+    "monitor": "reboot"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Pouros - Stark",
+      "description": "Managed foreground moratorium",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "180 Lemke Ridge",
+        "addressLocality": "South Jeanette",
+        "addressRegion": "California",
+        "postalCode": "30918-5234",
+        "addressCountry": "Reunion"
+      },
+      "email": "Dorthy86@example.org",
+      "phoneNumber": "555-835-6870",
+      "faxNumber": "555-160-8610"
+    },
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "7892"
+    },
+    "bandwidth": "copy",
+    "circuit": "quantify"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "manufacturer": {
+      "type": "Person",
+      "firstName": "Jacinthe",
+      "lastName": "Braun",
+      "email": "Catharine.Connelly22@example.net",
+      "phoneNumber": "555-989-6037",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Jast, Mertz and Hahn",
+        "description": "Configurable national solution",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "73653 Cummerata Mission",
+          "addressLocality": "New Brycen",
+          "addressRegion": "Arizona",
+          "postalCode": "73913-0563",
+          "addressCountry": "New Zealand"
+        },
+        "email": "Justine.Hickle58@example.com",
+        "phoneNumber": "555-106-4065",
+        "faxNumber": "555-447-1645"
+      },
+      "jobTitle": "Lead Metrics Analyst",
+      "idnumber": "NZDJCBFAYKKE",
+      "idnumberType": "Passport",
+      "birthDate": "1985-11-23"
+    },
+    "name": "Handmade Wooden Shoes",
+    "description": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "3139"
+    },
+    "array": "parse"
+  }
+]

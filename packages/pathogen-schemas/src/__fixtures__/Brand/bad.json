@@ -1,0 +1,22 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Brand",
+    "monitor": "transmit"
+  },
+  {
+    "url": "https://brand.example.com",
+    "bandwidth": "bypass"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "logo": "http://placeimg.com/640/480",
+    "panel": "synthesize",
+    "alarm": "back up",
+    "protocol": "parse"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Place",
+    "globalLocationNumber": "7868397373557",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "-16.5049",
+      "longitude": "55.1386"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Wehner, Turner and Swaniawski",
+      "streetAddress": "78706 O'Conner Turnpike",
+      "addressLocality": "Swiftfurt",
+      "addressRegion": "Alabama",
+      "postalCode": "11343-4283",
+      "addressCountry": "Malta"
+    }
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Place",
+    "globalLocationNumber": "4802935116209",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "-82.4356",
+      "longitude": "-28.2802"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Balistreri, VonRueden and Wisoky",
+      "streetAddress": "18729 Nicklaus Union",
+      "addressLocality": "Quinnfort",
+      "addressRegion": "Alabama",
+      "postalCode": "96753-6852",
+      "addressCountry": "New Caledonia"
+    }
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Place",
+    "globalLocationNumber": "6104536521894",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "-38.9109",
+      "longitude": "-71.5445"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Miller, Blanda and Gulgowski",
+      "streetAddress": "27750 Serena Centers",
+      "addressLocality": "Terryfurt",
+      "addressRegion": "Kentucky",
+      "postalCode": "38916-0528",
+      "addressCountry": "Serbia"
+    }
+  }
+]

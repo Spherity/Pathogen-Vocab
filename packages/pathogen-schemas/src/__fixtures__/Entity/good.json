@@ -1,0 +1,70 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Organization",
+    "name": "Miller and Sons",
+    "description": "Stand-alone client-server time-frame",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "416 Phoebe Keys",
+      "addressLocality": "Cameronport",
+      "addressRegion": "Idaho",
+      "postalCode": "77706",
+      "addressCountry": "Morocco"
+    },
+    "email": "Eveline40@example.net",
+    "phoneNumber": "555-724-6089",
+    "faxNumber": "555-588-7445"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Person",
+    "firstName": "Joshuah",
+    "lastName": "Farrell",
+    "email": "Lenora.Jacobi@example.com",
+    "phoneNumber": "555-882-3802",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Klein, Casper and Bruen",
+      "description": "Enterprise-wide zero defect challenge",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "07859 Terry Corners",
+        "addressLocality": "Patrickside",
+        "addressRegion": "Alaska",
+        "postalCode": "61753-6040",
+        "addressCountry": "Russian Federation"
+      },
+      "email": "Chyna_Casper33@example.net",
+      "phoneNumber": "555-193-9409",
+      "faxNumber": "555-856-9330"
+    },
+    "jobTitle": "Legacy Tactics Manager",
+    "idnumber": "UUAPICKKNWXX",
+    "idnumberType": "Passport",
+    "birthDate": "1985-11-23"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Organization",
+    "name": "Stoltenberg - Bogan",
+    "description": "Operative zero tolerance collaboration",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "4140 Hettinger Unions",
+      "addressLocality": "McClureburgh",
+      "addressRegion": "New York",
+      "postalCode": "02651",
+      "addressCountry": "Virgin Islands, U.S."
+    },
+    "email": "Elinor6@example.com",
+    "phoneNumber": "555-964-5130",
+    "faxNumber": "555-233-6015"
+  }
+]

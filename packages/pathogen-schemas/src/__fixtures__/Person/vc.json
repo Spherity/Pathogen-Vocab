@@ -1,0 +1,51 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Person",
+    "firstName": "Pierre",
+    "lastName": "Braun",
+    "email": "Madison.Klein38@example.com",
+    "phoneNumber": "555-451-5480",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Rolfson, Rutherford and Lynch",
+      "description": "Ameliorated intermediate application",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "77423 Casimir Forks",
+        "addressLocality": "Erniemouth",
+        "addressRegion": "Pennsylvania",
+        "postalCode": "50218-6818",
+        "addressCountry": "El Salvador"
+      },
+      "email": "Jamaal.Heathcote53@example.org",
+      "phoneNumber": "555-314-9519",
+      "faxNumber": "555-506-6041"
+    },
+    "jobTitle": "Direct Accounts Architect",
+    "idnumber": "ZFFENCHJUTPH",
+    "idnumberType": "National Identity Card",
+    "birthDate": "1985-11-23"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2019-12-11T03:50:55Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..YMsjoh8KDyWNHocZAe-2LCx0WZtCtS_uZImjkH6zmUGzSON1q7dQ5v9JF5cTjaJDTJe-R3yPeRm2s-lUMccmAQ",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:example:123#key-0"
+  }
+}

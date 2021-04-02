@@ -1,0 +1,58 @@
+[
+  {
+    "type": "MedicalTest",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "RFIOTTVQPERJ",
+    "bus": "copy"
+  },
+  {
+    "usesDevice": "FOSOBPMRPUPH",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Davis - Schimmel",
+      "description": "Innovative asynchronous Graphic Interface",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "133 Mireya Lock",
+        "addressLocality": "Torphyberg",
+        "addressRegion": "New Jersey",
+        "postalCode": "36406",
+        "addressCountry": "China"
+      },
+      "email": "Scottie_Kshlerin@example.com",
+      "phoneNumber": "555-102-1261",
+      "faxNumber": "555-657-2501"
+    },
+    "card": "input"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "affectedBy": [
+      "High Blood Pressure Medicines"
+    ],
+    "normalRange": [
+      "Any Person"
+    ],
+    "usesDevice": "APVPHSNYHUYB",
+    "medicineSystem": "evidence-based",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Rogahn, Hoppe and Robel",
+      "description": "Organized value-added matrices",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "2058 Zoie Rue",
+        "addressLocality": "Torranceburgh",
+        "addressRegion": "North Carolina",
+        "postalCode": "46647",
+        "addressCountry": "China"
+      },
+      "email": "Christina_Mann@example.org",
+      "phoneNumber": "555-206-7173",
+      "faxNumber": "555-468-9920"
+    },
+    "protocol": "input"
+  }
+]

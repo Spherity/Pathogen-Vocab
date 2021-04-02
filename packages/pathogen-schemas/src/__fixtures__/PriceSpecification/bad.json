@@ -1,0 +1,21 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "priceCurrency": "THB",
+    "system": "quantify",
+    "program": "generate",
+    "interface": "copy",
+    "protocol": "reboot"
+  },
+  {
+    "firewall": "navigate"
+  },
+  {
+    "price": 5079,
+    "feed": "back up",
+    "matrix": "connect",
+    "panel": "reboot"
+  }
+]

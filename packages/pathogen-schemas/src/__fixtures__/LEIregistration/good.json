@@ -1,0 +1,62 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIregistration",
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "REQUESTED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "CTZNLRBBACTSRBUBCAAY",
+    "validationSources": "PARTIALLY_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000005",
+        "otherValidationAuthorityID": "XOTF29AU",
+        "validationAuthorityEntityID": "X19WSGTMHNDWGM8MW2GI"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIregistration",
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "REJECTED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "YNMBXZIUDHMZCPMPXTNV",
+    "validationSources": "PARTIALLY_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000001",
+        "otherValidationAuthorityID": "JNTR29F0",
+        "validationAuthorityEntityID": "22IYWASR8MZDO7049M9R"
+      }
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIregistration",
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "REQUESTED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "LZVTSOUERBEIOTZHYOBS",
+    "validationSources": "FULLY_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000661",
+        "otherValidationAuthorityID": "FDM5X98X",
+        "validationAuthorityEntityID": "4O7HV0NZAOTBVVU9XJ9M"
+      }
+    ]
+  }
+]

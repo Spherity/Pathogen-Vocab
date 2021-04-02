@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "GeoCoordinates",
+    "latitude": "60.5817",
+    "longitude": "23.3428"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "GeoCoordinates",
+    "latitude": "-17.8627",
+    "longitude": "-1.0757"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "GeoCoordinates",
+    "latitude": "-76.4094",
+    "longitude": "160.6016"
+  }
+]

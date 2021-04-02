@@ -1,0 +1,107 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "MedicalTest",
+    "affectedBy": [
+      "Antibiotics"
+    ],
+    "normalRange": [
+      "Any Person"
+    ],
+    "signDetected": "Negative",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "RFIOTTVQPERJ",
+    "code": "JUOONAWT",
+    "legalStatus": "In Trial",
+    "medicineSystem": "evidence-based",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Lynch - Altenwerth",
+      "description": "Sharable content-based portal",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "7457 Joey Path",
+        "addressLocality": "Eliland",
+        "addressRegion": "New Hampshire",
+        "postalCode": "60856",
+        "addressCountry": "Tanzania"
+      },
+      "email": "Shanna9@example.net",
+      "phoneNumber": "555-785-4904",
+      "faxNumber": "555-244-2447"
+    },
+    "relevantSpecialty": "Other"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "MedicalTest",
+    "affectedBy": [
+      "Birthcontrol"
+    ],
+    "normalRange": [
+      "Any Person"
+    ],
+    "signDetected": "Positive",
+    "usedToDiagnose": "Covid19 SA Variant",
+    "usesDevice": "FOSOBPMRPUPH",
+    "code": "AVIMQCDB",
+    "legalStatus": "Preliminary Approval",
+    "medicineSystem": "evidence-based",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Davis - Schimmel",
+      "description": "Innovative asynchronous Graphic Interface",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "133 Mireya Lock",
+        "addressLocality": "Torphyberg",
+        "addressRegion": "New Jersey",
+        "postalCode": "36406",
+        "addressCountry": "China"
+      },
+      "email": "Scottie_Kshlerin@example.com",
+      "phoneNumber": "555-102-1261",
+      "faxNumber": "555-657-2501"
+    },
+    "relevantSpecialty": "Other"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "MedicalTest",
+    "affectedBy": [
+      "High Blood Pressure Medicines"
+    ],
+    "normalRange": [
+      "Any Person"
+    ],
+    "signDetected": "Positive",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "APVPHSNYHUYB",
+    "code": "GWLFWJVM",
+    "legalStatus": "Approved",
+    "medicineSystem": "evidence-based",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Rogahn, Hoppe and Robel",
+      "description": "Organized value-added matrices",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "2058 Zoie Rue",
+        "addressLocality": "Torranceburgh",
+        "addressRegion": "North Carolina",
+        "postalCode": "46647",
+        "addressCountry": "China"
+      },
+      "email": "Christina_Mann@example.org",
+      "phoneNumber": "555-206-7173",
+      "faxNumber": "555-468-9920"
+    },
+    "relevantSpecialty": "Other"
+  }
+]

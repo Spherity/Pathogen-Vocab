@@ -1,24 +1,24 @@
 {
-  "name": "pathogen-vocab-context",
-  "version": "0.1.0",
-  "description": "Pathogen Test Vocabulary Context Tester",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/w3c-ccg/pathogen-vocab.git"
-  },
-  "bugs": {
-    "url": "https://github.com/w3c-ccg/pathogen-vocab/issues"
-  },
-  "homepage": "https://github.com/w3c-ccg/pathogen-vocab#readme",
+  "name": "root",
+  "private": true,
   "scripts": {
-    "generateExamples": "node src/generateExamples.js"
+    "postinstall": "lerna bootstrap",
+    "clean:lock": "npx lerna exec 'rm -rf package-lock.json node_modules'",
+    "install:clean": "npx lerna clean -y && rm -rf node_modules && npm i",
+    "install:ci": "npm install --ignore-scripts && lerna link && lerna bootstrap --since origin/main --include-dependencies",
+    "lint": "lerna run lint --stream",
+    "test:schemas": "lerna run test:schemas --stream",
+    "test:credentials": "lerna run test:credentials --stream",
+    "build:all": "lerna run build:all --stream"
+  },
+  "devDependencies": {
+    "eslint": "^7.11.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jest": "^24.1.0",
+    "lerna": "^3.22.1"
   },
   "dependencies": {
-    "@mattrglobal/jsonld-signatures-bbs": "0.8.0",
-    "@transmute/did-key-bls12381": "0.2.1-unstable.35",
-    "@transmute/did-key-ed25519": "0.2.1-unstable.35",
-    "@transmute/did-key.js": "0.2.1-unstable.35",
-    "require-all": "3.0.0",
-    "vc-js": "0.6.4"
+    "@mattrglobal/bbs-signatures": "^0.5.0"
   }
 }

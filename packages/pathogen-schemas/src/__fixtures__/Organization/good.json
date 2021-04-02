@@ -1,0 +1,59 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Organization",
+    "name": "Ullrich Group",
+    "description": "Ergonomic zero administration definition",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "707 Fahey Causeway",
+      "addressLocality": "Brendanland",
+      "addressRegion": "Maryland",
+      "postalCode": "96490-0200",
+      "addressCountry": "Falkland Islands (Malvinas)"
+    },
+    "email": "Noble_Keebler@example.com",
+    "phoneNumber": "555-132-3355",
+    "faxNumber": "555-348-3222"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Organization",
+    "name": "Kunde, Wunsch and Wuckert",
+    "description": "Exclusive bifurcated monitoring",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "3473 Dasia Club",
+      "addressLocality": "Lake Malcolmmouth",
+      "addressRegion": "Wisconsin",
+      "postalCode": "58930",
+      "addressCountry": "South Africa"
+    },
+    "email": "Clotilde.Dicki@example.net",
+    "phoneNumber": "555-476-8089",
+    "faxNumber": "555-334-6619"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Organization",
+    "name": "Cummerata - Connelly",
+    "description": "User-centric multi-tasking solution",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "555 Farrell Wall",
+      "addressLocality": "Jakubowskichester",
+      "addressRegion": "Nevada",
+      "postalCode": "77556",
+      "addressCountry": "Belarus"
+    },
+    "email": "Marcella_Boyle@example.org",
+    "phoneNumber": "555-303-5124",
+    "faxNumber": "555-862-5362"
+  }
+]

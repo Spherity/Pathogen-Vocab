@@ -1,0 +1,91 @@
+{
+  "$id": "https://w3id.org/pathogen/schemas/MedicalTest.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$comment": "{\"term\": \"MedicalTest\", \"@id\": \"https://schema.org/MedicalTest\"}",
+  "title": "Medical Test",
+  "description": "A Medical Test",
+  "type": "object",
+  "properties": {
+    "@context": {
+      "type": "array"
+    },
+    "type": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "array"
+        }
+      ]
+    },
+    "affectedBy": {
+      "$comment": "{\"term\": \"affectedBy\", \"@id\": \"https://schema.org/affectedBy\"}",
+      "title": "affectedBy",
+      "description": "Drugs that affect the test's results.",
+      "type": "array"
+    },
+    "normalRange": {
+      "$comment": "{\"term\": \"normalRange\", \"@id\": \"https://schema.org/normalRange\"}",
+      "title": "normalRange",
+      "description": "Range of acceptable values for a typical patient, when applicable.",
+      "type": "array"
+    },
+    "signDetected": {
+      "$comment": "{\"term\": \"signDetected\", \"@id\": \"https://schema.org/MedicalSign\"}",
+      "title": "signDetected",
+      "description": "A sign detected by the test.",
+      "type": "string"
+    },
+    "usedToDiagnose": {
+      "$comment": "{\"term\": \"usedToDiagnose\", \"@id\": \"https://schema.org/MedicalCondition\"}",
+      "title": "usedToDiagnose",
+      "description": "A condition the test is used to diagnose.",
+      "type": "string"
+    },
+    "usesDevice": {
+      "$comment": "{\"term\": \"usesDevice\", \"@id\": \"https://schema.org/usesDevice\"}",
+      "title": "usesDevice",
+      "description": "Device used to perform the test.",
+      "type": "string"
+    },
+    "code": {
+      "$comment": "{\"term\": \"code\", \"@id\": \"https://schema.org/code\"}",
+      "title": "code",
+      "description": "A medical code for the entity, taken from a controlled vocabulary or ontology such as ICD-9, DiseasesDB, MeSH, SNOMED-CT, RxNorm, etc.",
+      "type": "string"
+    },
+    "guideline": {
+        "$comment": "{\"term\": \"guideline\", \"@id\": \"https://schema.org/guideline\"}",
+        "title": "guideline",
+        "description": "A medical guideline related to this entity.",
+        "type": "string"
+      },
+    "legalStatus": {
+        "$comment": "{\"term\": \"legalStatus\", \"@id\": \"https://schema.org/legalStatus\"}",
+        "title": "legalStatus",
+        "description": "The drug or supplement's legal status, including any controlled substance schedules that apply.",
+        "type": "string"
+    },
+    "medicineSystem": {
+        "$comment": "{\"term\": \"medicineSystem\", \"@id\": \"https://schema.org/medicineSystem\"}",
+        "title": "medicineSystem",
+        "description": "The system of medicine that includes this MedicalEntity, for example 'evidence-based', 'homeopathic', 'chiropractic', etc.",
+        "type": "string"
+    },
+    "recognizingAuthority": {
+      "$comment": "{\"term\": \"recognizingAuthority\", \"@id\": \"https://schema.org/Organization\"}",
+      "title": "recognizingAuthority",
+      "description": "the organization that officially recognizes this entity as part of its endorsed system of medicine.",
+      "$ref": "https://w3id.org/pathogen/schemas/Organization.json"
+    },
+    "relevantSpecialty": {
+      "$comment": "{\"term\": \"relevantSpecialty\", \"@id\": \"https://schema.org/relevantSpecialty\"}",
+      "title": "relevantSpecialty",
+      "description": "a medical specialty in which this entity is relevant.",
+      "type": "string"
+    }
+  },
+  "additionalProperties": false,
+  "examples": []
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "ccChargesDestinationCurrency": "NGN",
+    "alarm": "synthesize"
+  },
+  {
+    "ccChargesDestinationCurrency": "LKR",
+    "monitor": "compress",
+    "interface": "connect",
+    "panel": "copy",
+    "circuit": "hack"
+  },
+  {
+    "currencyConversionRate": 2,
+    "chargesDestination": 63,
+    "port": "quantify",
+    "feed": "reboot",
+    "protocol": "quantify"
+  }
+]

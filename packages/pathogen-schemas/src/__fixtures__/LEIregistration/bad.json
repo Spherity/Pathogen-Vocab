@@ -1,0 +1,42 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "managingLou": "CTZNLRBBACTSRBUBCAAY",
+    "capacitor": "calculate",
+    "application": "override",
+    "array": "override",
+    "interface": "bypass"
+  },
+  {
+    "status": "REJECTED",
+    "managingLou": "YNMBXZIUDHMZCPMPXTNV",
+    "validationSources": "PARTIALLY_CORROBORATED",
+    "program": "bypass",
+    "array": "navigate",
+    "system": "generate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "initialRegistrationDate": "2020-01-01",
+    "lastUpdateDate": "2020-01-01",
+    "status": "REQUESTED",
+    "nextRenewalDate": "2021-02-02",
+    "managingLou": "LZVTSOUERBEIOTZHYOBS",
+    "validationSources": "FULLY_CORROBORATED",
+    "validationAuthority": [
+      {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000661",
+        "otherValidationAuthorityID": "FDM5X98X",
+        "validationAuthorityEntityID": "4O7HV0NZAOTBVVU9XJ9M"
+      }
+    ],
+    "monitor": "bypass",
+    "transmitter": "parse",
+    "program": "connect"
+  }
+]

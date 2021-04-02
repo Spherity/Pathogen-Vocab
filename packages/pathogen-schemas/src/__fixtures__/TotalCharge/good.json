@@ -1,0 +1,44 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 928.5,
+    "totalCollect": 309.5,
+    "sourceCurrency": "NGN",
+    "destinationCurrency": "RON",
+    "currencyConversionRate": 5,
+    "ccChargesDestinationCurrency": "NGN",
+    "chargesDestination": 196,
+    "totalCollectCharge": 49
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 3477.75,
+    "totalCollect": 1159.25,
+    "sourceCurrency": "LKR",
+    "destinationCurrency": "CZK",
+    "currencyConversionRate": 2,
+    "ccChargesDestinationCurrency": "LKR",
+    "chargesDestination": 717,
+    "totalCollectCharge": 179.25
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 5415,
+    "totalCollect": 1805,
+    "sourceCurrency": "SOS",
+    "destinationCurrency": "MYR",
+    "currencyConversionRate": 2,
+    "ccChargesDestinationCurrency": "SOS",
+    "chargesDestination": 63,
+    "totalCollectCharge": 15.75
+  }
+]

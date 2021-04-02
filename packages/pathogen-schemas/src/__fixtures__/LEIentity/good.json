@@ -1,0 +1,209 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Feest, McKenzie and Bauch",
+    "legalNameLanguage": "de_CH",
+    "otherNames": [
+      "Hermann - Gulgowski",
+      "Stehr and Sons"
+    ],
+    "transliteratedOtherNames": [
+      "Hermann - Gulgowski",
+      "Stehr and Sons"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "az",
+      "addressLines": [
+        "Yundt, Bayer and Keebler",
+        "29977 McKenzie Forks"
+      ],
+      "addressNumber": "196",
+      "addressNumberWithinBuilding": "7",
+      "mailRouting": "9889 Turner Pines, 91790-2498",
+      "city": "Darianstad",
+      "region": "Berkshire",
+      "country": "Bosnia and Herzegovina",
+      "postalCode": "51201-3201"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "zh_CN",
+      "addressLines": [
+        "Shanahan, Heller and Schmidt",
+        "595 Chadrick Well"
+      ],
+      "addressNumber": "485",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "35746 Treutel Wells, 42627-5058",
+      "city": "Ryleyton",
+      "region": "Borders",
+      "country": "Azerbaijan",
+      "postalCode": "83221"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000001",
+      "otherValidationAuthorityID": "HV1YUV1T",
+      "validationAuthorityEntityID": "BNXJQ3AE9D09PQ1HJ2Y7"
+    },
+    "legalJurisdiction": "Bedfordshire",
+    "entityCategory": "Jewelery",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "E1HHMKV9ZER3FCFIQQ80",
+      "name": "Zboncak Group"
+    },
+    "status": "REQUESTED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "target visionary supply-chains",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "ILWTKCNOJKV9QVISVN8U",
+      "name": "Stroman Inc"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Schuppe - Satterfield",
+    "legalNameLanguage": "hr",
+    "otherNames": [
+      "Buckridge - Gerlach",
+      "Nader - Altenwerth"
+    ],
+    "transliteratedOtherNames": [
+      "Buckridge - Gerlach",
+      "Nader - Altenwerth"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "de_AT",
+      "addressLines": [
+        "Rowe Inc",
+        "3619 Schamberger Shore"
+      ],
+      "addressNumber": "482",
+      "addressNumberWithinBuilding": "9",
+      "mailRouting": "167 Elise Circle, 77075",
+      "city": "West Anderson",
+      "region": "Berkshire",
+      "country": "Mali",
+      "postalCode": "00889-9694"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "pl",
+      "addressLines": [
+        "Christiansen - Mertz",
+        "83348 Paucek Springs"
+      ],
+      "addressNumber": "13",
+      "addressNumberWithinBuilding": "1",
+      "mailRouting": "41249 Brakus Village, 81578",
+      "city": "Eliasberg",
+      "region": "Berkshire",
+      "country": "Saint Martin",
+      "postalCode": "07626-1289"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000661",
+      "otherValidationAuthorityID": "Y51FQXWF",
+      "validationAuthorityEntityID": "UMYER9FZBEBWQ8Q771VN"
+    },
+    "legalJurisdiction": "Avon",
+    "entityCategory": "Industrial",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "TC8QW50TKTRI906A3MBZ",
+      "name": "Kozey, Kozey and Littel"
+    },
+    "status": "IN PROGRESS",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "orchestrate mission-critical eyeballs",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "V3R5RGUJR0MS4A1WXYM6",
+      "name": "Koepp, Kshlerin and Abbott"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Wilderman, Satterfield and Upton",
+    "legalNameLanguage": "zh_CN",
+    "otherNames": [
+      "Reichert - Greenfelder",
+      "Powlowski - Rosenbaum"
+    ],
+    "transliteratedOtherNames": [
+      "Reichert - Greenfelder",
+      "Powlowski - Rosenbaum"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "nl_BE",
+      "addressLines": [
+        "Rohan - Braun",
+        "1044 Prosacco Plains"
+      ],
+      "addressNumber": "52",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "5709 Larson Heights, 08300-8033",
+      "city": "North Wilbert",
+      "region": "Bedfordshire",
+      "country": "Cambodia",
+      "postalCode": "26688-2016"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "de_AT",
+      "addressLines": [
+        "Nienow, Casper and Quigley",
+        "0652 Sasha Road"
+      ],
+      "addressNumber": "298",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "768 Moore Spurs, 40685-5587",
+      "city": "South Luella",
+      "region": "Avon",
+      "country": "Tokelau",
+      "postalCode": "51740"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000002",
+      "otherValidationAuthorityID": "Q2L8N5HV",
+      "validationAuthorityEntityID": "M7BZGCQ6VSFN1H5J0PN8"
+    },
+    "legalJurisdiction": "Avon",
+    "entityCategory": "Finance",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "52NKB9LSFBZG50G2OEEH",
+      "name": "Kunde, O'Conner and Bode"
+    },
+    "status": "REQUESTED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "synergize cross-platform eyeballs",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "2F179UG6VYQEQUFMCQDR",
+      "name": "Labadie, Batz and Littel"
+    },
+    "otherAddresses": []
+  }
+]

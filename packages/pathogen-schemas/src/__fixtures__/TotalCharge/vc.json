@@ -1,0 +1,35 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 928.5,
+    "totalCollect": 309.5,
+    "sourceCurrency": "NGN",
+    "destinationCurrency": "RON",
+    "currencyConversionRate": 5,
+    "ccChargesDestinationCurrency": "NGN",
+    "chargesDestination": 196,
+    "totalCollectCharge": 49
+  },
+  "evidence": [],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2019-12-11T03:50:55Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..7kaeX4qxwBLeGoejaJ3OFVPdjf5yOqsBuJto9pl1otM7R75R_qL6HJLMzVdqBCTZzCovEo8Ms1HoDHbLJJRLDQ",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:example:123#key-0"
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "StandardCovidTestPassMinimal",
+    "testType": "Antigen Test",
+    "testedPerson": {
+      "type": "Person",
+      "idnumber": "OZXWAVZGMESR",
+      "idnumberType": "National Identity Card"
+    },
+    "testResult": "Negative"
+  },
+  "evidence": [
+    {
+      "type": [
+        "DocumentVerificationEvidence"
+      ],
+      "id": "https://example.acme.com/evidence/?queryID=0xFd5FEB812fFa20bEBDcBCD63dC11e96A7A1D59c14fAbEAF9c55D006Ac9DEac3B",
+      "verifier": [
+        "did:web:www.acme.com"
+      ],
+      "evidenceDocument": "ACME-Evidence-Dcoument-0x2b440EbE-2-4-2021",
+      "subjectPresence": "InPerson",
+      "documentPresence": "Digital"
+    }
+  ],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2019-12-11T03:50:55Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..TfkwKb1ECgwjwLlbTb_7EPTB-O6-M1b_OqI4-uz_UkjjtxphVeW12l8kW43WDk_JaWwVxZKmyFTSBPUVlQjAAw",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:example:123#key-0"
+  }
+}

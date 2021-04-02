@@ -1,0 +1,25 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "testResult": "Negative",
+    "bus": "input",
+    "microchip": "override"
+  },
+  {
+    "panel": "transmit",
+    "transmitter": "input",
+    "microchip": "transmit"
+  },
+  {
+    "testedPerson": {
+      "type": "Person",
+      "idnumber": "WQMNTXOUZDTI",
+      "idnumberType": "National Identity Card"
+    },
+    "application": "connect",
+    "circuit": "input",
+    "array": "bypass"
+  }
+]

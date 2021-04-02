@@ -1,0 +1,38 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Bergnaum - Funk",
+    "streetAddress": "254 Aurelia Courts",
+    "addressLocality": "Tabithatown",
+    "addressRegion": "North Dakota",
+    "postalCode": "80895-0564",
+    "addressCountry": "Belgium"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Murray, Kilback and McLaughlin",
+    "streetAddress": "762 Brendon Ranch",
+    "addressLocality": "East Gerardomouth",
+    "addressRegion": "Missouri",
+    "postalCode": "62926-4795",
+    "addressCountry": "Estonia"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Upton Inc",
+    "streetAddress": "24943 Mueller Mall",
+    "addressLocality": "South Leonieview",
+    "addressRegion": "Iowa",
+    "postalCode": "25550",
+    "addressCountry": "Swaziland"
+  }
+]

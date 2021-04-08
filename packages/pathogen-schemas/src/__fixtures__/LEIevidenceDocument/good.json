@@ -4,271 +4,172 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIevidenceDocument",
-    "lei": "4RPEWL6M8DYI6EU2HF83",
+    "lei": "8L7JM89EML2H5Z94LPOE",
     "entity": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "LEIentity",
-      "legalName": "Kling Inc",
-      "legalNameLanguage": "en_US",
+      "legalName": "Hilll Inc",
+      "legalNameLanguage": "en_IE",
       "otherNames": [
-        "Rutherford - Miller",
-        "Hyatt Group"
+        "Oberbrunner Group",
+        "Dicki - Jacobs"
       ],
       "transliteratedOtherNames": [
-        "Rutherford - Miller",
-        "Hyatt Group"
+        "Oberbrunner Group",
+        "Dicki - Jacobs"
       ],
       "legalAddress": {
         "type": "LEIaddress",
-        "language": "sv",
+        "language": "es",
         "addressLines": [
-          "Kihn Inc",
-          "814 McKenzie Locks"
+          "Bernhard - Kihn",
+          "026 Thompson Mountains"
         ],
-        "addressNumber": "225",
-        "addressNumberWithinBuilding": "4",
-        "mailRouting": "9721 Hoeger Island, 67365",
-        "city": "Lake Rosalind",
-        "region": "Borders",
-        "country": "Gibraltar",
-        "postalCode": "84588-5251"
-      },
-      "headquartersAddress": {
-        "type": "LEIaddress",
-        "language": "ar",
-        "addressLines": [
-          "Yost Inc",
-          "06124 Ashton Estate"
-        ],
-        "addressNumber": "116",
-        "addressNumberWithinBuilding": "10",
-        "mailRouting": "15506 Yost Curve, 96009",
-        "city": "New Wava",
-        "region": "Borders",
-        "country": "British Indian Ocean Territory (Chagos Archipelago)",
-        "postalCode": "54255-4365"
-      },
-      "registrationAuthority": {
-        "type": "LEIauthority",
-        "validationAuthorityID": "RA000005",
-        "otherValidationAuthorityID": "5414B5PX",
-        "validationAuthorityEntityID": "7QO5Y63QO5F8VY69ONUZ"
-      },
-      "legalJurisdiction": "Bedfordshire",
-      "entityCategory": "Industrial",
-      "legalForm": "LLC",
-      "associatedEntity": {
-        "type": "Organization",
-        "leiCode": "VEGLIKCNL35NEBYE9UN0",
-        "name": "Kuphal Inc"
-      },
-      "status": "REJECTED",
-      "expirationDate": "2022-07-11",
-      "expirationReason": "revolutionize user-centric metrics",
-      "successorEntity": {
-        "type": "Organization",
-        "leiCode": "KR14XSOXOL7XNTEONK3C",
-        "name": "Cronin - Zulauf"
-      },
-      "otherAddresses": []
-    },
-    "registration": {
-      "@context": [
-        "https://w3id.org/pathogen/v1"
-      ],
-      "type": "LEIregistration",
-      "initialRegistrationDate": "2020-01-01",
-      "lastUpdateDate": "2020-01-01",
-      "status": "CONFIRMED",
-      "nextRenewalDate": "2021-02-02",
-      "managingLou": "WVJDHOQAIIQJPKOSJKOL",
-      "validationSources": "PARTIALLY_CORROBORATED",
-      "validationAuthority": [
-        {
-          "type": "LEIauthority",
-          "validationAuthorityID": "RA000002",
-          "otherValidationAuthorityID": "L1BZVEZV",
-          "validationAuthorityEntityID": "RS3KAQ3VNERBXOFTWRVS"
-        }
-      ]
-    },
-    "bic": [
-      "GOJLDEQVTG"
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIevidenceDocument",
-    "lei": "VYIUHW0TC3D5EIK8JHLE",
-    "entity": {
-      "@context": [
-        "https://w3id.org/pathogen/v1"
-      ],
-      "type": "LEIentity",
-      "legalName": "Cummerata and Sons",
-      "legalNameLanguage": "uk",
-      "otherNames": [
-        "Beier - Donnelly",
-        "Kris, Herman and Dietrich"
-      ],
-      "transliteratedOtherNames": [
-        "Beier - Donnelly",
-        "Kris, Herman and Dietrich"
-      ],
-      "legalAddress": {
-        "type": "LEIaddress",
-        "language": "en_GB",
-        "addressLines": [
-          "Graham - Ortiz",
-          "5306 Greg Roads"
-        ],
-        "addressNumber": "402",
-        "addressNumberWithinBuilding": "6",
-        "mailRouting": "94815 Parker Estate, 17517-2175",
-        "city": "East Terrellshire",
-        "region": "Cambridgeshire",
-        "country": "French Southern Territories",
-        "postalCode": "40885"
-      },
-      "headquartersAddress": {
-        "type": "LEIaddress",
-        "language": "es_MX",
-        "addressLines": [
-          "Legros LLC",
-          "8585 Courtney Flats"
-        ],
-        "addressNumber": "2",
+        "addressNumber": "34",
         "addressNumberWithinBuilding": "7",
-        "mailRouting": "6143 Stella Street, 35227-3278",
-        "city": "Kassulkefurt",
-        "region": "Cambridgeshire",
-        "country": "Botswana",
-        "postalCode": "80761-4451"
-      },
-      "registrationAuthority": {
-        "type": "LEIauthority",
-        "validationAuthorityID": "RA000001",
-        "otherValidationAuthorityID": "68QVVH7J",
-        "validationAuthorityEntityID": "360BN8L7JM89EML2H5Z9"
-      },
-      "legalJurisdiction": "Borders",
-      "entityCategory": "Jewelery",
-      "legalForm": "LLC",
-      "associatedEntity": {
-        "type": "Organization",
-        "leiCode": "RJTQPPYI0T7F0WN2WY8N",
-        "name": "Jakubowski, Kihn and Keebler"
-      },
-      "status": "CONFIRMED",
-      "expirationDate": "2022-07-11",
-      "expirationReason": "innovate bricks-and-clicks models",
-      "successorEntity": {
-        "type": "Organization",
-        "leiCode": "0ZC4T3LQCKW9R293NWL6",
-        "name": "Hand - Hilll"
-      },
-      "otherAddresses": []
-    },
-    "registration": {
-      "@context": [
-        "https://w3id.org/pathogen/v1"
-      ],
-      "type": "LEIregistration",
-      "initialRegistrationDate": "2020-01-01",
-      "lastUpdateDate": "2020-01-01",
-      "status": "CONFIRMED",
-      "nextRenewalDate": "2021-02-02",
-      "managingLou": "RJOZSLMIBPOCYZEQRTFE",
-      "validationSources": "PARTIALLY_CORROBORATED",
-      "validationAuthority": [
-        {
-          "type": "LEIauthority",
-          "validationAuthorityID": "RA000005",
-          "otherValidationAuthorityID": "8CCM2FIT",
-          "validationAuthorityEntityID": "2OS28NJ9VLNOJ8BGB6O1"
-        }
-      ]
-    },
-    "bic": [
-      "KCKLSNMNJO"
-    ]
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIevidenceDocument",
-    "lei": "RJ8UOI3M93SRV4LTIS5P",
-    "entity": {
-      "@context": [
-        "https://w3id.org/pathogen/v1"
-      ],
-      "type": "LEIentity",
-      "legalName": "Marvin - Zemlak",
-      "legalNameLanguage": "vi",
-      "otherNames": [
-        "Swift - Larkin",
-        "VonRueden Group"
-      ],
-      "transliteratedOtherNames": [
-        "Swift - Larkin",
-        "VonRueden Group"
-      ],
-      "legalAddress": {
-        "type": "LEIaddress",
-        "language": "sk",
-        "addressLines": [
-          "Durgan - Kuvalis",
-          "636 Sanford Trail"
-        ],
-        "addressNumber": "59",
-        "addressNumberWithinBuilding": "6",
-        "mailRouting": "817 Schuppe Ferry, 34011",
-        "city": "Damonborough",
-        "region": "Berkshire",
-        "country": "Ukraine",
-        "postalCode": "95698-5148"
+        "mailRouting": "6652 Hartmann Haven, 60936",
+        "city": "South Zelda",
+        "region": "Buckinghamshire",
+        "country": "Macao",
+        "postalCode": "44305-5099"
       },
       "headquartersAddress": {
         "type": "LEIaddress",
-        "language": "en_US",
+        "language": "en_AU_ocker",
         "addressLines": [
-          "Moen, Kuhlman and Conn",
-          "35938 Fredy Crossroad"
+          "Pollich - Roob",
+          "44870 O'Reilly Inlet"
         ],
-        "addressNumber": "383",
-        "addressNumberWithinBuilding": "9",
-        "mailRouting": "04051 Arlie Ford, 79145-3958",
-        "city": "East Benedict",
-        "region": "Cambridgeshire",
-        "country": "Mozambique",
-        "postalCode": "60206-6631"
+        "addressNumber": "268",
+        "addressNumberWithinBuilding": "5",
+        "mailRouting": "749 Carter Junction, 91097",
+        "city": "Runtemouth",
+        "region": "Bedfordshire",
+        "country": "Cook Islands",
+        "postalCode": "86506"
       },
       "registrationAuthority": {
         "type": "LEIauthority",
         "validationAuthorityID": "RA000661",
-        "otherValidationAuthorityID": "D2KS6G72",
-        "validationAuthorityEntityID": "HZR2MPAZF86524SA936O"
+        "otherValidationAuthorityID": "93SRV4LT",
+        "validationAuthorityEntityID": "IS5P214A89CCD3CX8JIA"
       },
-      "legalJurisdiction": "Borders",
+      "legalJurisdiction": "Berkshire",
+      "entityCategory": "Industrial",
+      "legalForm": "CORPORATION",
+      "associatedEntity": {
+        "type": "Organization",
+        "leiCode": "FFGPQO0ZC4T3LQCKW9R2",
+        "name": "Weissnat - Mills"
+      },
+      "status": "IN PROGRESS",
+      "expirationDate": "2022-07-11",
+      "expirationReason": "syndicate strategic experiences",
+      "successorEntity": {
+        "type": "Organization",
+        "leiCode": "SHKZKUE7IXE4JTMDOVJV",
+        "name": "Schoen, Connelly and Schamberger"
+      },
+      "otherAddresses": []
+    },
+    "registration": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "LEIregistration",
+      "initialRegistrationDate": "2020-01-01",
+      "lastUpdateDate": "2020-01-01",
+      "status": "IN PROGRESS",
+      "nextRenewalDate": "2021-02-02",
+      "managingLou": "VEINYKVDRJDBMANDGZCO",
+      "validationSources": "NOT_CORROBORATED",
+      "validationAuthority": [
+        {
+          "type": "LEIauthority",
+          "validationAuthorityID": "RA000005",
+          "otherValidationAuthorityID": "7AT2BE06",
+          "validationAuthorityEntityID": "5P8CYZKNXTK4HVBXLH5L"
+        }
+      ]
+    },
+    "bic": [
+      "ZDLPGDEAIQ"
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIevidenceDocument",
+    "lei": "KS6G72HZR2MPAZF86524",
+    "entity": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "LEIentity",
+      "legalName": "Kirlin - O'Keefe",
+      "legalNameLanguage": "nb_NO",
+      "otherNames": [
+        "Stanton - Kautzer",
+        "Christiansen, Schiller and Torphy"
+      ],
+      "transliteratedOtherNames": [
+        "Stanton - Kautzer",
+        "Christiansen, Schiller and Torphy"
+      ],
+      "legalAddress": {
+        "type": "LEIaddress",
+        "language": "es",
+        "addressLines": [
+          "Leffler - Jerde",
+          "7902 Kshlerin Lakes"
+        ],
+        "addressNumber": "89",
+        "addressNumberWithinBuilding": "8",
+        "mailRouting": "0725 Brigitte Skyway, 56230",
+        "city": "Flatleystad",
+        "region": "Buckinghamshire",
+        "country": "Lao People's Democratic Republic",
+        "postalCode": "18090-4312"
+      },
+      "headquartersAddress": {
+        "type": "LEIaddress",
+        "language": "hr",
+        "addressLines": [
+          "Kling - Kutch",
+          "1183 Maci Forest"
+        ],
+        "addressNumber": "50",
+        "addressNumberWithinBuilding": "2",
+        "mailRouting": "8363 Huel Throughway, 98191-7639",
+        "city": "Rahulview",
+        "region": "Bedfordshire",
+        "country": "Suriname",
+        "postalCode": "22890"
+      },
+      "registrationAuthority": {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000001",
+        "otherValidationAuthorityID": "9WSGTMHN",
+        "validationAuthorityEntityID": "DWGM8MW2GIV53QZIFO11"
+      },
+      "legalJurisdiction": "Bedfordshire",
       "entityCategory": "Grocery",
       "legalForm": "LLC",
       "associatedEntity": {
         "type": "Organization",
-        "leiCode": "214A89CCD3CX8JIATEAG",
-        "name": "Nader - Zieme"
+        "leiCode": "SA936OO2MIMZ8T8M7B6M",
+        "name": "Okuneva, Bins and Schmitt"
       },
       "status": "REQUESTED",
       "expirationDate": "2022-07-11",
-      "expirationReason": "engineer 24/7 e-commerce",
+      "expirationReason": "transform clicks-and-mortar web-readiness",
       "successorEntity": {
         "type": "Organization",
-        "leiCode": "7B6MNIUFQ4SVEGN7CDIE",
-        "name": "Shields - Dare"
+        "leiCode": "YIQDCGAZCYRXNS6C6E3J",
+        "name": "Simonis - Runolfsdottir"
       },
       "otherAddresses": []
     },
@@ -281,19 +182,118 @@
       "lastUpdateDate": "2020-01-01",
       "status": "REQUESTED",
       "nextRenewalDate": "2021-02-02",
-      "managingLou": "YBMJCGOQLMVGCDMDDWIG",
-      "validationSources": "NOT_CORROBORATED",
+      "managingLou": "XZIUDHMZCPMPXTNVQRED",
+      "validationSources": "FULLY_CORROBORATED",
       "validationAuthority": [
         {
           "type": "LEIauthority",
-          "validationAuthorityID": "RA000661",
-          "otherValidationAuthorityID": "QDRY08E4",
-          "validationAuthorityEntityID": "HF0S9KRO46JM7B0U8MZ7"
+          "validationAuthorityID": "RA000003",
+          "otherValidationAuthorityID": "29F022IY",
+          "validationAuthorityEntityID": "WASR8MZDO7049M9R2NYJ"
         }
       ]
     },
     "bic": [
-      "QMVJMTAZTY"
+      "ICYPCZJDKB"
+    ]
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIevidenceDocument",
+    "lei": "8X4O7HV0NZAOTBVVU9XJ",
+    "entity": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "LEIentity",
+      "legalName": "Reinger, Bosco and Schumm",
+      "legalNameLanguage": "vi",
+      "otherNames": [
+        "Baumbach - Rempel",
+        "Brekke Inc"
+      ],
+      "transliteratedOtherNames": [
+        "Baumbach - Rempel",
+        "Brekke Inc"
+      ],
+      "legalAddress": {
+        "type": "LEIaddress",
+        "language": "en_BORK",
+        "addressLines": [
+          "Lakin - Corwin",
+          "7575 Breitenberg Plain"
+        ],
+        "addressNumber": "367",
+        "addressNumberWithinBuilding": "5",
+        "mailRouting": "1608 Serena Parkways, 41145-0827",
+        "city": "Shannashire",
+        "region": "Berkshire",
+        "country": "Sudan",
+        "postalCode": "01488"
+      },
+      "headquartersAddress": {
+        "type": "LEIaddress",
+        "language": "nb_NO",
+        "addressLines": [
+          "Hahn LLC",
+          "1633 Kaycee Spurs"
+        ],
+        "addressNumber": "408",
+        "addressNumberWithinBuilding": "7",
+        "mailRouting": "0878 Nathaniel Burgs, 27973",
+        "city": "Erikmouth",
+        "region": "Buckinghamshire",
+        "country": "Saint Barthelemy",
+        "postalCode": "83485"
+      },
+      "registrationAuthority": {
+        "type": "LEIauthority",
+        "validationAuthorityID": "RA000004",
+        "otherValidationAuthorityID": "Z4DDGNPS",
+        "validationAuthorityEntityID": "V7L4ENE0P601M6C6SD3E"
+      },
+      "legalJurisdiction": "Cambridgeshire",
+      "entityCategory": "Finance",
+      "legalForm": "CORPORATION",
+      "associatedEntity": {
+        "type": "Organization",
+        "leiCode": "9MR7GZUQQKR6N16BJRZ9",
+        "name": "Nitzsche - Reilly"
+      },
+      "status": "REQUESTED",
+      "expirationDate": "2022-07-11",
+      "expirationReason": "transform front-end communities",
+      "successorEntity": {
+        "type": "Organization",
+        "leiCode": "KPK1LHOLSL90TBHM252P",
+        "name": "Rodriguez - Schaden"
+      },
+      "otherAddresses": []
+    },
+    "registration": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "LEIregistration",
+      "initialRegistrationDate": "2020-01-01",
+      "lastUpdateDate": "2020-01-01",
+      "status": "CONFIRMED",
+      "nextRenewalDate": "2021-02-02",
+      "managingLou": "QQMUEDRKZVTJTOYPFEOJ",
+      "validationSources": "NOT_CORROBORATED",
+      "validationAuthority": [
+        {
+          "type": "LEIauthority",
+          "validationAuthorityID": "RA000002",
+          "otherValidationAuthorityID": "ZP7STIIF",
+          "validationAuthorityEntityID": "D54BQF83D72LSQRZQXAN"
+        }
+      ]
+    },
+    "bic": [
+      "IEASAMPEYH"
     ]
   }
 ]

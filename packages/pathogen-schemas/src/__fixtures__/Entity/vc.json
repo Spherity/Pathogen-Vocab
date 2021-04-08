@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -14,26 +15,37 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "type": "Organization",
-    "name": "Miller and Sons",
-    "description": "Stand-alone client-server time-frame",
-    "address": {
-      "type": "PostalAddress",
-      "streetAddress": "416 Phoebe Keys",
-      "addressLocality": "Cameronport",
-      "addressRegion": "Idaho",
-      "postalCode": "77706",
-      "addressCountry": "Morocco"
+    "type": "Person",
+    "firstName": "Pinkie",
+    "lastName": "Abernathy",
+    "email": "Vivian59@example.net",
+    "phoneNumber": "555-837-1699",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Rempel - Jerde",
+      "description": "Networked next generation open architecture",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "74220 Crooks Mountains",
+        "addressLocality": "Rontown",
+        "addressRegion": "Texas",
+        "postalCode": "95136",
+        "addressCountry": "Samoa"
+      },
+      "email": "Houston7@example.com",
+      "phoneNumber": "555-526-1959",
+      "faxNumber": "555-409-1676"
     },
-    "email": "Eveline40@example.net",
-    "phoneNumber": "555-724-6089",
-    "faxNumber": "555-588-7445"
+    "jobTitle": "Direct Identity Specialist",
+    "idnumber": "CUXZDUYRLNEC",
+    "idnumberType": "National Identity Card",
+    "birthDate": "1985-11-23"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..TscwH8j3mXYigLDocSn0lQ7lyyDqlsTo9QFjxzudIpyKcP-WBMg1Nv39JFh0igVtq1PXK1cM-9wB2LitqG5VBw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..LkbeHoMDhfHmcwVSvoxQtfsH36irpM1KvAOVPFvkQNopQQ9lY2as-FKdDEBDJxvDV44w9PAv6KswNR9EAJqJDQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

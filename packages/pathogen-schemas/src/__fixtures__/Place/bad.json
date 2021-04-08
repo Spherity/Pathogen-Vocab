@@ -1,48 +1,42 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "globalLocationNumber": "7868397373557",
-    "geo": {
-      "type": "GeoCoordinates",
-      "latitude": "-16.5049",
-      "longitude": "55.1386"
-    },
-    "address": {
-      "type": "PostalAddress",
-      "organizationName": "Wehner, Turner and Swaniawski",
-      "streetAddress": "78706 O'Conner Turnpike",
-      "addressLocality": "Swiftfurt",
-      "addressRegion": "Alabama",
-      "postalCode": "11343-4283",
-      "addressCountry": "Malta"
-    },
-    "matrix": "transmit",
-    "bandwidth": "connect"
-  },
-  {
-    "protocol": "back up",
-    "port": "compress"
-  },
-  {
     "type": "Place",
+    "globalLocationNumber": "6409667124670",
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Leffler, Hirthe and Langworth",
+      "streetAddress": "14610 Ezra Tunnel",
+      "addressLocality": "Cristborough",
+      "addressRegion": "Alaska",
+      "postalCode": "63603-3074",
+      "addressCountry": "Montserrat"
+    },
+    "pixel": "generate",
+    "array": "program",
+    "program": "quantify",
+    "matrix": "quantify"
+  },
+  {
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-38.9109",
-      "longitude": "-71.5445"
+      "latitude": "33.8894",
+      "longitude": "-119.7505"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Miller, Blanda and Gulgowski",
-      "streetAddress": "27750 Serena Centers",
-      "addressLocality": "Terryfurt",
-      "addressRegion": "Kentucky",
-      "postalCode": "38916-0528",
-      "addressCountry": "Serbia"
+      "organizationName": "Witting and Sons",
+      "streetAddress": "09559 Boyle Crest",
+      "addressLocality": "East Alexandreside",
+      "addressRegion": "Maryland",
+      "postalCode": "13037",
+      "addressCountry": "Cambodia"
     },
-    "port": "parse",
-    "application": "program",
-    "hard drive": "generate"
+    "bus": "hack",
+    "array": "copy",
+    "sensor": "program"
+  },
+  {
+    "monitor": "override",
+    "microchip": "bypass"
   }
 ]

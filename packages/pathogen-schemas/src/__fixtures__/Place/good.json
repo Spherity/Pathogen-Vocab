@@ -4,20 +4,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "7868397373557",
+    "globalLocationNumber": "6409667124670",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-16.5049",
-      "longitude": "55.1386"
+      "latitude": "37.0055",
+      "longitude": "-38.5293"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Wehner, Turner and Swaniawski",
-      "streetAddress": "78706 O'Conner Turnpike",
-      "addressLocality": "Swiftfurt",
-      "addressRegion": "Alabama",
-      "postalCode": "11343-4283",
-      "addressCountry": "Malta"
+      "organizationName": "Leffler, Hirthe and Langworth",
+      "streetAddress": "14610 Ezra Tunnel",
+      "addressLocality": "Cristborough",
+      "addressRegion": "Alaska",
+      "postalCode": "63603-3074",
+      "addressCountry": "Montserrat"
     }
   },
   {
@@ -25,20 +25,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "4802935116209",
+    "globalLocationNumber": "5086014194732",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-82.4356",
-      "longitude": "-28.2802"
+      "latitude": "33.8894",
+      "longitude": "-119.7505"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Balistreri, VonRueden and Wisoky",
-      "streetAddress": "18729 Nicklaus Union",
-      "addressLocality": "Quinnfort",
-      "addressRegion": "Alabama",
-      "postalCode": "96753-6852",
-      "addressCountry": "New Caledonia"
+      "organizationName": "Witting and Sons",
+      "streetAddress": "09559 Boyle Crest",
+      "addressLocality": "East Alexandreside",
+      "addressRegion": "Maryland",
+      "postalCode": "13037",
+      "addressCountry": "Cambodia"
     }
   },
   {
@@ -46,20 +46,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "6104536521894",
+    "globalLocationNumber": "4997149642641",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-38.9109",
-      "longitude": "-71.5445"
+      "latitude": "89.0745",
+      "longitude": "117.6147"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Miller, Blanda and Gulgowski",
-      "streetAddress": "27750 Serena Centers",
-      "addressLocality": "Terryfurt",
-      "addressRegion": "Kentucky",
-      "postalCode": "38916-0528",
-      "addressCountry": "Serbia"
+      "organizationName": "Wyman - Bogisich",
+      "streetAddress": "69130 Eva Junction",
+      "addressLocality": "Littelshire",
+      "addressRegion": "Delaware",
+      "postalCode": "55517",
+      "addressCountry": "Ecuador"
     }
   }
 ]

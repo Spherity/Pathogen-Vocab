@@ -1,47 +1,32 @@
 [
   {
+    "program": "synthesize",
+    "sensor": "calculate",
+    "matrix": "back up"
+  },
+  {
+    "type": "Organization",
+    "name": "Ledner Group",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "9915 Von Parks",
+      "addressLocality": "North Blaze",
+      "addressRegion": "Ohio",
+      "postalCode": "21919-4974",
+      "addressCountry": "Saint Barthelemy"
+    },
+    "phoneNumber": "555-875-1493",
+    "system": "input",
+    "interface": "bypass"
+  },
+  {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "address": {
-      "type": "PostalAddress",
-      "streetAddress": "416 Phoebe Keys",
-      "addressLocality": "Cameronport",
-      "addressRegion": "Idaho",
-      "postalCode": "77706",
-      "addressCountry": "Morocco"
-    },
-    "phoneNumber": "555-724-6089",
-    "circuit": "quantify"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "Person",
-    "firstName": "Joshuah",
-    "jobTitle": "Legacy Tactics Manager",
-    "idnumberType": "Passport",
-    "driver": "connect"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "description": "Operative zero tolerance collaboration",
-    "address": {
-      "type": "PostalAddress",
-      "streetAddress": "4140 Hettinger Unions",
-      "addressLocality": "McClureburgh",
-      "addressRegion": "New York",
-      "postalCode": "02651",
-      "addressCountry": "Virgin Islands, U.S."
-    },
-    "faxNumber": "555-233-6015",
-    "array": "override",
-    "sensor": "override",
-    "pixel": "back up",
-    "interface": "connect"
+    "name": "Watsica, Schmeler and Bernier",
+    "phoneNumber": "555-887-2669",
+    "matrix": "index",
+    "application": "bypass"
   }
 ]

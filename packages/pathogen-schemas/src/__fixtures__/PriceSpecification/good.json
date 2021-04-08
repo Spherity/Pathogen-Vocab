@@ -4,23 +4,23 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 1089,
-    "priceCurrency": "THB"
+    "price": 8541,
+    "priceCurrency": "ARS"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 3976,
-    "priceCurrency": "EEK"
+    "price": 2568,
+    "priceCurrency": "TWD"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 5079,
-    "priceCurrency": "TTD"
+    "price": 315,
+    "priceCurrency": "NZD"
   }
 ]

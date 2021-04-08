@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -16,51 +17,40 @@
     ],
     "type": "Product",
     "manufacturer": {
-      "type": "Person",
-      "firstName": "Bo",
-      "lastName": "Metz",
-      "email": "Katherine.Rolfson40@example.com",
-      "phoneNumber": "555-432-1830",
-      "worksFor": {
-        "type": "Organization",
-        "name": "Mitchell Group",
-        "description": "Public-key dedicated array",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "7489 Destin Radial",
-          "addressLocality": "Margretburgh",
-          "addressRegion": "Iowa",
-          "postalCode": "79987-0860",
-          "addressCountry": "Australia"
-        },
-        "email": "Geraldine_Schmidt@example.com",
-        "phoneNumber": "555-745-3318",
-        "faxNumber": "555-846-1535"
+      "type": "Organization",
+      "name": "Wehner, Runte and Schuster",
+      "description": "Profound scalable process improvement",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "2725 Adela Ville",
+        "addressLocality": "Ziemeville",
+        "addressRegion": "North Dakota",
+        "postalCode": "80200-0738",
+        "addressCountry": "New Caledonia"
       },
-      "jobTitle": "Senior Paradigm Director",
-      "idnumber": "TYKRQRQJXPPA",
-      "idnumberType": "National Identity Card",
-      "birthDate": "1985-11-23"
+      "email": "Rosario.Prohaska@example.net",
+      "phoneNumber": "555-766-1621",
+      "faxNumber": "555-228-1050"
     },
-    "name": "Unbranded Wooden Soap",
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "name": "Sleek Metal Car",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "6365"
+      "value": "895"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "1397"
+      "value": "3997"
     },
-    "sku": "873699861486"
+    "sku": "407548957698"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..M2eg44eAQXV6d_hWUjRFqMLyH9nWOimV1Y-MmkKE3rt0G8L6TnneKG_TSfc32wiSutNwfudxwtcF0JHZt_YWDw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..KOdHiDA8gmfY0MZEZHlEicMjmiRNJCXYbwq2aCdMxuA2TtRIm3HEDqc3S-YXPuTsorLABL0NQ0B_Xr9VdGK9Aw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

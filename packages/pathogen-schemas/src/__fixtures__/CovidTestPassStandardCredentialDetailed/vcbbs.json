@@ -1,0 +1,87 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "StandardCovidTestPassDetailed",
+    "testType": "Rapid PCR Test",
+    "testCenter": {
+      "type": "Organization",
+      "name": "Batz, Rice and Johnson",
+      "description": "Self-enabling well-modulated emulation",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "00663 Emmalee Circles",
+        "addressLocality": "Lake Marion",
+        "addressRegion": "Alaska",
+        "postalCode": "82241",
+        "addressCountry": "Paraguay"
+      },
+      "email": "Charlotte_Kassulke80@example.com",
+      "phoneNumber": "555-727-4135",
+      "faxNumber": "555-666-9429"
+    },
+    "healthProfessionalAdministered": "Yes",
+    "testedPerson": {
+      "type": "Person",
+      "firstName": "Audie",
+      "lastName": "Hermann",
+      "idnumber": "CLCHPIORFTYU",
+      "idnumberType": "National Identity Card",
+      "birthDate": "1985-11-23"
+    },
+    "testResult": "Positive",
+    "testDetails": {
+      "type": "MedicalTest",
+      "affectedBy": [
+        "Antibiotics"
+      ],
+      "normalRange": [
+        "Any Person"
+      ],
+      "signDetected": "Negative",
+      "usedToDiagnose": "Covid19 SA Variant",
+      "usesDevice": "JWJWVGYXZPTJ",
+      "code": "JSCMUJOS",
+      "legalStatus": "Revoked",
+      "medicineSystem": "evidence-based",
+      "recognizingAuthority": {
+        "type": "Organization",
+        "name": "Prohaska - Fadel",
+        "description": "Centralized foreground secured line",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "9095 Rippin Causeway",
+          "addressLocality": "Lockmanborough",
+          "addressRegion": "Oklahoma",
+          "postalCode": "91678",
+          "addressCountry": "Nauru"
+        },
+        "email": "Meggie51@example.net",
+        "phoneNumber": "555-880-1910",
+        "faxNumber": "555-854-1756"
+      },
+      "relevantSpecialty": "Other"
+    }
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:14Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "gu3OMhXUmMHGnWYDnj/0l2/bOfL4tDpoLc4zwuN+lIl6VNO8Zi6gVTvLc9TcSP8tXp3zZHFKkWd70xdpoYcFAejwbWb5PKeaNNCtN+HY0KYeGKONjKU+I36IB7XkMSwWJm0rGWTgzy8qOqh70EHsdg==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

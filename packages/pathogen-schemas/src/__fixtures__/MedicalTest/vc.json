@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -21,35 +22,35 @@
     "normalRange": [
       "Any Person"
     ],
-    "signDetected": "Negative",
-    "usedToDiagnose": "Covid19 2020 Variants",
-    "usesDevice": "RFIOTTVQPERJ",
-    "code": "JUOONAWT",
-    "legalStatus": "In Trial",
+    "signDetected": "Positive",
+    "usedToDiagnose": "Covid19 SA Variant",
+    "usesDevice": "CHJUTPHQIUQK",
+    "code": "FXXNNELS",
+    "legalStatus": "Preliminary Approval",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Lynch - Altenwerth",
-      "description": "Sharable content-based portal",
+      "name": "Hilpert LLC",
+      "description": "Multi-channelled solution-oriented Graphic Interface",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "7457 Joey Path",
-        "addressLocality": "Eliland",
-        "addressRegion": "New Hampshire",
-        "postalCode": "60856",
-        "addressCountry": "Tanzania"
+        "streetAddress": "681 Ferry Track",
+        "addressLocality": "Kleinmouth",
+        "addressRegion": "Wyoming",
+        "postalCode": "75050-0439",
+        "addressCountry": "Falkland Islands (Malvinas)"
       },
-      "email": "Shanna9@example.net",
-      "phoneNumber": "555-785-4904",
-      "faxNumber": "555-244-2447"
+      "email": "Augustine_Ryan@example.com",
+      "phoneNumber": "555-584-4516",
+      "faxNumber": "555-548-8185"
     },
-    "relevantSpecialty": "Other"
+    "relevantSpecialty": "Communicable Disease"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..pl9zu0VS2U2Nud2WpkK3ioc2OXBEUd73LzKObuGRGUC71in5nF73iVlGAaxgx68waIusIqreaHwJxuqH98FyCw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..REjo-X2EvtprhFo2j5esnHVK721tvCbql1hWjnT93HJAg8uH6vM0M576SSJ_IsjODUP64eHqG7BFqcO_L3eKCQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

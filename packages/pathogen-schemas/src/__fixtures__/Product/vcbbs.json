@@ -1,0 +1,57 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Wehner, Runte and Schuster",
+      "description": "Profound scalable process improvement",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "2725 Adela Ville",
+        "addressLocality": "Ziemeville",
+        "addressRegion": "North Dakota",
+        "postalCode": "80200-0738",
+        "addressCountry": "New Caledonia"
+      },
+      "email": "Rosario.Prohaska@example.net",
+      "phoneNumber": "555-766-1621",
+      "faxNumber": "555-228-1050"
+    },
+    "name": "Sleek Metal Car",
+    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "895"
+    },
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "3997"
+    },
+    "sku": "407548957698"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:11Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "kAh2AAeMeCLuWuzQcZB7c9O8cjdzY3XyhxGO5PdGvs8Cr7//ocUFc3lkJLiwI8E1b2mbZhK+Ol3gCOViZ5rvQozn26cTKqKvn8FLBxI87ogq0gEyjSjTgWEYpaDJjZayUw0Y24I4dBapp8KeIgKjTA==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

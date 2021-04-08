@@ -1,0 +1,98 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "CovidTestRegistrationCredential",
+    "nationalHealthAgency": "Leuschke, Brown and Hoeger",
+    "testID": "UG4LEISJ5H",
+    "productName": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "evaluation": "No",
+    "marketingAuthorativeHolder": "Reichert - Rutherford",
+    "distributor": {
+      "type": "Organization",
+      "name": "Conn - Lakin",
+      "description": "Configurable mission-critical database",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "557 Ezequiel Forges",
+        "addressLocality": "Davisshire",
+        "addressRegion": "Virginia",
+        "postalCode": "52444",
+        "addressCountry": "Finland"
+      },
+      "email": "Moises_Swaniawski@example.org",
+      "phoneNumber": "555-952-6534",
+      "faxNumber": "555-238-9206"
+    },
+    "sensitivity": "High",
+    "specificity": [
+      "Sars-Cov2-Variant"
+    ],
+    "testDocumentationLink": "https://vc.example.com/?queryID=0x2cEfBE0fe3Ac8d191A2ECEE9225F3C42CE7D6b5dd881A74BB0d7289bCEE7a7aA"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "CovidTestRegistrationCredential",
+    "nationalHealthAgency": "Sauer - McClure",
+    "testID": "9M707NI6ZY",
+    "productName": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "evaluation": "Yes",
+    "marketingAuthorativeHolder": "Lynch and Sons",
+    "distributor": {
+      "type": "Organization",
+      "name": "Ratke, Kling and Legros",
+      "description": "Open-source intangible help-desk",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "52530 Herta Keys",
+        "addressLocality": "Lake Stanborough",
+        "addressRegion": "Hawaii",
+        "postalCode": "16034",
+        "addressCountry": "Sri Lanka"
+      },
+      "email": "Gregorio_Kuphal@example.com",
+      "phoneNumber": "555-608-6287",
+      "faxNumber": "555-159-3646"
+    },
+    "sensitivity": "Medium",
+    "specificity": [
+      "Sars-Cov2-Variant"
+    ],
+    "testDocumentationLink": "https://vc.example.com/?queryID=0x3247C1EA855Deb8B0F3CfDe80c4554eb0d27Bc3Dec5f2B5FfdCBCF8Ee34867D1"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "CovidTestRegistrationCredential",
+    "nationalHealthAgency": "Davis Group",
+    "testID": "KNFPWWTMCC",
+    "productName": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "evaluation": "Yes",
+    "marketingAuthorativeHolder": "Hoeger, Hettinger and McLaughlin",
+    "distributor": {
+      "type": "Organization",
+      "name": "Bahringer - Langworth",
+      "description": "Expanded optimal intranet",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "4753 Eleanora Lights",
+        "addressLocality": "Port Weldonmouth",
+        "addressRegion": "Rhode Island",
+        "postalCode": "18549",
+        "addressCountry": "Tokelau"
+      },
+      "email": "Loren21@example.net",
+      "phoneNumber": "555-523-8198",
+      "faxNumber": "555-263-4826"
+    },
+    "sensitivity": "Very High",
+    "specificity": [
+      "Sars-Cov2-Original"
+    ],
+    "testDocumentationLink": "https://vc.example.com/?queryID=0x3eC9F2bD3f5f0CEb2Bca61c8eaCf420335D5DAd5ddea3cEC988Ab9173FA411dA"
+  }
+]

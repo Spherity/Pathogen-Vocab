@@ -1,29 +1,16 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "PostalAddress",
-    "addressLocality": "Tabithatown",
-    "addressRegion": "North Dakota",
-    "postalCode": "80895-0564",
-    "panel": "index",
-    "array": "reboot",
-    "microchip": "quantify"
-  },
-  {
-    "addressLocality": "East Gerardomouth",
-    "postalCode": "62926-4795",
-    "sensor": "quantify"
+    "microchip": "input",
+    "interface": "hack"
   },
   {
     "type": "PostalAddress",
-    "organizationName": "Upton Inc",
-    "streetAddress": "24943 Mueller Mall",
-    "addressLocality": "South Leonieview",
-    "addressRegion": "Iowa",
-    "postalCode": "25550",
-    "addressCountry": "Swaziland",
-    "transmitter": "back up"
+    "streetAddress": "592 Larue Crescent",
+    "capacitor": "connect"
+  },
+  {
+    "transmitter": "parse",
+    "sensor": "override",
+    "matrix": "bypass"
   }
 ]

@@ -1,0 +1,40 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "nb_NO",
+    "addressLines": [
+      "Lubowitz, Rice and Bogisich",
+      "26704 Windler Mountain"
+    ],
+    "addressNumber": "127",
+    "addressNumberWithinBuilding": "4",
+    "mailRouting": "16809 Kunze Summit, 45598-5366",
+    "city": "Kennedyhaven",
+    "region": "Berkshire",
+    "country": "Falkland Islands (Malvinas)",
+    "postalCode": "78578"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:11Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "lY1URcBn8D4KRdgxkDQeyj9jyfpENYg6Ixk/2MSa2NAN4EVju+t4xj9RfqOBETy4POjz64OXj1XYhUUNz1zGKQmRlLBa4s7dlPMHZ7XxuKpBc/hqVsjugmmARxZnFsIujyUKe0eiuuQ/+ccRfQChzQ==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

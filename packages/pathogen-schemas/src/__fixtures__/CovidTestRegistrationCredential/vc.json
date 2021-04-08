@@ -1,0 +1,54 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "CovidTestRegistrationCredential",
+    "nationalHealthAgency": "Leuschke, Brown and Hoeger",
+    "testID": "UG4LEISJ5H",
+    "productName": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "evaluation": "No",
+    "marketingAuthorativeHolder": "Reichert - Rutherford",
+    "distributor": {
+      "type": "Organization",
+      "name": "Conn - Lakin",
+      "description": "Configurable mission-critical database",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "557 Ezequiel Forges",
+        "addressLocality": "Davisshire",
+        "addressRegion": "Virginia",
+        "postalCode": "52444",
+        "addressCountry": "Finland"
+      },
+      "email": "Moises_Swaniawski@example.org",
+      "phoneNumber": "555-952-6534",
+      "faxNumber": "555-238-9206"
+    },
+    "sensitivity": "High",
+    "specificity": [
+      "Sars-Cov2-Variant"
+    ],
+    "testDocumentationLink": "https://vc.example.com/?queryID=0x2cEfBE0fe3Ac8d191A2ECEE9225F3C42CE7D6b5dd881A74BB0d7289bCEE7a7aA"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2019-12-11T03:50:55Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..gGsMwsraNGinGscPuO82j3GrZM2vmNccDILHghsfg_eBgr-BegfMsYculFfySd9DH0CKh0A2xY03cqYjcQl9Cg",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:example:123#key-0"
+  }
+}

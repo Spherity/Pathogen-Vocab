@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -15,15 +16,15 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIauthority",
-    "validationAuthorityID": "RA000002",
-    "otherValidationAuthorityID": "VRQNTRNQ",
-    "validationAuthorityEntityID": "OMUZ8WHN7OZ1XO11PLXZ"
+    "validationAuthorityID": "RA000661",
+    "otherValidationAuthorityID": "ISTOA7U2",
+    "validationAuthorityEntityID": "RO8N49VYY51FQXWFUMYE"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Qvyb3yqXukUGaXUGYI_7DrTklxF4IbtyEk25vao4BNvAbvJZVQKLO2rfW9kJ9rBN3vDG4ZjGX0TZFm714UvYBA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..BUqVgto_bVDBobhXIizbbdwqJjaawuoL_mmvxDEvjBmCWdhzRJ2EKnrnOmGWeLWh_hAhZ6iHCJEg1GzTPBCkDw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

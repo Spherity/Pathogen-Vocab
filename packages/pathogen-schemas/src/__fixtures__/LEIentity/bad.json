@@ -1,112 +1,75 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
     "transliteratedOtherNames": [
-      "Hermann - Gulgowski",
-      "Stehr and Sons"
+      "Ryan - Altenwerth",
+      "Hansen, Bins and Larson"
     ],
-    "headquartersAddress": {
-      "type": "LEIaddress",
-      "language": "zh_CN",
-      "addressLines": [
-        "Shanahan, Heller and Schmidt",
-        "595 Chadrick Well"
-      ],
-      "addressNumber": "485",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "35746 Treutel Wells, 42627-5058",
-      "city": "Ryleyton",
-      "region": "Borders",
-      "country": "Azerbaijan",
-      "postalCode": "83221"
-    },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000001",
-      "otherValidationAuthorityID": "HV1YUV1T",
-      "validationAuthorityEntityID": "BNXJQ3AE9D09PQ1HJ2Y7"
-    },
-    "expirationDate": "2022-07-11",
-    "matrix": "program",
-    "sensor": "back up",
-    "circuit": "transmit",
-    "driver": "hack"
+    "expirationReason": "syndicate front-end e-markets",
+    "protocol": "connect",
+    "system": "compress",
+    "bandwidth": "program",
+    "interface": "connect"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "type": "LEIentity",
-    "legalNameLanguage": "hr",
-    "otherNames": [
-      "Buckridge - Gerlach",
-      "Nader - Altenwerth"
-    ],
+    "legalName": "Tillman Inc",
+    "legalNameLanguage": "it",
     "transliteratedOtherNames": [
-      "Buckridge - Gerlach",
-      "Nader - Altenwerth"
+      "Hyatt Group",
+      "Kling Inc"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "de_AT",
+      "language": "en_AU",
       "addressLines": [
-        "Rowe Inc",
-        "3619 Schamberger Shore"
+        "Leannon and Sons",
+        "4256 Denis Village"
       ],
-      "addressNumber": "482",
-      "addressNumberWithinBuilding": "9",
-      "mailRouting": "167 Elise Circle, 77075",
-      "city": "West Anderson",
-      "region": "Berkshire",
-      "country": "Mali",
-      "postalCode": "00889-9694"
+      "addressNumber": "415",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "31306 Ondricka Rue, 47878-4588",
+      "city": "Constantinmouth",
+      "region": "Buckinghamshire",
+      "country": "Greenland",
+      "postalCode": "02901"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "pl",
+      "language": "hy",
       "addressLines": [
-        "Christiansen - Mertz",
-        "83348 Paucek Springs"
+        "Wehner Inc",
+        "1903 Kurt Course"
       ],
-      "addressNumber": "13",
-      "addressNumberWithinBuilding": "1",
-      "mailRouting": "41249 Brakus Village, 81578",
-      "city": "Eliasberg",
-      "region": "Berkshire",
-      "country": "Saint Martin",
-      "postalCode": "07626-1289"
+      "addressNumber": "62",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "61394 Abigale Vista, 93698",
+      "city": "Jackberg",
+      "region": "Borders",
+      "country": "Argentina",
+      "postalCode": "54365-1101"
     },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000661",
-      "otherValidationAuthorityID": "Y51FQXWF",
-      "validationAuthorityEntityID": "UMYER9FZBEBWQ8Q771VN"
-    },
-    "legalJurisdiction": "Avon",
-    "associatedEntity": {
-      "type": "Organization",
-      "leiCode": "TC8QW50TKTRI906A3MBZ",
-      "name": "Kozey, Kozey and Littel"
-    },
-    "status": "IN PROGRESS",
-    "expirationDate": "2022-07-11",
-    "expirationReason": "orchestrate mission-critical eyeballs",
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Grocery",
+    "expirationReason": "utilize leading-edge experiences",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "V3R5RGUJR0MS4A1WXYM6",
-      "name": "Koepp, Kshlerin and Abbott"
+      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
+      "name": "Wolff Group"
     },
-    "otherAddresses": [],
-    "program": "connect",
-    "hard drive": "override"
+    "circuit": "calculate"
   },
   {
-    "legalName": "Wilderman, Satterfield and Upton",
-    "expirationReason": "synergize cross-platform eyeballs",
-    "pixel": "connect",
-    "circuit": "navigate",
-    "program": "navigate"
+    "legalJurisdiction": "Berkshire",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "TIVL8S7NL6ECUWWRCK89",
+      "name": "Gutkowski, Goodwin and Reynolds"
+    },
+    "otherAddresses": [],
+    "bus": "program",
+    "sensor": "override",
+    "firewall": "bypass"
   }
 ]

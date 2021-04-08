@@ -1,0 +1,31 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000661",
+    "otherValidationAuthorityID": "ISTOA7U2",
+    "validationAuthorityEntityID": "RO8N49VYY51FQXWFUMYE"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:11Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "jioyWGYlXiZm5ih7FdwSxNNwWA7MKBR5iduI5tBokp0/umaPNwSxmpxvlXsqxdmja4eOyDqtTDUfSnk5GQP2XLXd5uUmAdhH8qFk4hQC0+4B/EQhUAHblIgJP+ZeycN48GydWXYYfQG2SWKRlbuBKw==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

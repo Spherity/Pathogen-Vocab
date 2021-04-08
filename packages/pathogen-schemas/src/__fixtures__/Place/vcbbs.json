@@ -1,0 +1,43 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Place",
+    "globalLocationNumber": "6409667124670",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "37.0055",
+      "longitude": "-38.5293"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Leffler, Hirthe and Langworth",
+      "streetAddress": "14610 Ezra Tunnel",
+      "addressLocality": "Cristborough",
+      "addressRegion": "Alaska",
+      "postalCode": "63603-3074",
+      "addressCountry": "Montserrat"
+    }
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:11Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "rFaQSWvDLPIq+AAv4Cpzi2ezxT1JakXqMLRVE0R5oTN1HtOEXqF3o0WiLb7ms+RmTtMHNUXAxdxPBqt7NCTCEYsQHHRRhuLHRYDexO1PqD4yNmxcHv9p+eqQYtJ/LSg/kV3geLBhy9b0+BOWy4ZHfg==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

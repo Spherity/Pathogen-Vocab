@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -15,18 +16,18 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Bergnaum - Funk",
-    "streetAddress": "254 Aurelia Courts",
-    "addressLocality": "Tabithatown",
-    "addressRegion": "North Dakota",
-    "postalCode": "80895-0564",
-    "addressCountry": "Belgium"
+    "organizationName": "Heaney - Pagac",
+    "streetAddress": "29855 McClure Inlet",
+    "addressLocality": "Broderickshire",
+    "addressRegion": "Minnesota",
+    "postalCode": "68424",
+    "addressCountry": "Sao Tome and Principe"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..ao13RftO4tc2SqK08d6kOk6gip6RCKlxLp3HieG1s4D7-CrVBhsZSlgDB_06NOfYc9qBQYpxL4tl9aiM1O5JAQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Exs9wyN6H3D2jodl4Dwmz6bI_TKaguvbOIA-Yi0fkvCWZNspxv9OGBNMXIPg3Llm-wRILDJpnykytpUTMMzeAA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

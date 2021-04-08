@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -15,14 +16,14 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 1089,
-    "priceCurrency": "THB"
+    "price": 8541,
+    "priceCurrency": "ARS"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..QZaEw9xjCNU9hU8iNZdN4IzQOgPnoXRi50uJ8Vx6FCizmtsn8BYa_wSQeiQpkMg0_FubvLyVVnk4DhNfPAQtDw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Ys2CZwlUOAQlcYThqPuUBG5XOk-bS2SMRW9bSMGmSf34x3U48gRwgiO002Nve_VIhkMDcDZbsRZrGkuCkGq4BA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

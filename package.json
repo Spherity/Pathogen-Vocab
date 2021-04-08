@@ -18,7 +18,5 @@
     "eslint-plugin-jest": "^24.1.0",
     "lerna": "^3.22.1"
   },
-  "dependencies": {
-    "@mattrglobal/bbs-signatures": "^0.5.0"
-  }
+  "dependencies": {}
 }

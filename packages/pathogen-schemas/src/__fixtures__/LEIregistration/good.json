@@ -8,14 +8,14 @@
     "lastUpdateDate": "2020-01-01",
     "status": "REQUESTED",
     "nextRenewalDate": "2021-02-02",
-    "managingLou": "CTZNLRBBACTSRBUBCAAY",
-    "validationSources": "PARTIALLY_CORROBORATED",
+    "managingLou": "FPDDKTXRMYABHBBHAGHG",
+    "validationSources": "FULLY_CORROBORATED",
     "validationAuthority": [
       {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000005",
-        "otherValidationAuthorityID": "XOTF29AU",
-        "validationAuthorityEntityID": "X19WSGTMHNDWGM8MW2GI"
+        "validationAuthorityID": "RA000001",
+        "otherValidationAuthorityID": "UF8VDUG6",
+        "validationAuthorityEntityID": "HSFGXHP4M21QWHWFSQ0R"
       }
     ]
   },
@@ -28,14 +28,14 @@
     "lastUpdateDate": "2020-01-01",
     "status": "REJECTED",
     "nextRenewalDate": "2021-02-02",
-    "managingLou": "YNMBXZIUDHMZCPMPXTNV",
-    "validationSources": "PARTIALLY_CORROBORATED",
+    "managingLou": "MZZGDRSFEOIMIZYPZJEC",
+    "validationSources": "FULLY_CORROBORATED",
     "validationAuthority": [
       {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000001",
-        "otherValidationAuthorityID": "JNTR29F0",
-        "validationAuthorityEntityID": "22IYWASR8MZDO7049M9R"
+        "validationAuthorityID": "RA000004",
+        "otherValidationAuthorityID": "MWK5CJBE",
+        "validationAuthorityEntityID": "RC3W80QNJY4KVXE1TFS9"
       }
     ]
   },
@@ -48,14 +48,14 @@
     "lastUpdateDate": "2020-01-01",
     "status": "REQUESTED",
     "nextRenewalDate": "2021-02-02",
-    "managingLou": "LZVTSOUERBEIOTZHYOBS",
+    "managingLou": "MWKLQTOHBUNCUJLZBUUM",
     "validationSources": "FULLY_CORROBORATED",
     "validationAuthority": [
       {
         "type": "LEIauthority",
         "validationAuthorityID": "RA000661",
-        "otherValidationAuthorityID": "FDM5X98X",
-        "validationAuthorityEntityID": "4O7HV0NZAOTBVVU9XJ9M"
+        "otherValidationAuthorityID": "KJIZ48UE",
+        "validationAuthorityEntityID": "QJ2SPJJM28GUHF55YNU7"
       }
     ]
   }

@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -15,14 +16,14 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LegalEntityIdentifierCredential",
-    "leiCode": "UPVNE0J7987OI0L3CSK6",
+    "leiCode": "YSS93LFZVVYLGWMZ6QZ2",
     "certificateName": "US Legal Entity Certificate"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..PpbophvEZPh9lNoYjc-ZrlzZ09dw4J8wJq_TjDI6tzAYjU2L0Lzv9ItmTm-7Z7nyV3hPN69GMD17vsNafd-mAA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..htDdAlQw2cmPBw58U1ISFKjjrb1ToHbRULS7-rufE4EuZLhL81ejdHwCYTsxwJWuoo9smmDatG9FJZ7uk0_dCA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

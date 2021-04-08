@@ -3,25 +3,24 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "otherValidationAuthorityID": "VRQNTRNQ",
-    "driver": "hack",
-    "feed": "input"
+    "type": "LEIauthority",
+    "otherValidationAuthorityID": "ISTOA7U2",
+    "interface": "copy",
+    "circuit": "input"
+  },
+  {
+    "otherValidationAuthorityID": "8Q771VNP",
+    "matrix": "calculate",
+    "microchip": "transmit",
+    "sensor": "connect",
+    "driver": "hack"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "otherValidationAuthorityID": "A6X4YFXS",
-    "protocol": "quantify",
-    "card": "transmit"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "validationAuthorityID": "RA000005",
-    "otherValidationAuthorityID": "JJSNBQMI",
-    "validationAuthorityEntityID": "VFMV8F0GVZ00V6JDXXS2",
-    "application": "bypass"
+    "type": "LEIauthority",
+    "alarm": "synthesize",
+    "application": "program"
   }
 ]

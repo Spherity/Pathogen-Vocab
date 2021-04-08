@@ -32,6 +32,22 @@ const documentLoader = (iri) => {
             ).toString())
         };
     }
+    if (iri.startsWith('https://w3id.org/security/v3-unstable')) {
+        return {
+            documentUrl: iri,
+            document: JSON.parse(fs.readFileSync(
+                path.resolve(__dirname, '../../../../../docs/contexts/securityV3.json')
+            ).toString())
+        };
+    }
+    if (iri.startsWith('https://w3id.org/security/bbs/v1')) {
+        return {
+            documentUrl: iri,
+            document: JSON.parse(fs.readFileSync(
+                path.resolve(__dirname, '../../../../../docs/contexts/bbs.json')
+            ).toString())
+        };
+    }
     if (iri.startsWith('did:example')) {
         return {
             documentUrl: iri,

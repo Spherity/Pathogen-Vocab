@@ -1,27 +1,20 @@
 [
   {
-    "value": "4035",
-    "port": "index",
-    "transmitter": "copy",
-    "capacitor": "hack",
-    "interface": "compress"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "unitCode": "",
-    "value": "9062",
-    "sensor": "program",
-    "program": "generate",
-    "alarm": "override"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
     "type": "QuantitativeValue",
-    "value": "9791",
-    "array": "index"
+    "unitCode": "",
+    "port": "transmit",
+    "array": "parse",
+    "capacitor": "navigate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "feed": "synthesize"
+  },
+  {
+    "unitCode": "",
+    "alarm": "compress",
+    "system": "back up"
   }
 ]

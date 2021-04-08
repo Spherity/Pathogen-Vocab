@@ -1,7 +1,8 @@
 {
   "@context": [
     "https://www.w3.org/2018/credentials/v1",
-    "https://w3id.org/pathogen/v1"
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
   ],
   "id": "http://example.org/credentials/",
   "type": [
@@ -15,73 +16,73 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIevidenceDocument",
-    "lei": "4RPEWL6M8DYI6EU2HF83",
+    "lei": "8L7JM89EML2H5Z94LPOE",
     "entity": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "LEIentity",
-      "legalName": "Kling Inc",
-      "legalNameLanguage": "en_US",
+      "legalName": "Hilll Inc",
+      "legalNameLanguage": "en_IE",
       "otherNames": [
-        "Rutherford - Miller",
-        "Hyatt Group"
+        "Oberbrunner Group",
+        "Dicki - Jacobs"
       ],
       "transliteratedOtherNames": [
-        "Rutherford - Miller",
-        "Hyatt Group"
+        "Oberbrunner Group",
+        "Dicki - Jacobs"
       ],
       "legalAddress": {
         "type": "LEIaddress",
-        "language": "sv",
+        "language": "es",
         "addressLines": [
-          "Kihn Inc",
-          "814 McKenzie Locks"
+          "Bernhard - Kihn",
+          "026 Thompson Mountains"
         ],
-        "addressNumber": "225",
-        "addressNumberWithinBuilding": "4",
-        "mailRouting": "9721 Hoeger Island, 67365",
-        "city": "Lake Rosalind",
-        "region": "Borders",
-        "country": "Gibraltar",
-        "postalCode": "84588-5251"
+        "addressNumber": "34",
+        "addressNumberWithinBuilding": "7",
+        "mailRouting": "6652 Hartmann Haven, 60936",
+        "city": "South Zelda",
+        "region": "Buckinghamshire",
+        "country": "Macao",
+        "postalCode": "44305-5099"
       },
       "headquartersAddress": {
         "type": "LEIaddress",
-        "language": "ar",
+        "language": "en_AU_ocker",
         "addressLines": [
-          "Yost Inc",
-          "06124 Ashton Estate"
+          "Pollich - Roob",
+          "44870 O'Reilly Inlet"
         ],
-        "addressNumber": "116",
-        "addressNumberWithinBuilding": "10",
-        "mailRouting": "15506 Yost Curve, 96009",
-        "city": "New Wava",
-        "region": "Borders",
-        "country": "British Indian Ocean Territory (Chagos Archipelago)",
-        "postalCode": "54255-4365"
+        "addressNumber": "268",
+        "addressNumberWithinBuilding": "5",
+        "mailRouting": "749 Carter Junction, 91097",
+        "city": "Runtemouth",
+        "region": "Bedfordshire",
+        "country": "Cook Islands",
+        "postalCode": "86506"
       },
       "registrationAuthority": {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000005",
-        "otherValidationAuthorityID": "5414B5PX",
-        "validationAuthorityEntityID": "7QO5Y63QO5F8VY69ONUZ"
+        "validationAuthorityID": "RA000661",
+        "otherValidationAuthorityID": "93SRV4LT",
+        "validationAuthorityEntityID": "IS5P214A89CCD3CX8JIA"
       },
-      "legalJurisdiction": "Bedfordshire",
+      "legalJurisdiction": "Berkshire",
       "entityCategory": "Industrial",
-      "legalForm": "LLC",
+      "legalForm": "CORPORATION",
       "associatedEntity": {
         "type": "Organization",
-        "leiCode": "VEGLIKCNL35NEBYE9UN0",
-        "name": "Kuphal Inc"
+        "leiCode": "FFGPQO0ZC4T3LQCKW9R2",
+        "name": "Weissnat - Mills"
       },
-      "status": "REJECTED",
+      "status": "IN PROGRESS",
       "expirationDate": "2022-07-11",
-      "expirationReason": "revolutionize user-centric metrics",
+      "expirationReason": "syndicate strategic experiences",
       "successorEntity": {
         "type": "Organization",
-        "leiCode": "KR14XSOXOL7XNTEONK3C",
-        "name": "Cronin - Zulauf"
+        "leiCode": "SHKZKUE7IXE4JTMDOVJV",
+        "name": "Schoen, Connelly and Schamberger"
       },
       "otherAddresses": []
     },
@@ -92,28 +93,28 @@
       "type": "LEIregistration",
       "initialRegistrationDate": "2020-01-01",
       "lastUpdateDate": "2020-01-01",
-      "status": "CONFIRMED",
+      "status": "IN PROGRESS",
       "nextRenewalDate": "2021-02-02",
-      "managingLou": "WVJDHOQAIIQJPKOSJKOL",
-      "validationSources": "PARTIALLY_CORROBORATED",
+      "managingLou": "VEINYKVDRJDBMANDGZCO",
+      "validationSources": "NOT_CORROBORATED",
       "validationAuthority": [
         {
           "type": "LEIauthority",
-          "validationAuthorityID": "RA000002",
-          "otherValidationAuthorityID": "L1BZVEZV",
-          "validationAuthorityEntityID": "RS3KAQ3VNERBXOFTWRVS"
+          "validationAuthorityID": "RA000005",
+          "otherValidationAuthorityID": "7AT2BE06",
+          "validationAuthorityEntityID": "5P8CYZKNXTK4HVBXLH5L"
         }
       ]
     },
     "bic": [
-      "GOJLDEQVTG"
+      "ZDLPGDEAIQ"
     ]
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..9uoa8tGeXWqovRfdGftwo_IlIreyuapwAVuyV7IoxItCbWDdzx5uISmwyzgifXqdLTt1t1oi1Jdna6uarsLDDw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..8nAWsI-7-RnorZVk_5KH3dd_PDwAWkQAcn6UFeJ0D0w8okmTqPnhD3o407b41iVow36ACYUqeCevVnxg-KliCQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

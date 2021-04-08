@@ -3,19 +3,24 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "priceCurrency": "THB",
-    "system": "quantify",
-    "program": "generate",
-    "interface": "copy",
-    "protocol": "reboot"
+    "price": 8541,
+    "priceCurrency": "ARS",
+    "bus": "copy",
+    "circuit": "compress",
+    "protocol": "copy"
   },
   {
-    "firewall": "navigate"
+    "type": "PriceSpecification",
+    "priceCurrency": "TWD",
+    "alarm": "override",
+    "capacitor": "input",
+    "driver": "input",
+    "sensor": "reboot"
   },
   {
-    "price": 5079,
-    "feed": "back up",
-    "matrix": "connect",
-    "panel": "reboot"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "alarm": "copy"
   }
 ]

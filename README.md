@@ -2,7 +2,20 @@
 
 ![CI](https://github.com/w3c-ccg/pathogen-vocab/workflows/CI/badge.svg) [![CD](https://github.com/w3c-ccg/pathogen-vocab/actions/workflows/cd.yml/badge.svg)](https://github.com/w3c-ccg/pathogen-vocab/actions/workflows/cd.yml)
 
-This specification describes a Linked Data vocabulary for asserting Verifiable Credentials related to pathogen information, such as chemical properties, mechanical properties, country of origin, and other attributes used to determine the status of a products and materials in a supply chain.
+## DRAFT / EXPERIMENTAL VOCABULARY
+
+A pathogen is any organism that can produce disease. A pathogen may also be referred to as an infectious agent, or simply a germ or virus. This Pathogen Vocab specification describes a Linked Data vocabulary for asserting Verifiable Credentials related to pathogen information such as:
+- medical test & immunization measurement event (PCR, antibody, antigen, lateral flow, other test)
+- medical vaccination event (see "Vaccination Certificate Vocabulary")
+- infection risk and access control
+
+## Related Projects
+
+The pathogen vocab is inspired building upon the following community work:
+- [Vaccination Certificate Vocabulary](https://w3c-ccg.github.io/vaccination-vocab/)
+- [WHO Smart Vaccination Card Work](https://www.who.int/publications/m/item/interim-guidance-for-developing-a-smart-vaccination-certificate) 
+- [CCG Traceability Vocabulary](https://github.com/w3c-ccg/traceability-vocab)
+- [Interoperability of health certificates trust framework](https://ec.europa.eu/health/sites/health/files/ehealth/docs/trust-framework_interoperability_certificates_en.pdf) of EU E-Health Network
 
 We encourage contributions meeting the [Contribution Guidelines](CONTRIBUTING.md). While we prefer the creation of issues and Pull Requests in the GitHub repository, discussions often occur on the [public-credentials](http://lists.w3.org/Archives/Public/public-credentials/) mailing list as well.
 

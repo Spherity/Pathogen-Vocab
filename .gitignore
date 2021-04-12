@@ -1,7 +1,13 @@
-*.sw[nop]
-*~
+node_modules
 .DS_Store
-.project
-.settings
+.vscode
+.idea
 
-/node_modules
+docs/contexts/*.jsonld
+docs/credentials/*.json
+
+docs/schemas
+docs/pathogen-openapi-v1.json
+docs/intermediate.json
+docs/sections/vocab.html
+packages/pathogen-schemas/index.js

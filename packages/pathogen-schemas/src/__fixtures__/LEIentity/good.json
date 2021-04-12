@@ -1,0 +1,209 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Bogisich - Tillman",
+    "legalNameLanguage": "en_ZA",
+    "otherNames": [
+      "Ryan - Altenwerth",
+      "Hansen, Bins and Larson"
+    ],
+    "transliteratedOtherNames": [
+      "Ryan - Altenwerth",
+      "Hansen, Bins and Larson"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "de",
+      "addressLines": [
+        "Senger Inc",
+        "526 Reilly Rest"
+      ],
+      "addressNumber": "162",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "01619 Quigley Points, 05960-6527",
+      "city": "Strosinside",
+      "region": "Berkshire",
+      "country": "Guernsey",
+      "postalCode": "68736-8406"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "tr",
+      "addressLines": [
+        "Lowe - Metz",
+        "0517 Reilly Lights"
+      ],
+      "addressNumber": "227",
+      "addressNumberWithinBuilding": "5",
+      "mailRouting": "52614 Daija Trafficway, 94371",
+      "city": "Schambergerview",
+      "region": "Buckinghamshire",
+      "country": "Solomon Islands",
+      "postalCode": "04150-7623"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000003",
+      "otherValidationAuthorityID": "ZJZHN27E",
+      "validationAuthorityEntityID": "O72F179UG6VYQEQUFMCQ"
+    },
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Finance",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "YSW1QHQ3583ZK50HHM7P",
+      "name": "Batz - Littel"
+    },
+    "status": "IN PROGRESS",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "syndicate front-end e-markets",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "F1QEHLVLWSFN9ZLAWC7D",
+      "name": "Konopelski - Murray"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Tillman Inc",
+    "legalNameLanguage": "it",
+    "otherNames": [
+      "Hyatt Group",
+      "Kling Inc"
+    ],
+    "transliteratedOtherNames": [
+      "Hyatt Group",
+      "Kling Inc"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "en_AU",
+      "addressLines": [
+        "Leannon and Sons",
+        "4256 Denis Village"
+      ],
+      "addressNumber": "415",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "31306 Ondricka Rue, 47878-4588",
+      "city": "Constantinmouth",
+      "region": "Buckinghamshire",
+      "country": "Greenland",
+      "postalCode": "02901"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "hy",
+      "addressLines": [
+        "Wehner Inc",
+        "1903 Kurt Course"
+      ],
+      "addressNumber": "62",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "61394 Abigale Vista, 93698",
+      "city": "Jackberg",
+      "region": "Borders",
+      "country": "Argentina",
+      "postalCode": "54365-1101"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000003",
+      "otherValidationAuthorityID": "B5PX7QO5",
+      "validationAuthorityEntityID": "Y63QO5F8VY69ONUZYDO0"
+    },
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Grocery",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "LIKCNL35NEBYE9UN0BLR",
+      "name": "Stroman, Stracke and Marks"
+    },
+    "status": "IN PROGRESS",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "utilize leading-edge experiences",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
+      "name": "Wolff Group"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Powlowski - Hoeger",
+    "legalNameLanguage": "az",
+    "otherNames": [
+      "Hane LLC",
+      "Monahan - Hyatt"
+    ],
+    "transliteratedOtherNames": [
+      "Hane LLC",
+      "Monahan - Hyatt"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "hr",
+      "addressLines": [
+        "Metz - Ferry",
+        "05616 Noble Port"
+      ],
+      "addressNumber": "223",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "5358 Roselyn Villages, 90831",
+      "city": "East Grayce",
+      "region": "Berkshire",
+      "country": "Malta",
+      "postalCode": "52546-3758"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "pl",
+      "addressLines": [
+        "Rau, Wilkinson and Lebsack",
+        "86089 Tillman Forest"
+      ],
+      "addressNumber": "98",
+      "addressNumberWithinBuilding": "5",
+      "mailRouting": "0194 Bradtke Inlet, 46252",
+      "city": "Eloisaside",
+      "region": "Buckinghamshire",
+      "country": "Andorra",
+      "postalCode": "55530-6773"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000004",
+      "otherValidationAuthorityID": "9ZET4I64",
+      "validationAuthorityEntityID": "OU6SI6PA3SK69XYFH3TT"
+    },
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Industrial",
+    "legalForm": "CORPORATION",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "ERBXOFTWRVSBFVTD4AJN",
+      "name": "Nader - Bruen"
+    },
+    "status": "IN PROGRESS",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "implement seamless systems",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "TIVL8S7NL6ECUWWRCK89",
+      "name": "Gutkowski, Goodwin and Reynolds"
+    },
+    "otherAddresses": []
+  }
+]

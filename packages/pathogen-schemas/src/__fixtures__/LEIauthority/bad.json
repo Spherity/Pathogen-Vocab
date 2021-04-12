@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "otherValidationAuthorityID": "ISTOA7U2",
+    "interface": "copy",
+    "circuit": "input"
+  },
+  {
+    "otherValidationAuthorityID": "8Q771VNP",
+    "matrix": "calculate",
+    "microchip": "transmit",
+    "sensor": "connect",
+    "driver": "hack"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "alarm": "synthesize",
+    "application": "program"
+  }
+]

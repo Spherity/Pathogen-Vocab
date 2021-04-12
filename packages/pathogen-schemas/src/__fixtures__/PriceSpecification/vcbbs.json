@@ -1,0 +1,30 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PriceSpecification",
+    "price": 8541,
+    "priceCurrency": "ARS"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:10Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "rKHb6739U/ONrIBFow6xgtdyQtm3mFIGqhN6CFirE4akfIRUCSe/h+R7F4kB00H2KQQkNdVqFte0/gkFo90lUkaFkPUzRWIykf1XvsQ0lF0dA7e8L58TJFMy71T2yP7V+3CRAh5q6HHUuyDbsKeqZA==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

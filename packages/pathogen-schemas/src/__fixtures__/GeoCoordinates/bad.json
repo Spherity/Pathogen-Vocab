@@ -1,0 +1,25 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "GeoCoordinates",
+    "program": "back up",
+    "bandwidth": "connect",
+    "array": "copy"
+  },
+  {
+    "type": "GeoCoordinates",
+    "longitude": "127.0159",
+    "protocol": "compress",
+    "driver": "reboot",
+    "matrix": "back up"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "latitude": "-13.0008",
+    "program": "parse"
+  }
+]

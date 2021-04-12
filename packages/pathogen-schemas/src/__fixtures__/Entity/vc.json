@@ -1,0 +1,52 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Person",
+    "firstName": "Pinkie",
+    "lastName": "Abernathy",
+    "email": "Vivian59@example.net",
+    "phoneNumber": "555-837-1699",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Rempel - Jerde",
+      "description": "Networked next generation open architecture",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "74220 Crooks Mountains",
+        "addressLocality": "Rontown",
+        "addressRegion": "Texas",
+        "postalCode": "95136",
+        "addressCountry": "Samoa"
+      },
+      "email": "Houston7@example.com",
+      "phoneNumber": "555-526-1959",
+      "faxNumber": "555-409-1676"
+    },
+    "jobTitle": "Direct Identity Specialist",
+    "idnumber": "CUXZDUYRLNEC",
+    "idnumberType": "National Identity Card",
+    "birthDate": "1985-11-23"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "Ed25519Signature2018",
+    "created": "2019-12-11T03:50:55Z",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..LkbeHoMDhfHmcwVSvoxQtfsH36irpM1KvAOVPFvkQNopQQ9lY2as-FKdDEBDJxvDV44w9PAv6KswNR9EAJqJDQ",
+    "proofPurpose": "assertionMethod",
+    "verificationMethod": "did:example:123#key-0"
+  }
+}

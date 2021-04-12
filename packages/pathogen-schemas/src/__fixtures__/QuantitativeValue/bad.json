@@ -1,0 +1,20 @@
+[
+  {
+    "type": "QuantitativeValue",
+    "unitCode": "",
+    "port": "transmit",
+    "array": "parse",
+    "capacitor": "navigate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "feed": "synthesize"
+  },
+  {
+    "unitCode": "",
+    "alarm": "compress",
+    "system": "back up"
+  }
+]

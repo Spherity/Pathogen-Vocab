@@ -1,0 +1,56 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "nb_NO",
+    "addressLines": [
+      "Lubowitz, Rice and Bogisich",
+      "26704 Windler Mountain"
+    ],
+    "addressNumber": "127",
+    "addressNumberWithinBuilding": "4",
+    "mailRouting": "16809 Kunze Summit, 45598-5366",
+    "city": "Kennedyhaven",
+    "region": "Berkshire",
+    "country": "Falkland Islands (Malvinas)",
+    "postalCode": "78578"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "ne",
+    "addressLines": [
+      "Mosciski LLC",
+      "984 Rey Burg"
+    ],
+    "addressNumber": "80",
+    "addressNumberWithinBuilding": "9",
+    "mailRouting": "18327 Abbott Union, 58752-0120",
+    "city": "Erickshire",
+    "region": "Bedfordshire",
+    "country": "Saint Kitts and Nevis",
+    "postalCode": "61236-0587"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "en_AU_ocker",
+    "addressLines": [
+      "Romaguera, Brakus and Schamberger",
+      "93177 Kristina Circle"
+    ],
+    "addressNumber": "344",
+    "addressNumberWithinBuilding": "8",
+    "mailRouting": "3060 Saul Canyon, 96947-6157",
+    "city": "North Anna",
+    "region": "Bedfordshire",
+    "country": "United Arab Emirates",
+    "postalCode": "83348"
+  }
+]

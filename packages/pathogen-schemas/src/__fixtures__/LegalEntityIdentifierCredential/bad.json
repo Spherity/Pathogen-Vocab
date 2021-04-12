@@ -1,0 +1,22 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "leiCode": "YSS93LFZVVYLGWMZ6QZ2",
+    "certificateName": "US Legal Entity Certificate",
+    "bus": "calculate",
+    "program": "quantify",
+    "transmitter": "generate",
+    "bandwidth": "compress"
+  },
+  {
+    "certificateName": "US Legal Entity Certificate",
+    "application": "connect",
+    "feed": "parse",
+    "panel": "reboot"
+  },
+  {
+    "transmitter": "copy"
+  }
+]

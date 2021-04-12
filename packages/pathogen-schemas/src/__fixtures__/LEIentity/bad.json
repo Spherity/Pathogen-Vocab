@@ -1,0 +1,75 @@
+[
+  {
+    "transliteratedOtherNames": [
+      "Ryan - Altenwerth",
+      "Hansen, Bins and Larson"
+    ],
+    "expirationReason": "syndicate front-end e-markets",
+    "protocol": "connect",
+    "system": "compress",
+    "bandwidth": "program",
+    "interface": "connect"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "legalName": "Tillman Inc",
+    "legalNameLanguage": "it",
+    "transliteratedOtherNames": [
+      "Hyatt Group",
+      "Kling Inc"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "en_AU",
+      "addressLines": [
+        "Leannon and Sons",
+        "4256 Denis Village"
+      ],
+      "addressNumber": "415",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "31306 Ondricka Rue, 47878-4588",
+      "city": "Constantinmouth",
+      "region": "Buckinghamshire",
+      "country": "Greenland",
+      "postalCode": "02901"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "hy",
+      "addressLines": [
+        "Wehner Inc",
+        "1903 Kurt Course"
+      ],
+      "addressNumber": "62",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "61394 Abigale Vista, 93698",
+      "city": "Jackberg",
+      "region": "Borders",
+      "country": "Argentina",
+      "postalCode": "54365-1101"
+    },
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Grocery",
+    "expirationReason": "utilize leading-edge experiences",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
+      "name": "Wolff Group"
+    },
+    "circuit": "calculate"
+  },
+  {
+    "legalJurisdiction": "Berkshire",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "TIVL8S7NL6ECUWWRCK89",
+      "name": "Gutkowski, Goodwin and Reynolds"
+    },
+    "otherAddresses": [],
+    "bus": "program",
+    "sensor": "override",
+    "firewall": "bypass"
+  }
+]

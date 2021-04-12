@@ -1,0 +1,37 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "MedicalTest",
+    "affectedBy": [
+      "Antibiotics"
+    ],
+    "signDetected": "Positive",
+    "usedToDiagnose": "Covid19 SA Variant",
+    "usesDevice": "CHJUTPHQIUQK",
+    "legalStatus": "Preliminary Approval",
+    "medicineSystem": "evidence-based",
+    "port": "override",
+    "matrix": "generate",
+    "panel": "quantify",
+    "microchip": "back up"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "MedicalTest",
+    "usesDevice": "SVXFCJTZEIWH",
+    "legalStatus": "Revoked",
+    "firewall": "override",
+    "program": "synthesize"
+  },
+  {
+    "affectedBy": [
+      "Birthcontrol"
+    ],
+    "usesDevice": "CQISWNFHJFBA",
+    "bandwidth": "index"
+  }
+]

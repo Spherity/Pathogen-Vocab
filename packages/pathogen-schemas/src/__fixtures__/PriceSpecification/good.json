@@ -1,0 +1,26 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PriceSpecification",
+    "price": 8541,
+    "priceCurrency": "ARS"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PriceSpecification",
+    "price": 2568,
+    "priceCurrency": "TWD"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PriceSpecification",
+    "price": 315,
+    "priceCurrency": "NZD"
+  }
+]

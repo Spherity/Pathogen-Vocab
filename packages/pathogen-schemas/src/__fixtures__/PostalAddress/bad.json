@@ -1,0 +1,16 @@
+[
+  {
+    "microchip": "input",
+    "interface": "hack"
+  },
+  {
+    "type": "PostalAddress",
+    "streetAddress": "592 Larue Crescent",
+    "capacitor": "connect"
+  },
+  {
+    "transmitter": "parse",
+    "sensor": "override",
+    "matrix": "bypass"
+  }
+]

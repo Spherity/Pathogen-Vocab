@@ -1,0 +1,88 @@
+[
+  {
+    "evaluation": "No",
+    "distributor": {
+      "type": "Organization",
+      "name": "Conn - Lakin",
+      "description": "Configurable mission-critical database",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "557 Ezequiel Forges",
+        "addressLocality": "Davisshire",
+        "addressRegion": "Virginia",
+        "postalCode": "52444",
+        "addressCountry": "Finland"
+      },
+      "email": "Moises_Swaniawski@example.org",
+      "phoneNumber": "555-952-6534",
+      "faxNumber": "555-238-9206"
+    },
+    "sensitivity": "High",
+    "specificity": [
+      "Sars-Cov2-Variant"
+    ],
+    "sensor": "hack",
+    "system": "back up",
+    "circuit": "copy"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "CovidTestRegistrationCredential",
+    "nationalHealthAgency": "Sauer - McClure",
+    "testID": "9M707NI6ZY",
+    "productName": "The Nagasaki Lander is the trademarked name of several series of Nagasaki sport bikes, that started with the 1984 ABC800J",
+    "evaluation": "Yes",
+    "marketingAuthorativeHolder": "Lynch and Sons",
+    "distributor": {
+      "type": "Organization",
+      "name": "Ratke, Kling and Legros",
+      "description": "Open-source intangible help-desk",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "52530 Herta Keys",
+        "addressLocality": "Lake Stanborough",
+        "addressRegion": "Hawaii",
+        "postalCode": "16034",
+        "addressCountry": "Sri Lanka"
+      },
+      "email": "Gregorio_Kuphal@example.com",
+      "phoneNumber": "555-608-6287",
+      "faxNumber": "555-159-3646"
+    },
+    "specificity": [
+      "Sars-Cov2-Variant"
+    ],
+    "testDocumentationLink": "https://vc.example.com/?queryID=0x3247C1EA855Deb8B0F3CfDe80c4554eb0d27Bc3Dec5f2B5FfdCBCF8Ee34867D1",
+    "bus": "back up"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "CovidTestRegistrationCredential",
+    "evaluation": "Yes",
+    "marketingAuthorativeHolder": "Hoeger, Hettinger and McLaughlin",
+    "distributor": {
+      "type": "Organization",
+      "name": "Bahringer - Langworth",
+      "description": "Expanded optimal intranet",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "4753 Eleanora Lights",
+        "addressLocality": "Port Weldonmouth",
+        "addressRegion": "Rhode Island",
+        "postalCode": "18549",
+        "addressCountry": "Tokelau"
+      },
+      "email": "Loren21@example.net",
+      "phoneNumber": "555-523-8198",
+      "faxNumber": "555-263-4826"
+    },
+    "sensitivity": "Very High",
+    "monitor": "copy",
+    "pixel": "quantify",
+    "capacitor": "connect"
+  }
+]

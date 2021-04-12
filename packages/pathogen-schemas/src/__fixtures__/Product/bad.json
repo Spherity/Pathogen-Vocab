@@ -1,0 +1,49 @@
+[
+  {
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Wehner, Runte and Schuster",
+      "description": "Profound scalable process improvement",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "2725 Adela Ville",
+        "addressLocality": "Ziemeville",
+        "addressRegion": "North Dakota",
+        "postalCode": "80200-0738",
+        "addressCountry": "New Caledonia"
+      },
+      "email": "Rosario.Prohaska@example.net",
+      "phoneNumber": "555-766-1621",
+      "faxNumber": "555-228-1050"
+    },
+    "sku": "407548957698",
+    "alarm": "transmit"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2268"
+    },
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "5494"
+    },
+    "sku": "603497064169",
+    "application": "hack",
+    "microchip": "program",
+    "monitor": "generate"
+  },
+  {
+    "name": "Incredible Wooden Chair",
+    "bus": "connect",
+    "driver": "navigate",
+    "program": "reboot"
+  }
+]

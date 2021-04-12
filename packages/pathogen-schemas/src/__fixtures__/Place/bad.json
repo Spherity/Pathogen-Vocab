@@ -1,0 +1,42 @@
+[
+  {
+    "type": "Place",
+    "globalLocationNumber": "6409667124670",
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Leffler, Hirthe and Langworth",
+      "streetAddress": "14610 Ezra Tunnel",
+      "addressLocality": "Cristborough",
+      "addressRegion": "Alaska",
+      "postalCode": "63603-3074",
+      "addressCountry": "Montserrat"
+    },
+    "pixel": "generate",
+    "array": "program",
+    "program": "quantify",
+    "matrix": "quantify"
+  },
+  {
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "33.8894",
+      "longitude": "-119.7505"
+    },
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Witting and Sons",
+      "streetAddress": "09559 Boyle Crest",
+      "addressLocality": "East Alexandreside",
+      "addressRegion": "Maryland",
+      "postalCode": "13037",
+      "addressCountry": "Cambodia"
+    },
+    "bus": "hack",
+    "array": "copy",
+    "sensor": "program"
+  },
+  {
+    "monitor": "override",
+    "microchip": "bypass"
+  }
+]

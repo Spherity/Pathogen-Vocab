@@ -1,0 +1,38 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Heaney - Pagac",
+    "streetAddress": "29855 McClure Inlet",
+    "addressLocality": "Broderickshire",
+    "addressRegion": "Minnesota",
+    "postalCode": "68424",
+    "addressCountry": "Sao Tome and Principe"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Stehr and Sons",
+    "streetAddress": "592 Larue Crescent",
+    "addressLocality": "Millerchester",
+    "addressRegion": "Louisiana",
+    "postalCode": "48017-7510",
+    "addressCountry": "Serbia"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "PostalAddress",
+    "organizationName": "Wunsch - Botsford",
+    "streetAddress": "7845 Kulas Grove",
+    "addressLocality": "South Concepcion",
+    "addressRegion": "New Hampshire",
+    "postalCode": "43659-4357",
+    "addressCountry": "Syrian Arab Republic"
+  }
+]

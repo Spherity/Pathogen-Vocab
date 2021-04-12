@@ -1,0 +1,36 @@
+[
+  {
+    "name": "Feeney LLC",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "35954 Lenny Canyon",
+      "addressLocality": "Cecileview",
+      "addressRegion": "Arkansas",
+      "postalCode": "99958",
+      "addressCountry": "Honduras"
+    },
+    "phoneNumber": "555-374-1143",
+    "interface": "compress",
+    "microchip": "calculate",
+    "application": "copy",
+    "system": "generate"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "ContactPoint",
+    "email": "Rhoda_McGlynn@example.com",
+    "phoneNumber": "555-392-8600",
+    "panel": "copy",
+    "transmitter": "hack"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "email": "Marcella_Hane@example.org",
+    "interface": "hack",
+    "matrix": "synthesize"
+  }
+]

@@ -1,0 +1,36 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 7185,
+    "totalCollect": 2395,
+    "sourceCurrency": "BND",
+    "destinationCurrency": "IQD",
+    "currencyConversionRate": 3,
+    "ccChargesDestinationCurrency": "BND",
+    "chargesDestination": 309,
+    "totalCollectCharge": 77.25
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-04-08T22:48:11Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "ta5uzd852d3+o3AqOmwRzkfvM/Ns5oROs1mXu2lxPnp1erIjFwiCGSPbP4g/M3KvMVkm9Mw/wkOYarRLV+MxfNbk2NfFU21xQ6HEJn1MEiIa7W8zBiaW3GDx7tToAha1W9y61LmUX2tDhVpmMnEYAw==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

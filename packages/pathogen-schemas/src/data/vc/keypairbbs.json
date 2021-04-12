@@ -1,0 +1,16 @@
+{
+    "id": "did:example:123#key-1",
+    "type": "JsonWebKey2020",
+    "controller": "did:example:123",
+    "publicKeyJwk": {
+        "crv": "BLS12381_G2",
+        "x": "rVQJmeN7gR7KPY4fjCwiiZi3WMmy8cakUP4n3nQZ6U0zL8k0E-JQnQ8Wal-mDf9DBj4V2UF_uLADNlj6JOf_lC-LcOw3eyKltLfhWZ3E82_3Jx7m77veHHy1I4fcYiIr",
+        "kty": "EC"
+    },
+    "privateKeyJwk": {
+        "crv": "BLS12381_G2",
+        "d": "RN5QgrbJ04TJ7ezKvbC0Xbu-J766jBKMHQRo2L_-cew",
+        "x": "rVQJmeN7gR7KPY4fjCwiiZi3WMmy8cakUP4n3nQZ6U0zL8k0E-JQnQ8Wal-mDf9DBj4V2UF_uLADNlj6JOf_lC-LcOw3eyKltLfhWZ3E82_3Jx7m77veHHy1I4fcYiIr",
+        "kty": "EC"
+    }
+}

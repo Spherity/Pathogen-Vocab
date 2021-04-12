@@ -1,0 +1,146 @@
+[
+  {
+    "type": "StandardCovidTestPassDetailed",
+    "testCenter": {
+      "type": "Organization",
+      "name": "Batz, Rice and Johnson",
+      "description": "Self-enabling well-modulated emulation",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "00663 Emmalee Circles",
+        "addressLocality": "Lake Marion",
+        "addressRegion": "Alaska",
+        "postalCode": "82241",
+        "addressCountry": "Paraguay"
+      },
+      "email": "Charlotte_Kassulke80@example.com",
+      "phoneNumber": "555-727-4135",
+      "faxNumber": "555-666-9429"
+    },
+    "testResult": "Positive",
+    "testDetails": {
+      "type": "MedicalTest",
+      "affectedBy": [
+        "Antibiotics"
+      ],
+      "normalRange": [
+        "Any Person"
+      ],
+      "signDetected": "Negative",
+      "usedToDiagnose": "Covid19 SA Variant",
+      "usesDevice": "JWJWVGYXZPTJ",
+      "code": "JSCMUJOS",
+      "legalStatus": "Revoked",
+      "medicineSystem": "evidence-based",
+      "recognizingAuthority": {
+        "type": "Organization",
+        "name": "Prohaska - Fadel",
+        "description": "Centralized foreground secured line",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "9095 Rippin Causeway",
+          "addressLocality": "Lockmanborough",
+          "addressRegion": "Oklahoma",
+          "postalCode": "91678",
+          "addressCountry": "Nauru"
+        },
+        "email": "Meggie51@example.net",
+        "phoneNumber": "555-880-1910",
+        "faxNumber": "555-854-1756"
+      },
+      "relevantSpecialty": "Other"
+    },
+    "protocol": "input",
+    "bandwidth": "transmit"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "healthProfessionalAdministered": "Unkown",
+    "testDetails": {
+      "type": "MedicalTest",
+      "affectedBy": [
+        "High Blood Pressure Medicines"
+      ],
+      "normalRange": [
+        "Any Person"
+      ],
+      "signDetected": "Negative",
+      "usedToDiagnose": "Covid19 2020 Variants",
+      "usesDevice": "YTWJGGLFDGYH",
+      "code": "PFFWRTQB",
+      "legalStatus": "Revoked",
+      "medicineSystem": "evidence-based",
+      "recognizingAuthority": {
+        "type": "Organization",
+        "name": "Ankunding Inc",
+        "description": "Centralized systemic open architecture",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "04378 Winnifred Manors",
+          "addressLocality": "West Laurenmouth",
+          "addressRegion": "Maryland",
+          "postalCode": "98858",
+          "addressCountry": "Bahamas"
+        },
+        "email": "Kaden_Zulauf91@example.net",
+        "phoneNumber": "555-521-1331",
+        "faxNumber": "555-473-2204"
+      },
+      "relevantSpecialty": "Communicable Disease"
+    },
+    "transmitter": "index",
+    "matrix": "quantify",
+    "bandwidth": "program"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "StandardCovidTestPassDetailed",
+    "testType": "Rapid PCR Test",
+    "testedPerson": {
+      "type": "Person",
+      "firstName": "Dan",
+      "lastName": "Bauch",
+      "idnumber": "ODNLJFXJDNIR",
+      "idnumberType": "Passport",
+      "birthDate": "1985-11-23"
+    },
+    "testDetails": {
+      "type": "MedicalTest",
+      "affectedBy": [
+        "Birthcontrol"
+      ],
+      "normalRange": [
+        "Any Person"
+      ],
+      "signDetected": "Negative",
+      "usedToDiagnose": "Covid19 SA Variant",
+      "usesDevice": "TNACWLJNKGCH",
+      "code": "TJEAOIVF",
+      "legalStatus": "Approved",
+      "medicineSystem": "evidence-based",
+      "recognizingAuthority": {
+        "type": "Organization",
+        "name": "Lemke - Koepp",
+        "description": "Re-contextualized optimizing application",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "6605 Waelchi Trafficway",
+          "addressLocality": "North Abdiel",
+          "addressRegion": "Indiana",
+          "postalCode": "80751-9253",
+          "addressCountry": "Tuvalu"
+        },
+        "email": "Caleb71@example.org",
+        "phoneNumber": "555-536-3125",
+        "faxNumber": "555-656-7839"
+      },
+      "relevantSpecialty": "Non-Communicable Disease"
+    },
+    "application": "calculate",
+    "sensor": "connect"
+  }
+]

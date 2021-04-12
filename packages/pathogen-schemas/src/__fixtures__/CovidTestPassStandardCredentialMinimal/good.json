@@ -1,0 +1,41 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "StandardCovidTestPassMinimal",
+    "testType": "Antigen Test",
+    "testedPerson": {
+      "type": "Person",
+      "idnumber": "OZXWAVZGMESR",
+      "idnumberType": "National Identity Card"
+    },
+    "testResult": "Negative"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "StandardCovidTestPassMinimal",
+    "testType": "PCR Test",
+    "testedPerson": {
+      "type": "Person",
+      "idnumber": "YWVTZKDYTZYF",
+      "idnumberType": "Passport"
+    },
+    "testResult": "Positive"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "StandardCovidTestPassMinimal",
+    "testType": "Rapid PCR Test",
+    "testedPerson": {
+      "type": "Person",
+      "idnumber": "WQMNTXOUZDTI",
+      "idnumberType": "National Identity Card"
+    },
+    "testResult": "Negative"
+  }
+]

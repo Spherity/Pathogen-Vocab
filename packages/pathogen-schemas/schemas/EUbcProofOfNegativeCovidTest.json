@@ -1,0 +1,62 @@
+{
+    "$id": "https://w3id.org/pathogen/schemas/EUbcProofOfNegativeCovidTest.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$comment": "{\"term\": \"EUbcProofOfNegativeCovidTest\", \"@id\": \"https://w3id.org/pathogen#EUbcProofOfNegativeCovidTest\"}",
+    "title": "StandardCovidTestPassDetailed",
+    "description": "A standard Covid19 Testpass containing detailed data",
+    "type": "object",
+    "properties": {
+      "@context": {
+        "type": "array"
+      },
+      "type": {
+        "oneOf": [
+          {
+            "type": "string"
+          },
+          {
+            "type": "array"
+          }
+        ]
+      },
+      "testType": {
+        "$comment": "{\"term\": \"testType\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/ValueSet/covid-19-lab-methods\"}",
+        "title": "TestType",
+        "description": "Type of Covid19 test",
+        "type": "string"
+      },
+      "testCenter": {
+        "$comment": "{\"term\": \"testCenter\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/StructureDefinition/Location-dgc\"}",
+        "title": "Test Center",
+        "description": "Name and location of test center",
+        "$ref": "https://w3id.org/pathogen/schemas/Organization.json"
+      },
+      "healthProfessionalAdministered": {
+        "$comment": "{\"term\": \"healthProfessionalAdministered\", \"@id\": \"http://hl7.org/fhir/uv/ips/StructureDefinition/Practitioner-uv-ips\"}",
+        "title": "Health Professional Administration",
+        "description": "Was test administered by a certified health professional",
+        "type": "string"
+      },
+      "testRecipient": {
+        "$comment": "{\"term\": \"testRecipient\", \"@id\": \"http://hl7.org/fhir/uv/ips/StructureDefinition/Patient-uv-ips\"}",
+        "title": "Subject/Tested Person",
+        "description": "Person receiving the test",
+        "$ref": "https://w3id.org/pathogen/schemas/Person.json"
+      },
+      "testResult": {
+        "$comment": "{\"term\": \"testResult\", \"@id\": \"http://hl7.org/fhir/ValueSet/observation-interpretation\"}",
+        "title": "testResult",
+        "description": "Result of Covid19 Test",
+        "type": "string"
+      },
+      "testDetails": {
+        "$comment": "{\"term\": \"testDetails\", \"@id\": \"http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-pathology-uv-ips\"}",
+        "title": "testDetails",
+        "description": "Details of the used test",
+        "$ref": "https://w3id.org/pathogen/schemas/MedicalTest.json"
+      }
+    },
+    "additionalProperties": false,
+    "examples": []
+  }
+  

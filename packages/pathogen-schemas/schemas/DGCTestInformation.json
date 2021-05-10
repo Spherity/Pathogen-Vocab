@@ -1,0 +1,81 @@
+{
+    "$id": "https://w3id.org/pathogen/schemas/DGCTestEvent.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$comment": "{\"term\": \"DGCTestEvent\", \"@id\": \"https://hl7.eu/fhir/ig/dgc/TestEvent\"}",
+    "title": "DGCTestEvent",
+    "description": "Lab test information for vax.",
+    "type": "object",
+    "properties": {
+        "@context": {
+            "type": "array"
+        },
+        "type": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "array"
+                }
+            ]
+        },
+    
+        "testName": {
+          "$comment": "{\"term\": \"testName\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/ValueSet/loinc-tests-covid-19\"}",
+          "type": "string"
+        },
+        "testType": {
+          "$comment": "{\"term\": \"testType\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/ValueSet/covid-19-lab-methods\"}",
+          "title": "TestType",
+          "description": "Type of Covid19 test",
+          "type": "string"
+        },
+        "sampleOriginType": {
+          "$comment": "{\"term\": \"sampleOriginType\", \"@id\": \"http://hl7.org/fhir/ValueSet/body-site\" }",
+          "type": "string"
+        },
+        "sampleCollectionDateTime": {
+          "$comment": "{\"term\": \"sampleCollectionDateTime\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/DiagnosticReport.specimen.collectedDateTime\"}",
+          "type": "string",
+          "format": "date-time"
+        },
+        "testResult": {
+          "$comment": "{\"term\": \"testResult\", \"@id\": \"http://hl7.org/fhir/ValueSet/observation-interpretation\"}",
+          "title": "testResult",
+          "description": "Result of Covid19 Test",
+          "type": "string"
+        },
+        "testCenter": {
+          "$comment": "{\"term\": \"testCenter\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/StructureDefinition/Location-dgc\"}",
+          "title": "Test Center",
+          "description": "Name and location of test center",
+          "$ref": "https://w3id.org/pathogen/schemas/Organization.json"
+        },
+        "testValidatorId" : {
+            "$comment": "{ \"term\": \"testValidatorId\", \"@id\":\"http://hl7.eu/fhir/ig/dgc/DiagnosticReport.resultsIntepreter\"}",
+            "type":"string"
+        },
+        "healthProfessionalAdministered": {
+          "$comment": "{\"term\": \"healthProfessionalAdministered\", \"@id\": \"http://hl7.org/fhir/uv/ips/StructureDefinition/Practitioner-uv-ips\"}",
+          "title": "Health Professional Administration",
+          "description": "Was test administered by a certified health professional",
+          "type": "string"
+        },
+        "testRecipient": {
+          "$comment": "{\"term\": \"testRecipient\", \"@id\": \"http://hl7.org/fhir/uv/ips/StructureDefinition/Patient-uv-ips\"}",
+          "title": "Subject/Tested Person",
+          "description": "Person receiving the test",
+          "$ref": "https://w3id.org/pathogen/schemas/Person.json"
+        },
+        "testDetails": {
+          "$comment": "{\"term\": \"testDetails\", \"@id\": \"http://hl7.org/fhir/uv/ips/StructureDefinition/Observation-results-pathology-uv-ips\"}",
+          "title": "testDetails",
+          "description": "Details of the used test",
+          "$ref": "https://w3id.org/pathogen/schemas/MedicalTest.json"
+        },
+        "countryOfTestAdminstration" : {
+          "$comment": "{ \"term\": \"testValidatorId\", \"@id\":\"https://w3id.org/vaccination#countryOfVaccination\"}",
+          "type" : "string"
+        }
+    }
+}

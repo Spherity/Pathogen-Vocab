@@ -1,0 +1,37 @@
+{
+  "$id": "https://w3id.org/pathogen/schemas/DGCProofofNegativeCovidTest.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$comment": "{\"term\": \"DGCProofOfNegativeCovidTest\", \"@id\": \"https://w3id.org/pathogen#DGCProofOfNegativeCovidTest\"}",
+  "title": "StandardCovidTestPassDetailed",
+  "description": "A standard Covid19 Testpass containing detailed data",
+  "type": "object",
+  "properties": {
+    "@context": {
+      "type": "array"
+    },
+    "type": {
+      "oneOf": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "array"
+        }
+      ]
+    },
+    "testInformation" : {
+      "$comment": "{\"term\": \"testInformation\", \"@id\": \"https://w3id.org/pathogen#DGCTestInformation\"}",
+      "title": "Test Event",
+      "description": "Lab test",
+      "$ref": "https://w3id.org/pathogen/schemas/DGCTestInformation.json"
+    },
+    "personalInformation" : {
+      "$comment": "{\"term\": \"personalInformation\", \"@id\": \"https://w3id.org/pathogen#DGCRecipient\"}",
+      "title": "Subject (Patient) personal information",
+      "description": "Personal Information",
+      "$ref": "https://w3id.org/pathogen/schemas/DGCRecipient.json"
+    }
+  },
+  "additionalProperties": false,
+  "examples": []
+}

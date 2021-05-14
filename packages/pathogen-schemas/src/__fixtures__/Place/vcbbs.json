@@ -16,28 +16,28 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "6409667124670",
+    "globalLocationNumber": "2175871771279",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "37.0055",
-      "longitude": "-38.5293"
+      "latitude": "52.2918",
+      "longitude": "17.7561"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Leffler, Hirthe and Langworth",
-      "streetAddress": "14610 Ezra Tunnel",
-      "addressLocality": "Cristborough",
-      "addressRegion": "Alaska",
-      "postalCode": "63603-3074",
-      "addressCountry": "Montserrat"
+      "organizationName": "Beer Group",
+      "streetAddress": "248 Wade Burgs",
+      "addressLocality": "Port Jaleelport",
+      "addressRegion": "Wyoming",
+      "postalCode": "47845",
+      "addressCountry": "French Polynesia"
     }
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:11Z",
+    "created": "2021-05-14T22:05:36Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "rFaQSWvDLPIq+AAv4Cpzi2ezxT1JakXqMLRVE0R5oTN1HtOEXqF3o0WiLb7ms+RmTtMHNUXAxdxPBqt7NCTCEYsQHHRRhuLHRYDexO1PqD4yNmxcHv9p+eqQYtJ/LSg/kV3geLBhy9b0+BOWy4ZHfg==",
+    "proofValue": "iZ9cnJXMRE5UCQztjAtM2H8pm53ZQcEAydcIdSXOM+1Tu/4hSS7yPyox1vPsr8zCIwCZVlFa87p7GpZJXIplIO1gy5zWgn9YfwZMRBEqMVVVMWR8X5yPJuOrNIjlXEIUe/rQfVpumM+ygN/GJ1u4tw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

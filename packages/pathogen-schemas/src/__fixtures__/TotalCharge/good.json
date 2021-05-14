@@ -4,41 +4,41 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 7185,
-    "totalCollect": 2395,
-    "sourceCurrency": "BND",
-    "destinationCurrency": "IQD",
-    "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "BND",
-    "chargesDestination": 309,
-    "totalCollectCharge": 77.25
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "TotalCharge",
-    "totalPrepaid": 1358.25,
-    "totalCollect": 452.75,
-    "sourceCurrency": "LYD",
-    "destinationCurrency": "LYD",
-    "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "LYD",
-    "chargesDestination": 438,
-    "totalCollectCharge": 109.5
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "TotalCharge",
-    "totalPrepaid": 6733.5,
-    "totalCollect": 2244.5,
-    "sourceCurrency": "KMF",
-    "destinationCurrency": "CNY",
+    "totalPrepaid": 3879,
+    "totalCollect": 1293,
+    "sourceCurrency": "MKD",
+    "destinationCurrency": "IRR",
     "currencyConversionRate": 4,
-    "ccChargesDestinationCurrency": "KMF",
-    "chargesDestination": 59,
-    "totalCollectCharge": 14.75
+    "ccChargesDestinationCurrency": "MKD",
+    "chargesDestination": 333,
+    "totalCollectCharge": 83.25
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 3735,
+    "totalCollect": 1245,
+    "sourceCurrency": "KHR",
+    "destinationCurrency": "TWD",
+    "currencyConversionRate": 2,
+    "ccChargesDestinationCurrency": "KHR",
+    "chargesDestination": 549,
+    "totalCollectCharge": 137.25
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 540,
+    "totalCollect": 180,
+    "sourceCurrency": "CNY",
+    "destinationCurrency": "MZN",
+    "currencyConversionRate": 1,
+    "ccChargesDestinationCurrency": "CNY",
+    "chargesDestination": 371,
+    "totalCollectCharge": 92.75
   }
 ]

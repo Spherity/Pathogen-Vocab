@@ -4,50 +4,50 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "ContactPoint",
-    "name": "Feeney LLC",
+    "name": "Larkin - Wyman",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "35954 Lenny Canyon",
-      "addressLocality": "Cecileview",
-      "addressRegion": "Arkansas",
-      "postalCode": "99958",
-      "addressCountry": "Honduras"
+      "streetAddress": "19163 Adaline Plain",
+      "addressLocality": "North Einar",
+      "addressRegion": "Nebraska",
+      "postalCode": "31029-3240",
+      "addressCountry": "Saudi Arabia"
     },
-    "email": "Idella60@example.org",
-    "phoneNumber": "555-374-1143"
+    "email": "Jamil_Bayer68@example.com",
+    "phoneNumber": "555-656-2797"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "ContactPoint",
-    "name": "Rogahn - Goldner",
+    "name": "Durgan - Lockman",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "09874 Tremblay Views",
-      "addressLocality": "Metzchester",
-      "addressRegion": "Washington",
-      "postalCode": "05150",
-      "addressCountry": "Vanuatu"
+      "streetAddress": "00262 Bonita Loaf",
+      "addressLocality": "Jermeyfort",
+      "addressRegion": "Alaska",
+      "postalCode": "93216",
+      "addressCountry": "Saint Lucia"
     },
-    "email": "Rhoda_McGlynn@example.com",
-    "phoneNumber": "555-392-8600"
+    "email": "Christine_Bartell77@example.com",
+    "phoneNumber": "555-380-4826"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "ContactPoint",
-    "name": "Bergnaum and Sons",
+    "name": "Abshire Inc",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "7312 Schultz Avenue",
-      "addressLocality": "New Merlechester",
-      "addressRegion": "South Carolina",
-      "postalCode": "60936-1988",
-      "addressCountry": "Netherlands Antilles"
+      "streetAddress": "372 Kyler Mountains",
+      "addressLocality": "Port Earl",
+      "addressRegion": "New Mexico",
+      "postalCode": "21281-0094",
+      "addressCountry": "Samoa"
     },
-    "email": "Marcella_Hane@example.org",
-    "phoneNumber": "555-504-3978"
+    "email": "Cloyd_Quigley79@example.net",
+    "phoneNumber": "555-455-2788"
   }
 ]

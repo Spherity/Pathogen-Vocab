@@ -16,67 +16,67 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Bogisich - Tillman",
-    "legalNameLanguage": "en_ZA",
+    "legalName": "Bins and Sons",
+    "legalNameLanguage": "zh_CN",
     "otherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "O'Conner - Bode",
+      "Jacobson LLC"
     ],
     "transliteratedOtherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "O'Conner - Bode",
+      "Jacobson LLC"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "de",
+      "language": "en_BORK",
       "addressLines": [
-        "Senger Inc",
-        "526 Reilly Rest"
+        "Spencer and Sons",
+        "7846 Gabriel Hollow"
       ],
-      "addressNumber": "162",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "01619 Quigley Points, 05960-6527",
-      "city": "Strosinside",
-      "region": "Berkshire",
-      "country": "Guernsey",
-      "postalCode": "68736-8406"
+      "addressNumber": "481",
+      "addressNumberWithinBuilding": "8",
+      "mailRouting": "950 Jonathon Neck, 54073-4685",
+      "city": "Schimmelview",
+      "region": "Cambridgeshire",
+      "country": "Chile",
+      "postalCode": "29529-3236"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "tr",
+      "language": "fr_CA",
       "addressLines": [
-        "Lowe - Metz",
-        "0517 Reilly Lights"
+        "Smith - Reynolds",
+        "9616 Witting Fords"
       ],
-      "addressNumber": "227",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "52614 Daija Trafficway, 94371",
-      "city": "Schambergerview",
-      "region": "Buckinghamshire",
-      "country": "Solomon Islands",
-      "postalCode": "04150-7623"
+      "addressNumber": "389",
+      "addressNumberWithinBuilding": "8",
+      "mailRouting": "1480 Franecki Meadows, 84455",
+      "city": "Floyfurt",
+      "region": "Avon",
+      "country": "Djibouti",
+      "postalCode": "01633-9328"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
-      "validationAuthorityID": "RA000003",
-      "otherValidationAuthorityID": "ZJZHN27E",
-      "validationAuthorityEntityID": "O72F179UG6VYQEQUFMCQ"
+      "validationAuthorityID": "RA000004",
+      "otherValidationAuthorityID": "N0BLRL4E",
+      "validationAuthorityEntityID": "Y8G88V2F6BIGCOT5FG8L"
     },
-    "legalJurisdiction": "Berkshire",
+    "legalJurisdiction": "Avon",
     "entityCategory": "Finance",
     "legalForm": "LLC",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "YSW1QHQ3583ZK50HHM7P",
-      "name": "Batz - Littel"
+      "leiCode": "ZGCQ6VSFN1H5J0PN8BZJ",
+      "name": "Cummings and Sons"
     },
-    "status": "IN PROGRESS",
+    "status": "REQUESTED",
     "expirationDate": "2022-07-11",
-    "expirationReason": "syndicate front-end e-markets",
+    "expirationReason": "seize vertical e-commerce",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "F1QEHLVLWSFN9ZLAWC7D",
-      "name": "Konopelski - Murray"
+      "leiCode": "QCNJHSUPTGLVVK7J419Z",
+      "name": "Casper LLC"
     },
     "otherAddresses": []
   },
@@ -84,7 +84,7 @@
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..tfWKypPxn2OWYJ0motWisojQHp_bBAyePkZk6g085iLH3q_-zUJQJqyU1ovRexlbHPSkGteabRhDTg_hGNg4Ag",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..4mS1nSnhXiFLjX2xcmhaFLczJJFrieM3cCRJzDiVU7sQlPkc-KfiGTqIkuHVbQkfAZpz1h4AJpoCLo-VYvcmBA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -1,0 +1,32 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Schneider",
+    "givenName": "Kameron",
+    "birthDate": "1979-01-27T21:25:11.340Z",
+    "gender": "female"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Zboncak",
+    "givenName": "Alaina",
+    "birthDate": "1950-01-05T16:25:55.345Z",
+    "gender": "female"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Heller",
+    "givenName": "Amie",
+    "birthDate": "1991-06-06T06:06:49.774Z",
+    "gender": "female"
+  }
+]

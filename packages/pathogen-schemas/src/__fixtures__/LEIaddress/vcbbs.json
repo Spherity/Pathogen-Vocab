@@ -16,25 +16,25 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "nb_NO",
+    "language": "en_AU_ocker",
     "addressLines": [
-      "Lubowitz, Rice and Bogisich",
-      "26704 Windler Mountain"
+      "Romaguera, Brakus and Schamberger",
+      "93177 Kristina Circle"
     ],
-    "addressNumber": "127",
-    "addressNumberWithinBuilding": "4",
-    "mailRouting": "16809 Kunze Summit, 45598-5366",
-    "city": "Kennedyhaven",
-    "region": "Berkshire",
-    "country": "Falkland Islands (Malvinas)",
-    "postalCode": "78578"
+    "addressNumber": "344",
+    "addressNumberWithinBuilding": "8",
+    "mailRouting": "3060 Saul Canyon, 96947-6157",
+    "city": "North Anna",
+    "region": "Bedfordshire",
+    "country": "United Arab Emirates",
+    "postalCode": "83348"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:11Z",
+    "created": "2021-05-14T22:05:36Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "lY1URcBn8D4KRdgxkDQeyj9jyfpENYg6Ixk/2MSa2NAN4EVju+t4xj9RfqOBETy4POjz64OXj1XYhUUNz1zGKQmRlLBa4s7dlPMHZ7XxuKpBc/hqVsjugmmARxZnFsIujyUKe0eiuuQ/+ccRfQChzQ==",
+    "proofValue": "ofpfeaNvHqXidO6NNCyhrIQNKJAko+y9oKag0L1zsraXzHEFogBqbKdFoTW4PCO1ZhbrLH+Z6HkGPk28ix6QeKJKhpoSPg5iLB3W3059pLluMliehenAuMeIz72KGstoeucjU/PLQvL6FDVgxrKQhw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

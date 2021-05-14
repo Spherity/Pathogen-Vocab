@@ -1,0 +1,44 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCTestInformation",
+    "testName": "jrc#1065: Becton Dickinson BD Veritor System for Rapid Deteciton os SARS-CoV-2",
+    "testType": "loinc#LP217198-3: Rapid immunoassay",
+    "sampleOriginType": "sct#122592007:Acellular blood (serum or plasma) specimen",
+    "sampleCollectionDateTime": "2021-05-06T15:40:19.937Z",
+    "testResult": "1240591000000102-Severe acute respiratory syndrome coronavirus 2 not detected",
+    "testCenter": "Hospital Na Františku Prague",
+    "testValidatorId": "test-id",
+    "countryOfTestAdminstration": "it"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCTestInformation",
+    "testName": "jrc#1232: Abbott Rapid Diagnostics Panbio™ COVID-19 Ag Rapid Test",
+    "testType": "loinc#LP6464-4: Nucleic acid amplification with probe detection",
+    "sampleOriginType": "sct#445297001:Swab of internal nose",
+    "sampleCollectionDateTime": "2021-05-06T09:42:00.817Z",
+    "testResult": "1240591000000102-Severe acute respiratory syndrome coronavirus 2 not detected",
+    "testCenter": "Hospital Na Františku Prague",
+    "testValidatorId": "test-id",
+    "countryOfTestAdminstration": "it"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCTestInformation",
+    "testName": "jrc#1232: Abbott Rapid Diagnostics Panbio™ COVID-19 Ag Rapid Test",
+    "testType": "loinc#LP6464-4: Nucleic acid amplification with probe detection",
+    "sampleOriginType": "sct#440500007:Dried blood spot specimen",
+    "sampleCollectionDateTime": "2021-04-25T19:12:53.659Z",
+    "testResult": "1240591000000102-Severe acute respiratory syndrome coronavirus 2 not detected",
+    "testCenter": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "testValidatorId": "codiceFiscale:VRDRCR70H08H703B",
+    "countryOfTestAdminstration": "it"
+  }
+]

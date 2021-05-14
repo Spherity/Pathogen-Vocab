@@ -17,15 +17,15 @@
     ],
     "type": "LEIauthority",
     "validationAuthorityID": "RA000661",
-    "otherValidationAuthorityID": "ISTOA7U2",
-    "validationAuthorityEntityID": "RO8N49VYY51FQXWFUMYE"
+    "otherValidationAuthorityID": "HZLPANPR",
+    "validationAuthorityEntityID": "UYSW1QHQ3583ZK50HHM7"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:11Z",
+    "created": "2021-05-14T22:05:36Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "jioyWGYlXiZm5ih7FdwSxNNwWA7MKBR5iduI5tBokp0/umaPNwSxmpxvlXsqxdmja4eOyDqtTDUfSnk5GQP2XLXd5uUmAdhH8qFk4hQC0+4B/EQhUAHblIgJP+ZeycN48GydWXYYfQG2SWKRlbuBKw==",
+    "proofValue": "rNhChAI67uuWdtKHp77LBjKG0IN8f0SYnJwd5YEZWyAVIiul8/HwXM84YzTCqAe5NQQBVgRuzzZ77OIRb0nMnxNiohUbeL2PU0NZQ4Vpd1ZtlMUXcw+oTxWMlYzm1Fw+KmA1gygCyNQjCMdrbCys4Q==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

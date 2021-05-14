@@ -16,18 +16,18 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Heaney - Pagac",
-    "streetAddress": "29855 McClure Inlet",
-    "addressLocality": "Broderickshire",
-    "addressRegion": "Minnesota",
-    "postalCode": "68424",
-    "addressCountry": "Sao Tome and Principe"
+    "organizationName": "Altenwerth, Zboncak and Zieme",
+    "streetAddress": "69802 Baumbach Alley",
+    "addressLocality": "Evansfort",
+    "addressRegion": "New York",
+    "postalCode": "01079-7868",
+    "addressCountry": "Saint Pierre and Miquelon"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Exs9wyN6H3D2jodl4Dwmz6bI_TKaguvbOIA-Yi0fkvCWZNspxv9OGBNMXIPg3Llm-wRILDJpnykytpUTMMzeAA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Pyqy9m-f8Jfwh184F_SjzYJbTC7vPcJ_so5pRG7DUCQ3Rkt1HxZ2KKWiem8yigYURUY8sa_2TCMyEFVer_PVCg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

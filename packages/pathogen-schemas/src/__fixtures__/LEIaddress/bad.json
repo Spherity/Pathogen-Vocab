@@ -1,33 +1,25 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "addressNumberWithinBuilding": "4",
-    "mailRouting": "16809 Kunze Summit, 45598-5366",
-    "feed": "reboot"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "language": "ne",
-    "addressNumber": "80",
-    "addressNumberWithinBuilding": "9",
-    "mailRouting": "18327 Abbott Union, 58752-0120",
-    "city": "Erickshire",
-    "region": "Bedfordshire",
-    "country": "Saint Kitts and Nevis",
-    "postalCode": "61236-0587",
-    "driver": "generate",
-    "system": "parse",
-    "bus": "navigate",
-    "interface": "calculate"
-  },
-  {
     "type": "LEIaddress",
     "mailRouting": "3060 Saul Canyon, 96947-6157",
     "bandwidth": "connect",
     "bus": "hack"
+  },
+  {
+    "type": "LEIaddress",
+    "addressNumberWithinBuilding": "8",
+    "sensor": "generate",
+    "matrix": "hack"
+  },
+  {
+    "addressLines": [
+      "Stroman Inc",
+      "570 Brendan Plaza"
+    ],
+    "mailRouting": "09996 Jake Estates, 01516",
+    "city": "Dellview",
+    "country": "San Marino",
+    "protocol": "synthesize",
+    "interface": "index"
   }
 ]

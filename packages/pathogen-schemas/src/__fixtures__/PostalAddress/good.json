@@ -4,35 +4,35 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Heaney - Pagac",
-    "streetAddress": "29855 McClure Inlet",
-    "addressLocality": "Broderickshire",
-    "addressRegion": "Minnesota",
-    "postalCode": "68424",
-    "addressCountry": "Sao Tome and Principe"
+    "organizationName": "Altenwerth, Zboncak and Zieme",
+    "streetAddress": "69802 Baumbach Alley",
+    "addressLocality": "Evansfort",
+    "addressRegion": "New York",
+    "postalCode": "01079-7868",
+    "addressCountry": "Saint Pierre and Miquelon"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Stehr and Sons",
-    "streetAddress": "592 Larue Crescent",
-    "addressLocality": "Millerchester",
-    "addressRegion": "Louisiana",
-    "postalCode": "48017-7510",
-    "addressCountry": "Serbia"
+    "organizationName": "Jaskolski, Bailey and Bergstrom",
+    "streetAddress": "35168 Maxie Parkways",
+    "addressLocality": "North Verdieton",
+    "addressRegion": "Nebraska",
+    "postalCode": "26015-8727",
+    "addressCountry": "Kyrgyz Republic"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Wunsch - Botsford",
-    "streetAddress": "7845 Kulas Grove",
-    "addressLocality": "South Concepcion",
-    "addressRegion": "New Hampshire",
-    "postalCode": "43659-4357",
-    "addressCountry": "Syrian Arab Republic"
+    "organizationName": "Grimes, Ebert and Feeney",
+    "streetAddress": "248 Candace Glens",
+    "addressLocality": "East Susie",
+    "addressRegion": "Alaska",
+    "postalCode": "54825",
+    "addressCountry": "Nicaragua"
   }
 ]

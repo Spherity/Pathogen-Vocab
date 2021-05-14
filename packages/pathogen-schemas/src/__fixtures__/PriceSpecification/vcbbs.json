@@ -16,15 +16,15 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 8541,
-    "priceCurrency": "ARS"
+    "price": 8888,
+    "priceCurrency": "CHF"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:10Z",
+    "created": "2021-05-14T22:05:36Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "rKHb6739U/ONrIBFow6xgtdyQtm3mFIGqhN6CFirE4akfIRUCSe/h+R7F4kB00H2KQQkNdVqFte0/gkFo90lUkaFkPUzRWIykf1XvsQ0lF0dA7e8L58TJFMy71T2yP7V+3CRAh5q6HHUuyDbsKeqZA==",
+    "proofValue": "tb8lTXqaTEoee7u872Igy4I8N+rJVisH91gJzbzMjOU10lj2HunEnm0tS2IolQWEATVQGIORafFpfT48eX7QtdAlClUxiTieQhyU18L6B8du+/3TQjBthGitWde/lEE5MVsxkjDJNGUYI3zBt/J/Sw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

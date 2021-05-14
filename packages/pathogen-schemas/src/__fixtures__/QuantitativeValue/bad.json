@@ -1,20 +1,22 @@
 [
   {
-    "type": "QuantitativeValue",
-    "unitCode": "",
-    "port": "transmit",
-    "array": "parse",
-    "capacitor": "navigate"
+    "matrix": "bypass",
+    "driver": "generate",
+    "bus": "override",
+    "application": "back up"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "feed": "synthesize"
+    "type": "QuantitativeValue",
+    "unitCode": "",
+    "panel": "program"
   },
   {
+    "type": "QuantitativeValue",
     "unitCode": "",
-    "alarm": "compress",
-    "system": "back up"
+    "hard drive": "synthesize",
+    "system": "quantify"
   }
 ]

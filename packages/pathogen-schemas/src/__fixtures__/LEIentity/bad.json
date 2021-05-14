@@ -1,75 +1,132 @@
 [
   {
-    "transliteratedOtherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+    "legalName": "Bins and Sons",
+    "otherNames": [
+      "O'Conner - Bode",
+      "Jacobson LLC"
     ],
-    "expirationReason": "syndicate front-end e-markets",
-    "protocol": "connect",
-    "system": "compress",
-    "bandwidth": "program",
-    "interface": "connect"
+    "transliteratedOtherNames": [
+      "O'Conner - Bode",
+      "Jacobson LLC"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "en_BORK",
+      "addressLines": [
+        "Spencer and Sons",
+        "7846 Gabriel Hollow"
+      ],
+      "addressNumber": "481",
+      "addressNumberWithinBuilding": "8",
+      "mailRouting": "950 Jonathon Neck, 54073-4685",
+      "city": "Schimmelview",
+      "region": "Cambridgeshire",
+      "country": "Chile",
+      "postalCode": "29529-3236"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "fr_CA",
+      "addressLines": [
+        "Smith - Reynolds",
+        "9616 Witting Fords"
+      ],
+      "addressNumber": "389",
+      "addressNumberWithinBuilding": "8",
+      "mailRouting": "1480 Franecki Meadows, 84455",
+      "city": "Floyfurt",
+      "region": "Avon",
+      "country": "Djibouti",
+      "postalCode": "01633-9328"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000004",
+      "otherValidationAuthorityID": "N0BLRL4E",
+      "validationAuthorityEntityID": "Y8G88V2F6BIGCOT5FG8L"
+    },
+    "legalJurisdiction": "Avon",
+    "entityCategory": "Finance",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "ZGCQ6VSFN1H5J0PN8BZJ",
+      "name": "Cummings and Sons"
+    },
+    "status": "REQUESTED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "seize vertical e-commerce",
+    "otherAddresses": [],
+    "system": "override"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "legalName": "Tillman Inc",
-    "legalNameLanguage": "it",
+    "type": "LEIentity",
+    "legalName": "Orn - Lemke",
+    "legalNameLanguage": "sk",
     "transliteratedOtherNames": [
-      "Hyatt Group",
-      "Kling Inc"
+      "Klocko - Gaylord",
+      "Lebsack - Kuhn"
     ],
-    "legalAddress": {
-      "type": "LEIaddress",
-      "language": "en_AU",
-      "addressLines": [
-        "Leannon and Sons",
-        "4256 Denis Village"
-      ],
-      "addressNumber": "415",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "31306 Ondricka Rue, 47878-4588",
-      "city": "Constantinmouth",
-      "region": "Buckinghamshire",
-      "country": "Greenland",
-      "postalCode": "02901"
-    },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "hy",
+      "language": "id_ID",
       "addressLines": [
-        "Wehner Inc",
-        "1903 Kurt Course"
+        "Bartell, Bruen and Waters",
+        "2968 Macey Key"
       ],
-      "addressNumber": "62",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "61394 Abigale Vista, 93698",
-      "city": "Jackberg",
-      "region": "Borders",
-      "country": "Argentina",
-      "postalCode": "54365-1101"
+      "addressNumber": "460",
+      "addressNumberWithinBuilding": "7",
+      "mailRouting": "1361 Alysson Wells, 98498",
+      "city": "Sawaynton",
+      "region": "Buckinghamshire",
+      "country": "Seychelles",
+      "postalCode": "27186-4739"
     },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Grocery",
-    "expirationReason": "utilize leading-edge experiences",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
-      "name": "Wolff Group"
-    },
-    "circuit": "calculate"
+    "expirationDate": "2022-07-11",
+    "otherAddresses": [],
+    "monitor": "parse",
+    "firewall": "back up",
+    "transmitter": "override"
   },
   {
-    "legalJurisdiction": "Berkshire",
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "legalName": "Lindgren - McClure",
+    "legalNameLanguage": "ja",
+    "otherNames": [
+      "Ledner and Sons",
+      "Hackett, Ward and Schmitt"
+    ],
+    "transliteratedOtherNames": [
+      "Ledner and Sons",
+      "Hackett, Ward and Schmitt"
+    ],
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000001",
+      "otherValidationAuthorityID": "68QVVH7J",
+      "validationAuthorityEntityID": "360BN8L7JM89EML2H5Z9"
+    },
+    "entityCategory": "Jewelery",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "F0WN2WY8NXD27XHC735H",
+      "name": "Jakubowski, Kihn and Keebler"
+    },
+    "status": "CONFIRMED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "innovate bricks-and-clicks models",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "TIVL8S7NL6ECUWWRCK89",
-      "name": "Gutkowski, Goodwin and Reynolds"
+      "leiCode": "0ZC4T3LQCKW9R293NWL6",
+      "name": "Hand - Hilll"
     },
     "otherAddresses": [],
-    "bus": "program",
-    "sensor": "override",
-    "firewall": "bypass"
+    "transmitter": "bypass",
+    "feed": "transmit",
+    "protocol": "compress"
   }
 ]

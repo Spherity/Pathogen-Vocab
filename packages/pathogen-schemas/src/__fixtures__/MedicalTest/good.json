@@ -11,61 +11,26 @@
       "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 SA Variant",
-    "usesDevice": "CHJUTPHQIUQK",
-    "code": "FXXNNELS",
-    "legalStatus": "Preliminary Approval",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "WNFHJFBATHKQ",
+    "code": "TYXWGTUU",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hilpert LLC",
-      "description": "Multi-channelled solution-oriented Graphic Interface",
+      "name": "Parker Inc",
+      "description": "De-engineered systematic monitoring",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "681 Ferry Track",
-        "addressLocality": "Kleinmouth",
-        "addressRegion": "Wyoming",
-        "postalCode": "75050-0439",
-        "addressCountry": "Falkland Islands (Malvinas)"
+        "streetAddress": "6465 Ron Inlet",
+        "addressLocality": "Kovacekhaven",
+        "addressRegion": "Wisconsin",
+        "postalCode": "60176",
+        "addressCountry": "Bolivia"
       },
-      "email": "Augustine_Ryan@example.com",
-      "phoneNumber": "555-584-4516",
-      "faxNumber": "555-548-8185"
-    },
-    "relevantSpecialty": "Communicable Disease"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "MedicalTest",
-    "affectedBy": [
-      "High Blood Pressure Medicines"
-    ],
-    "normalRange": [
-      "Any Person"
-    ],
-    "signDetected": "Negative",
-    "usedToDiagnose": "Covid19 UK Variant",
-    "usesDevice": "SVXFCJTZEIWH",
-    "code": "VXOCSTIZ",
-    "legalStatus": "Revoked",
-    "medicineSystem": "evidence-based",
-    "recognizingAuthority": {
-      "type": "Organization",
-      "name": "Cummerata Group",
-      "description": "Team-oriented zero administration hardware",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "681 Schmeler Harbor",
-        "addressLocality": "Vivianeton",
-        "addressRegion": "Texas",
-        "postalCode": "18753-9944",
-        "addressCountry": "Western Sahara"
-      },
-      "email": "Carrie68@example.com",
-      "phoneNumber": "555-210-7011",
-      "faxNumber": "555-752-6712"
+      "email": "Zachariah27@example.org",
+      "phoneNumber": "555-392-3834",
+      "faxNumber": "555-717-1034"
     },
     "relevantSpecialty": "Other"
   },
@@ -80,28 +45,63 @@
     "normalRange": [
       "Any Person"
     ],
+    "signDetected": "Negative",
+    "usedToDiagnose": "Covid19 SA Variant",
+    "usesDevice": "HQVNHQWLCFSD",
+    "code": "OBCGGBAO",
+    "legalStatus": "Revoked",
+    "medicineSystem": "evidence-based",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Quigley, Greenholt and Wiza",
+      "description": "Universal solution-oriented pricing structure",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "4283 Hoeger Neck",
+        "addressLocality": "Port Princess",
+        "addressRegion": "Colorado",
+        "postalCode": "40047",
+        "addressCountry": "Anguilla"
+      },
+      "email": "Quinn98@example.net",
+      "phoneNumber": "555-926-9696",
+      "faxNumber": "555-352-2147"
+    },
+    "relevantSpecialty": "Communicable Disease"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "MedicalTest",
+    "affectedBy": [
+      "Antibiotics"
+    ],
+    "normalRange": [
+      "Any Person"
+    ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 UK Variant",
-    "usesDevice": "CQISWNFHJFBA",
-    "code": "THKQTYXW",
+    "usedToDiagnose": "Covid19 SA Variant",
+    "usesDevice": "UDPIXELEPYQL",
+    "code": "PUSQGRND",
     "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hane and Sons",
-      "description": "Public-key 24 hour approach",
+      "name": "Stroman, Simonis and Bergnaum",
+      "description": "Synergized web-enabled local area network",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "72419 Issac Inlet",
-        "addressLocality": "Lake Leslyfurt",
-        "addressRegion": "Michigan",
-        "postalCode": "53788-4892",
-        "addressCountry": "New Caledonia"
+        "streetAddress": "2872 McCullough Burgs",
+        "addressLocality": "Port Patience",
+        "addressRegion": "Texas",
+        "postalCode": "56028-2541",
+        "addressCountry": "Russian Federation"
       },
-      "email": "Chandler_Cummings22@example.net",
-      "phoneNumber": "555-128-2136",
-      "faxNumber": "555-765-7085"
+      "email": "Josefina.Powlowski@example.org",
+      "phoneNumber": "555-184-5727",
+      "faxNumber": "555-918-1293"
     },
-    "relevantSpecialty": "Other"
+    "relevantSpecialty": "Non-Communicable Disease"
   }
 ]

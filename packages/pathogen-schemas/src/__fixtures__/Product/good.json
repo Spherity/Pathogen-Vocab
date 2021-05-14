@@ -5,34 +5,91 @@
     ],
     "type": "Product",
     "manufacturer": {
-      "type": "Organization",
-      "name": "Wehner, Runte and Schuster",
-      "description": "Profound scalable process improvement",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "2725 Adela Ville",
-        "addressLocality": "Ziemeville",
-        "addressRegion": "North Dakota",
-        "postalCode": "80200-0738",
-        "addressCountry": "New Caledonia"
+      "type": "Person",
+      "firstName": "Tad",
+      "lastName": "Hodkiewicz",
+      "email": "Tremayne.Wintheiser11@example.com",
+      "phoneNumber": "555-490-4801",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Christiansen - Glover",
+        "description": "Organic static strategy",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "74310 Otilia Expressway",
+          "addressLocality": "Lake Douglasstad",
+          "addressRegion": "Oklahoma",
+          "postalCode": "05840-3297",
+          "addressCountry": "Belgium"
+        },
+        "email": "Kian_Schamberger94@example.org",
+        "phoneNumber": "555-384-9377",
+        "faxNumber": "555-191-8440"
       },
-      "email": "Rosario.Prohaska@example.net",
-      "phoneNumber": "555-766-1621",
-      "faxNumber": "555-228-1050"
+      "jobTitle": "International Program Analyst",
+      "idnumber": "OKYQVSRADEGS",
+      "idnumberType": "National Identity Card",
+      "birthDate": "1985-11-23"
     },
-    "name": "Sleek Metal Car",
-    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "name": "Tasty Plastic Cheese",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "895"
+      "value": "6667"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "3997"
+      "value": "1836"
     },
-    "sku": "407548957698"
+    "sku": "950773198692"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "manufacturer": {
+      "type": "Person",
+      "firstName": "Brandi",
+      "lastName": "Ritchie",
+      "email": "Emery.Wiza@example.net",
+      "phoneNumber": "555-937-6864",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Thompson, O'Connell and Emmerich",
+        "description": "Secured national pricing structure",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "4126 Fritz Islands",
+          "addressLocality": "North Rydermouth",
+          "addressRegion": "Georgia",
+          "postalCode": "58487",
+          "addressCountry": "Cote d'Ivoire"
+        },
+        "email": "Alfred.Grimes@example.com",
+        "phoneNumber": "555-434-6916",
+        "faxNumber": "555-882-5250"
+      },
+      "jobTitle": "Regional Quality Developer",
+      "idnumber": "MFPXCHBJRBVC",
+      "idnumberType": "National Identity Card",
+      "birthDate": "1985-11-23"
+    },
+    "name": "Gorgeous Wooden Pizza",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "5163"
+    },
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "5443"
+    },
+    "sku": "14703242945"
   },
   {
     "@context": [
@@ -41,67 +98,32 @@
     "type": "Product",
     "manufacturer": {
       "type": "Organization",
-      "name": "Ward Inc",
-      "description": "Intuitive demand-driven support",
+      "name": "Cole - Wolf",
+      "description": "Synchronised bandwidth-monitored local area network",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "158 Arely Greens",
-        "addressLocality": "South Ronnyfort",
-        "addressRegion": "Illinois",
-        "postalCode": "40107-4622",
-        "addressCountry": "Denmark"
+        "streetAddress": "435 Dixie Underpass",
+        "addressLocality": "Lake Jamaalhaven",
+        "addressRegion": "Wisconsin",
+        "postalCode": "53673",
+        "addressCountry": "Kenya"
       },
-      "email": "Emmy_McCullough@example.org",
-      "phoneNumber": "555-877-3529",
-      "faxNumber": "555-461-8231"
+      "email": "Arden_Russel@example.org",
+      "phoneNumber": "555-796-3405",
+      "faxNumber": "555-795-2978"
     },
-    "name": "Generic Concrete Chips",
+    "name": "Intelligent Concrete Table",
     "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "2268"
+      "value": "3684"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "5494"
+      "value": "1210"
     },
-    "sku": "603497064169"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "Product",
-    "manufacturer": {
-      "type": "Organization",
-      "name": "Jacobs and Sons",
-      "description": "Decentralized directional structure",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "650 Julian Points",
-        "addressLocality": "South Micaelaberg",
-        "addressRegion": "Tennessee",
-        "postalCode": "82555",
-        "addressCountry": "Brazil"
-      },
-      "email": "Reta.Murphy27@example.org",
-      "phoneNumber": "555-228-9251",
-      "faxNumber": "555-797-7485"
-    },
-    "name": "Incredible Wooden Chair",
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
-    "sizeOrAmount": {
-      "type": "QuantitativeValue",
-      "unitCode": "",
-      "value": "7489"
-    },
-    "weight": {
-      "type": "QuantitativeValue",
-      "unitCode": "",
-      "value": "4030"
-    },
-    "sku": "511134027932"
+    "sku": "332106049431"
   }
 ]

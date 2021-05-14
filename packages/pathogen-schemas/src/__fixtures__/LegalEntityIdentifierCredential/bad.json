@@ -1,22 +1,23 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "leiCode": "YSS93LFZVVYLGWMZ6QZ2",
-    "certificateName": "US Legal Entity Certificate",
-    "bus": "calculate",
-    "program": "quantify",
-    "transmitter": "generate",
-    "bandwidth": "compress"
+    "system": "connect",
+    "matrix": "hack",
+    "feed": "input",
+    "alarm": "copy"
   },
   {
-    "certificateName": "US Legal Entity Certificate",
-    "application": "connect",
-    "feed": "parse",
-    "panel": "reboot"
+    "leiCode": "5ZVZFN540OK3I1PTW72D",
+    "card": "transmit",
+    "capacitor": "generate",
+    "bandwidth": "synthesize",
+    "application": "copy"
   },
   {
-    "transmitter": "copy"
+    "type": "LegalEntityIdentifierCredential",
+    "leiCode": "ZGWTNGBC9HTTVCI68P4T",
+    "certificateName": "US Legal Entity Certificate",
+    "program": "index",
+    "panel": "reboot",
+    "array": "input"
   }
 ]

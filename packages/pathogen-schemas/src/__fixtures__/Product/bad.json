@@ -1,49 +1,72 @@
 [
   {
-    "manufacturer": {
-      "type": "Organization",
-      "name": "Wehner, Runte and Schuster",
-      "description": "Profound scalable process improvement",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "2725 Adela Ville",
-        "addressLocality": "Ziemeville",
-        "addressRegion": "North Dakota",
-        "postalCode": "80200-0738",
-        "addressCountry": "New Caledonia"
-      },
-      "email": "Rosario.Prohaska@example.net",
-      "phoneNumber": "555-766-1621",
-      "faxNumber": "555-228-1050"
+    "name": "Tasty Plastic Cheese",
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "1836"
     },
-    "sku": "407548957698",
-    "alarm": "transmit"
+    "alarm": "calculate",
+    "matrix": "back up",
+    "bandwidth": "navigate",
+    "sensor": "parse"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Product",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "manufacturer": {
+      "type": "Person",
+      "firstName": "Brandi",
+      "lastName": "Ritchie",
+      "email": "Emery.Wiza@example.net",
+      "phoneNumber": "555-937-6864",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Thompson, O'Connell and Emmerich",
+        "description": "Secured national pricing structure",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "4126 Fritz Islands",
+          "addressLocality": "North Rydermouth",
+          "addressRegion": "Georgia",
+          "postalCode": "58487",
+          "addressCountry": "Cote d'Ivoire"
+        },
+        "email": "Alfred.Grimes@example.com",
+        "phoneNumber": "555-434-6916",
+        "faxNumber": "555-882-5250"
+      },
+      "jobTitle": "Regional Quality Developer",
+      "idnumber": "MFPXCHBJRBVC",
+      "idnumberType": "National Identity Card",
+      "birthDate": "1985-11-23"
+    },
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "2268"
+      "value": "5163"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "5494"
+      "value": "5443"
     },
-    "sku": "603497064169",
-    "application": "hack",
-    "microchip": "program",
-    "monitor": "generate"
+    "bus": "back up",
+    "monitor": "hack"
   },
   {
-    "name": "Incredible Wooden Chair",
-    "bus": "connect",
-    "driver": "navigate",
-    "program": "reboot"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "name": "Intelligent Concrete Table",
+    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "sku": "332106049431",
+    "program": "navigate",
+    "alarm": "navigate",
+    "hard drive": "back up"
   }
 ]

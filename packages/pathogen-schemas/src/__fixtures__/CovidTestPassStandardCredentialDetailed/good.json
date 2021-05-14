@@ -4,29 +4,29 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "StandardCovidTestPassDetailed",
-    "testType": "Rapid PCR Test",
+    "testType": "Antigen Test",
     "testCenter": {
       "type": "Organization",
-      "name": "Batz, Rice and Johnson",
-      "description": "Self-enabling well-modulated emulation",
+      "name": "Heidenreich, Murphy and Wehner",
+      "description": "Synergized 4th generation policy",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "00663 Emmalee Circles",
-        "addressLocality": "Lake Marion",
-        "addressRegion": "Alaska",
-        "postalCode": "82241",
-        "addressCountry": "Paraguay"
+        "streetAddress": "21300 Marjolaine Corner",
+        "addressLocality": "North Madie",
+        "addressRegion": "Kansas",
+        "postalCode": "86038",
+        "addressCountry": "Equatorial Guinea"
       },
-      "email": "Charlotte_Kassulke80@example.com",
-      "phoneNumber": "555-727-4135",
-      "faxNumber": "555-666-9429"
+      "email": "Queen54@example.com",
+      "phoneNumber": "555-353-5464",
+      "faxNumber": "555-206-7236"
     },
     "healthProfessionalAdministered": "Yes",
     "testedPerson": {
       "type": "Person",
-      "firstName": "Audie",
-      "lastName": "Hermann",
-      "idnumber": "CLCHPIORFTYU",
+      "firstName": "Roselyn",
+      "lastName": "Bosco",
+      "idnumber": "QCLCHPIORFTY",
       "idnumberType": "National Identity Card",
       "birthDate": "1985-11-23"
     },
@@ -34,34 +34,34 @@
     "testDetails": {
       "type": "MedicalTest",
       "affectedBy": [
-        "Antibiotics"
+        "High Blood Pressure Medicines"
       ],
       "normalRange": [
         "Any Person"
       ],
-      "signDetected": "Negative",
-      "usedToDiagnose": "Covid19 SA Variant",
-      "usesDevice": "JWJWVGYXZPTJ",
-      "code": "JSCMUJOS",
-      "legalStatus": "Revoked",
+      "signDetected": "Positive",
+      "usedToDiagnose": "Covid19 2020 Variants",
+      "usesDevice": "PJWJWVGYXZPT",
+      "code": "JJSCMUJO",
+      "legalStatus": "Preliminary Approval",
       "medicineSystem": "evidence-based",
       "recognizingAuthority": {
         "type": "Organization",
-        "name": "Prohaska - Fadel",
-        "description": "Centralized foreground secured line",
+        "name": "Boehm, Kautzer and Prohaska",
+        "description": "Enhanced analyzing Graphic Interface",
         "address": {
           "type": "PostalAddress",
-          "streetAddress": "9095 Rippin Causeway",
-          "addressLocality": "Lockmanborough",
-          "addressRegion": "Oklahoma",
-          "postalCode": "91678",
-          "addressCountry": "Nauru"
+          "streetAddress": "490 Anabel Wells",
+          "addressLocality": "Lake Shirley",
+          "addressRegion": "Nevada",
+          "postalCode": "71916",
+          "addressCountry": "Saint Martin"
         },
-        "email": "Meggie51@example.net",
-        "phoneNumber": "555-880-1910",
-        "faxNumber": "555-854-1756"
+        "email": "Sim8@example.net",
+        "phoneNumber": "555-853-6563",
+        "faxNumber": "555-880-1910"
       },
-      "relevantSpecialty": "Other"
+      "relevantSpecialty": "Communicable Disease"
     }
   },
   {
@@ -72,19 +72,19 @@
     "testType": "Rapid PCR Test",
     "testCenter": {
       "type": "Organization",
-      "name": "Legros Group",
-      "description": "Vision-oriented uniform approach",
+      "name": "Zemlak, VonRueden and Bins",
+      "description": "Exclusive intermediate open system",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "529 Kreiger Knoll",
-        "addressLocality": "North Santa",
-        "addressRegion": "Nebraska",
-        "postalCode": "49809",
-        "addressCountry": "Vietnam"
+        "streetAddress": "765 Gregg Fords",
+        "addressLocality": "South Edgardo",
+        "addressRegion": "California",
+        "postalCode": "52498-0995",
+        "addressCountry": "Armenia"
       },
-      "email": "Kaya.Powlowski52@example.org",
-      "phoneNumber": "555-600-1388",
-      "faxNumber": "555-390-9020"
+      "email": "Arch62@example.net",
+      "phoneNumber": "555-390-9020",
+      "faxNumber": "555-139-5749"
     },
     "healthProfessionalAdministered": "Unkown",
     "testedPerson": {

@@ -1,0 +1,49 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCProofOfRecovery",
+    "infectionInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCInfectionInformation",
+      "diseaseRecoveredFrom": "sct#840539006 COVID-19",
+      "dateFirstPositive": "2020-11-07T02:21:05.945Z",
+      "countryOfTest": "cz"
+    },
+    "capacitor": "transmit",
+    "sensor": "input"
+  },
+  {
+    "infectionInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCInfectionInformation",
+      "diseaseRecoveredFrom": "sct#840539006 COVID-19",
+      "dateFirstPositive": "2021-02-17T07:53:01.554Z",
+      "countryOfTest": "it"
+    },
+    "pixel": "navigate",
+    "program": "quantify",
+    "bandwidth": "connect"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "personalInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCSubject",
+      "familyName": "Predovic",
+      "givenName": "Justice",
+      "birthDate": "1968-05-09T08:29:35.036Z",
+      "gender": "female"
+    },
+    "hard drive": "copy"
+  }
+]

@@ -1,29 +1,35 @@
 [
   {
-    "type": "TotalCharge",
-    "destinationCurrency": "IQD",
-    "capacitor": "transmit",
-    "application": "connect"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "system": "input",
+    "application": "transmit"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "totalCollect": 1245,
+    "sourceCurrency": "KHR",
+    "currencyConversionRate": 2,
+    "ccChargesDestinationCurrency": "KHR",
+    "chargesDestination": 549,
+    "totalCollectCharge": 137.25,
+    "card": "quantify",
+    "bus": "back up"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 1358.25,
-    "totalCollect": 452.75,
-    "sourceCurrency": "LYD",
-    "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "LYD",
-    "chargesDestination": 438,
-    "totalCollectCharge": 109.5,
-    "bus": "connect"
-  },
-  {
-    "totalCollect": 2244.5,
-    "bandwidth": "override",
-    "alarm": "parse",
-    "sensor": "parse",
-    "interface": "synthesize"
+    "totalPrepaid": 540,
+    "totalCollect": 180,
+    "destinationCurrency": "MZN",
+    "currencyConversionRate": 1,
+    "chargesDestination": 371,
+    "interface": "bypass",
+    "transmitter": "transmit"
   }
 ]

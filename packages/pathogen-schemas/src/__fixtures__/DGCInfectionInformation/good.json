@@ -1,0 +1,29 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCInfectionInformation",
+    "diseaseRecoveredFrom": "sct#840539006 COVID-19",
+    "dateFirstPositive": "2020-05-04T07:39:44.131Z",
+    "countryOfTest": "cz"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCInfectionInformation",
+    "diseaseRecoveredFrom": "sct#840539006 COVID-19",
+    "dateFirstPositive": "2020-09-04T13:02:29.014Z",
+    "countryOfTest": "in"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCInfectionInformation",
+    "diseaseRecoveredFrom": "sct#840539006 COVID-19",
+    "dateFirstPositive": "2020-09-22T02:08:53.811Z",
+    "countryOfTest": "in"
+  }
+]

@@ -1,25 +1,26 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "GeoCoordinates",
-    "program": "back up",
-    "bandwidth": "connect",
-    "array": "copy"
-  },
-  {
-    "type": "GeoCoordinates",
-    "longitude": "127.0159",
-    "protocol": "compress",
-    "driver": "reboot",
-    "matrix": "back up"
+    "bandwidth": "calculate",
+    "card": "parse"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "latitude": "-13.0008",
-    "program": "parse"
+    "latitude": "10.7720",
+    "longitude": "47.4529",
+    "alarm": "back up",
+    "firewall": "transmit"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "latitude": "50.3722",
+    "longitude": "-133.7585",
+    "driver": "generate",
+    "system": "parse",
+    "bus": "navigate",
+    "interface": "calculate"
   }
 ]

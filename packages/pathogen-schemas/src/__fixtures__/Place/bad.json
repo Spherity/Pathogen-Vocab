@@ -1,42 +1,50 @@
 [
   {
-    "type": "Place",
-    "globalLocationNumber": "6409667124670",
-    "address": {
-      "type": "PostalAddress",
-      "organizationName": "Leffler, Hirthe and Langworth",
-      "streetAddress": "14610 Ezra Tunnel",
-      "addressLocality": "Cristborough",
-      "addressRegion": "Alaska",
-      "postalCode": "63603-3074",
-      "addressCountry": "Montserrat"
-    },
-    "pixel": "generate",
-    "array": "program",
-    "program": "quantify",
-    "matrix": "quantify"
-  },
-  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "33.8894",
-      "longitude": "-119.7505"
+      "latitude": "52.2918",
+      "longitude": "17.7561"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Witting and Sons",
-      "streetAddress": "09559 Boyle Crest",
-      "addressLocality": "East Alexandreside",
-      "addressRegion": "Maryland",
-      "postalCode": "13037",
-      "addressCountry": "Cambodia"
+      "organizationName": "Beer Group",
+      "streetAddress": "248 Wade Burgs",
+      "addressLocality": "Port Jaleelport",
+      "addressRegion": "Wyoming",
+      "postalCode": "47845",
+      "addressCountry": "French Polynesia"
     },
-    "bus": "hack",
-    "array": "copy",
-    "sensor": "program"
+    "microchip": "quantify",
+    "application": "index",
+    "interface": "quantify"
   },
   {
-    "monitor": "override",
-    "microchip": "bypass"
+    "type": "Place",
+    "globalLocationNumber": "5601479926867",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "-1.3814",
+      "longitude": "-49.5835"
+    },
+    "card": "program"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "globalLocationNumber": "3304428503486",
+    "address": {
+      "type": "PostalAddress",
+      "organizationName": "Murazik, Ernser and Walter",
+      "streetAddress": "074 Alexander Viaduct",
+      "addressLocality": "Savannachester",
+      "addressRegion": "Nebraska",
+      "postalCode": "62638",
+      "addressCountry": "Singapore"
+    },
+    "firewall": "parse"
   }
 ]

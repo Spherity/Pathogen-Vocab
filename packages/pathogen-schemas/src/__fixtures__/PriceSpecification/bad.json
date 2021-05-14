@@ -1,26 +1,20 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "price": 8541,
-    "priceCurrency": "ARS",
-    "bus": "copy",
-    "circuit": "compress",
-    "protocol": "copy"
+    "type": "PriceSpecification",
+    "pixel": "generate"
+  },
+  {
+    "priceCurrency": "AUD",
+    "program": "transmit",
+    "card": "transmit",
+    "port": "generate"
   },
   {
     "type": "PriceSpecification",
-    "priceCurrency": "TWD",
-    "alarm": "override",
-    "capacitor": "input",
-    "driver": "input",
-    "sensor": "reboot"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "alarm": "copy"
+    "price": 5207,
+    "priceCurrency": "MDL",
+    "application": "synthesize",
+    "port": "program",
+    "sensor": "hack"
   }
 ]

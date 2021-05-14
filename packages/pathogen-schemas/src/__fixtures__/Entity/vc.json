@@ -15,37 +15,26 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "type": "Person",
-    "firstName": "Pinkie",
-    "lastName": "Abernathy",
-    "email": "Vivian59@example.net",
-    "phoneNumber": "555-837-1699",
-    "worksFor": {
-      "type": "Organization",
-      "name": "Rempel - Jerde",
-      "description": "Networked next generation open architecture",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "74220 Crooks Mountains",
-        "addressLocality": "Rontown",
-        "addressRegion": "Texas",
-        "postalCode": "95136",
-        "addressCountry": "Samoa"
-      },
-      "email": "Houston7@example.com",
-      "phoneNumber": "555-526-1959",
-      "faxNumber": "555-409-1676"
+    "type": "Organization",
+    "name": "Torp LLC",
+    "description": "Up-sized methodical workforce",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "862 Jon Place",
+      "addressLocality": "East Alysaville",
+      "addressRegion": "Maryland",
+      "postalCode": "01978",
+      "addressCountry": "Guam"
     },
-    "jobTitle": "Direct Identity Specialist",
-    "idnumber": "CUXZDUYRLNEC",
-    "idnumberType": "National Identity Card",
-    "birthDate": "1985-11-23"
+    "email": "Chadrick_Gibson@example.com",
+    "phoneNumber": "555-820-1520",
+    "faxNumber": "555-666-9721"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..LkbeHoMDhfHmcwVSvoxQtfsH36irpM1KvAOVPFvkQNopQQ9lY2as-FKdDEBDJxvDV44w9PAv6KswNR9EAJqJDQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..AIPNqFmewy-z1rFLb73FCAwpx0Jt1HmUmKt5bGkrLuZdIx9yAVHCCwPAU1dMybVb-a1VpityqtnIyGO3rLbYBQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

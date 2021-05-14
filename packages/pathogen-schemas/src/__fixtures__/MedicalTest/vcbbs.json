@@ -23,35 +23,35 @@
       "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 SA Variant",
-    "usesDevice": "CHJUTPHQIUQK",
-    "code": "FXXNNELS",
-    "legalStatus": "Preliminary Approval",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "WNFHJFBATHKQ",
+    "code": "TYXWGTUU",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hilpert LLC",
-      "description": "Multi-channelled solution-oriented Graphic Interface",
+      "name": "Parker Inc",
+      "description": "De-engineered systematic monitoring",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "681 Ferry Track",
-        "addressLocality": "Kleinmouth",
-        "addressRegion": "Wyoming",
-        "postalCode": "75050-0439",
-        "addressCountry": "Falkland Islands (Malvinas)"
+        "streetAddress": "6465 Ron Inlet",
+        "addressLocality": "Kovacekhaven",
+        "addressRegion": "Wisconsin",
+        "postalCode": "60176",
+        "addressCountry": "Bolivia"
       },
-      "email": "Augustine_Ryan@example.com",
-      "phoneNumber": "555-584-4516",
-      "faxNumber": "555-548-8185"
+      "email": "Zachariah27@example.org",
+      "phoneNumber": "555-392-3834",
+      "faxNumber": "555-717-1034"
     },
-    "relevantSpecialty": "Communicable Disease"
+    "relevantSpecialty": "Other"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:11Z",
+    "created": "2021-05-14T22:05:36Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "hBnF/9bd8xCCfTnmEtTPaMBj0lgvRQfbK2+V3aG159fieEkxuxW0H69fRKYPaddHOWyUcVfn3CrDJRLWnr0FHAK5fNwYg53EniG94CeoKfdlctiWPyWzt3uTAWl9QvPzEbjQyEefjj9yW6WIpGTvpQ==",
+    "proofValue": "qzLxLzAAN5eEkiotusItNmAw0sEUETmSuTj3y9zVxEHEOakgX7plgIyPw1707PylWWktqA1Fw+T61YvQdQEI1V2IW6bO3eXord+NQPH4ENxNbWulC7LLad7RGc0S29RB2rozC/j0CkkQpO3YQCEJmw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

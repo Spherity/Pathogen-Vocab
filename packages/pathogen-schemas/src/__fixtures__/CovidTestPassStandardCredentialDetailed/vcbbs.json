@@ -16,29 +16,29 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "StandardCovidTestPassDetailed",
-    "testType": "Rapid PCR Test",
+    "testType": "Antigen Test",
     "testCenter": {
       "type": "Organization",
-      "name": "Batz, Rice and Johnson",
-      "description": "Self-enabling well-modulated emulation",
+      "name": "Heidenreich, Murphy and Wehner",
+      "description": "Synergized 4th generation policy",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "00663 Emmalee Circles",
-        "addressLocality": "Lake Marion",
-        "addressRegion": "Alaska",
-        "postalCode": "82241",
-        "addressCountry": "Paraguay"
+        "streetAddress": "21300 Marjolaine Corner",
+        "addressLocality": "North Madie",
+        "addressRegion": "Kansas",
+        "postalCode": "86038",
+        "addressCountry": "Equatorial Guinea"
       },
-      "email": "Charlotte_Kassulke80@example.com",
-      "phoneNumber": "555-727-4135",
-      "faxNumber": "555-666-9429"
+      "email": "Queen54@example.com",
+      "phoneNumber": "555-353-5464",
+      "faxNumber": "555-206-7236"
     },
     "healthProfessionalAdministered": "Yes",
     "testedPerson": {
       "type": "Person",
-      "firstName": "Audie",
-      "lastName": "Hermann",
-      "idnumber": "CLCHPIORFTYU",
+      "firstName": "Roselyn",
+      "lastName": "Bosco",
+      "idnumber": "QCLCHPIORFTY",
       "idnumberType": "National Identity Card",
       "birthDate": "1985-11-23"
     },
@@ -46,42 +46,42 @@
     "testDetails": {
       "type": "MedicalTest",
       "affectedBy": [
-        "Antibiotics"
+        "High Blood Pressure Medicines"
       ],
       "normalRange": [
         "Any Person"
       ],
-      "signDetected": "Negative",
-      "usedToDiagnose": "Covid19 SA Variant",
-      "usesDevice": "JWJWVGYXZPTJ",
-      "code": "JSCMUJOS",
-      "legalStatus": "Revoked",
+      "signDetected": "Positive",
+      "usedToDiagnose": "Covid19 2020 Variants",
+      "usesDevice": "PJWJWVGYXZPT",
+      "code": "JJSCMUJO",
+      "legalStatus": "Preliminary Approval",
       "medicineSystem": "evidence-based",
       "recognizingAuthority": {
         "type": "Organization",
-        "name": "Prohaska - Fadel",
-        "description": "Centralized foreground secured line",
+        "name": "Boehm, Kautzer and Prohaska",
+        "description": "Enhanced analyzing Graphic Interface",
         "address": {
           "type": "PostalAddress",
-          "streetAddress": "9095 Rippin Causeway",
-          "addressLocality": "Lockmanborough",
-          "addressRegion": "Oklahoma",
-          "postalCode": "91678",
-          "addressCountry": "Nauru"
+          "streetAddress": "490 Anabel Wells",
+          "addressLocality": "Lake Shirley",
+          "addressRegion": "Nevada",
+          "postalCode": "71916",
+          "addressCountry": "Saint Martin"
         },
-        "email": "Meggie51@example.net",
-        "phoneNumber": "555-880-1910",
-        "faxNumber": "555-854-1756"
+        "email": "Sim8@example.net",
+        "phoneNumber": "555-853-6563",
+        "faxNumber": "555-880-1910"
       },
-      "relevantSpecialty": "Other"
+      "relevantSpecialty": "Communicable Disease"
     }
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:14Z",
+    "created": "2021-05-14T22:05:38Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "gu3OMhXUmMHGnWYDnj/0l2/bOfL4tDpoLc4zwuN+lIl6VNO8Zi6gVTvLc9TcSP8tXp3zZHFKkWd70xdpoYcFAejwbWb5PKeaNNCtN+HY0KYeGKONjKU+I36IB7XkMSwWJm0rGWTgzy8qOqh70EHsdg==",
+    "proofValue": "pcvN345qqE62NfqfX+iwSfrnOKDTvH3TDopF0RKJqSj+0e/e13q4XE0xtrPdrcOCXK7XmYe2UyQXCmbsn4jALPnwRDDJ8XGk69+3A+CWd7kTGM25cY/qUU3WGgPcSWKSSEPPDtHsXrzQJss3VOHUjA==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

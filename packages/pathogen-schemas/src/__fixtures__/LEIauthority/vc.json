@@ -17,14 +17,14 @@
     ],
     "type": "LEIauthority",
     "validationAuthorityID": "RA000661",
-    "otherValidationAuthorityID": "ISTOA7U2",
-    "validationAuthorityEntityID": "RO8N49VYY51FQXWFUMYE"
+    "otherValidationAuthorityID": "HZLPANPR",
+    "validationAuthorityEntityID": "UYSW1QHQ3583ZK50HHM7"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..BUqVgto_bVDBobhXIizbbdwqJjaawuoL_mmvxDEvjBmCWdhzRJ2EKnrnOmGWeLWh_hAhZ6iHCJEg1GzTPBCkDw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..whxUJnt1SqQ_dG586Jq4Lkd88HLf0rbLJ9P0eRX0tRKlgxaF4iwi9ojVsNNqnTXDm25GE16cHK-BbAV9qgwlCA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

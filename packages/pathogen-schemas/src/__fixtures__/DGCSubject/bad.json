@@ -1,0 +1,23 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "system": "back up",
+    "circuit": "compress",
+    "sensor": "program"
+  },
+  {
+    "matrix": "back up"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "givenName": "Amie",
+    "birthDate": "1991-06-06T06:06:49.774Z",
+    "gender": "female",
+    "sensor": "connect"
+  }
+]

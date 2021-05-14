@@ -1,0 +1,22 @@
+[
+  {
+    "driver": "generate",
+    "port": "hack"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCInfectionInformation",
+    "diseaseRecoveredFrom": "sct#840539006 COVID-19",
+    "dateFirstPositive": "2020-09-04T13:02:29.014Z",
+    "capacitor": "quantify",
+    "panel": "navigate"
+  },
+  {
+    "dateFirstPositive": "2020-09-22T02:08:53.811Z",
+    "countryOfTest": "in",
+    "monitor": "index",
+    "sensor": "synthesize"
+  }
+]

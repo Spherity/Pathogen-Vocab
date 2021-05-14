@@ -1,32 +1,27 @@
 [
   {
-    "program": "synthesize",
-    "sensor": "calculate",
-    "matrix": "back up"
+    "name": "Torp LLC",
+    "pixel": "compress"
   },
   {
     "type": "Organization",
-    "name": "Ledner Group",
+    "name": "Hintz Inc",
+    "description": "Exclusive neutral parallelism",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "9915 Von Parks",
-      "addressLocality": "North Blaze",
-      "addressRegion": "Ohio",
-      "postalCode": "21919-4974",
-      "addressCountry": "Saint Barthelemy"
+      "streetAddress": "580 Giovanni Locks",
+      "addressLocality": "East Brayan",
+      "addressRegion": "Mississippi",
+      "postalCode": "09880-8369",
+      "addressCountry": "Marshall Islands"
     },
-    "phoneNumber": "555-875-1493",
-    "system": "input",
-    "interface": "bypass"
+    "phoneNumber": "555-761-1782",
+    "faxNumber": "555-353-4676",
+    "protocol": "parse",
+    "bus": "bypass",
+    "sensor": "generate"
   },
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "Organization",
-    "name": "Watsica, Schmeler and Bernier",
-    "phoneNumber": "555-887-2669",
-    "matrix": "index",
-    "application": "bypass"
+    "driver": "transmit"
   }
 ]

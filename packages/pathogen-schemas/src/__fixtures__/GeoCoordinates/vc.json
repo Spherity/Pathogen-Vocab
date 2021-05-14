@@ -16,14 +16,14 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "GeoCoordinates",
-    "latitude": "-14.8020",
-    "longitude": "-58.9066"
+    "latitude": "10.1127",
+    "longitude": "119.5683"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..-L5Qe0PNCf5Y-Hg8yBA-ozb_VTMQjMU7XkV5Ko1oLWAbJyNhnjHmZVzG2bo5H3bn33xeWofKAU2fPmnLpQruCQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..YwYiq4y8wDd9L8ZpzHqfh5LJ-VQEF4Wj3cucyFdJU8XtnOn9pLHUKT7IfqMZmkg7jsIOXWEHLHDU5GzNolsWCA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

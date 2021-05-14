@@ -4,205 +4,205 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Bogisich - Tillman",
-    "legalNameLanguage": "en_ZA",
+    "legalName": "Bins and Sons",
+    "legalNameLanguage": "zh_CN",
     "otherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "O'Conner - Bode",
+      "Jacobson LLC"
     ],
     "transliteratedOtherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "O'Conner - Bode",
+      "Jacobson LLC"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "de",
+      "language": "en_BORK",
       "addressLines": [
-        "Senger Inc",
-        "526 Reilly Rest"
+        "Spencer and Sons",
+        "7846 Gabriel Hollow"
       ],
-      "addressNumber": "162",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "01619 Quigley Points, 05960-6527",
-      "city": "Strosinside",
-      "region": "Berkshire",
-      "country": "Guernsey",
-      "postalCode": "68736-8406"
+      "addressNumber": "481",
+      "addressNumberWithinBuilding": "8",
+      "mailRouting": "950 Jonathon Neck, 54073-4685",
+      "city": "Schimmelview",
+      "region": "Cambridgeshire",
+      "country": "Chile",
+      "postalCode": "29529-3236"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "tr",
+      "language": "fr_CA",
       "addressLines": [
-        "Lowe - Metz",
-        "0517 Reilly Lights"
+        "Smith - Reynolds",
+        "9616 Witting Fords"
       ],
-      "addressNumber": "227",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "52614 Daija Trafficway, 94371",
-      "city": "Schambergerview",
-      "region": "Buckinghamshire",
-      "country": "Solomon Islands",
-      "postalCode": "04150-7623"
-    },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000003",
-      "otherValidationAuthorityID": "ZJZHN27E",
-      "validationAuthorityEntityID": "O72F179UG6VYQEQUFMCQ"
-    },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Finance",
-    "legalForm": "LLC",
-    "associatedEntity": {
-      "type": "Organization",
-      "leiCode": "YSW1QHQ3583ZK50HHM7P",
-      "name": "Batz - Littel"
-    },
-    "status": "IN PROGRESS",
-    "expirationDate": "2022-07-11",
-    "expirationReason": "syndicate front-end e-markets",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "F1QEHLVLWSFN9ZLAWC7D",
-      "name": "Konopelski - Murray"
-    },
-    "otherAddresses": []
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIentity",
-    "legalName": "Tillman Inc",
-    "legalNameLanguage": "it",
-    "otherNames": [
-      "Hyatt Group",
-      "Kling Inc"
-    ],
-    "transliteratedOtherNames": [
-      "Hyatt Group",
-      "Kling Inc"
-    ],
-    "legalAddress": {
-      "type": "LEIaddress",
-      "language": "en_AU",
-      "addressLines": [
-        "Leannon and Sons",
-        "4256 Denis Village"
-      ],
-      "addressNumber": "415",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "31306 Ondricka Rue, 47878-4588",
-      "city": "Constantinmouth",
-      "region": "Buckinghamshire",
-      "country": "Greenland",
-      "postalCode": "02901"
-    },
-    "headquartersAddress": {
-      "type": "LEIaddress",
-      "language": "hy",
-      "addressLines": [
-        "Wehner Inc",
-        "1903 Kurt Course"
-      ],
-      "addressNumber": "62",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "61394 Abigale Vista, 93698",
-      "city": "Jackberg",
-      "region": "Borders",
-      "country": "Argentina",
-      "postalCode": "54365-1101"
-    },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000003",
-      "otherValidationAuthorityID": "B5PX7QO5",
-      "validationAuthorityEntityID": "Y63QO5F8VY69ONUZYDO0"
-    },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Grocery",
-    "legalForm": "LLC",
-    "associatedEntity": {
-      "type": "Organization",
-      "leiCode": "LIKCNL35NEBYE9UN0BLR",
-      "name": "Stroman, Stracke and Marks"
-    },
-    "status": "IN PROGRESS",
-    "expirationDate": "2022-07-11",
-    "expirationReason": "utilize leading-edge experiences",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
-      "name": "Wolff Group"
-    },
-    "otherAddresses": []
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIentity",
-    "legalName": "Powlowski - Hoeger",
-    "legalNameLanguage": "az",
-    "otherNames": [
-      "Hane LLC",
-      "Monahan - Hyatt"
-    ],
-    "transliteratedOtherNames": [
-      "Hane LLC",
-      "Monahan - Hyatt"
-    ],
-    "legalAddress": {
-      "type": "LEIaddress",
-      "language": "hr",
-      "addressLines": [
-        "Metz - Ferry",
-        "05616 Noble Port"
-      ],
-      "addressNumber": "223",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "5358 Roselyn Villages, 90831",
-      "city": "East Grayce",
-      "region": "Berkshire",
-      "country": "Malta",
-      "postalCode": "52546-3758"
-    },
-    "headquartersAddress": {
-      "type": "LEIaddress",
-      "language": "pl",
-      "addressLines": [
-        "Rau, Wilkinson and Lebsack",
-        "86089 Tillman Forest"
-      ],
-      "addressNumber": "98",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "0194 Bradtke Inlet, 46252",
-      "city": "Eloisaside",
-      "region": "Buckinghamshire",
-      "country": "Andorra",
-      "postalCode": "55530-6773"
+      "addressNumber": "389",
+      "addressNumberWithinBuilding": "8",
+      "mailRouting": "1480 Franecki Meadows, 84455",
+      "city": "Floyfurt",
+      "region": "Avon",
+      "country": "Djibouti",
+      "postalCode": "01633-9328"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
       "validationAuthorityID": "RA000004",
-      "otherValidationAuthorityID": "9ZET4I64",
-      "validationAuthorityEntityID": "OU6SI6PA3SK69XYFH3TT"
+      "otherValidationAuthorityID": "N0BLRL4E",
+      "validationAuthorityEntityID": "Y8G88V2F6BIGCOT5FG8L"
     },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Industrial",
+    "legalJurisdiction": "Avon",
+    "entityCategory": "Finance",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "ZGCQ6VSFN1H5J0PN8BZJ",
+      "name": "Cummings and Sons"
+    },
+    "status": "REQUESTED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "seize vertical e-commerce",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "QCNJHSUPTGLVVK7J419Z",
+      "name": "Casper LLC"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Orn - Lemke",
+    "legalNameLanguage": "sk",
+    "otherNames": [
+      "Klocko - Gaylord",
+      "Lebsack - Kuhn"
+    ],
+    "transliteratedOtherNames": [
+      "Klocko - Gaylord",
+      "Lebsack - Kuhn"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "de_CH",
+      "addressLines": [
+        "Cole and Sons",
+        "619 Renner Expressway"
+      ],
+      "addressNumber": "470",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "142 Charlie Track, 66899",
+      "city": "New Ahmad",
+      "region": "Buckinghamshire",
+      "country": "Cambodia",
+      "postalCode": "26888"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "id_ID",
+      "addressLines": [
+        "Bartell, Bruen and Waters",
+        "2968 Macey Key"
+      ],
+      "addressNumber": "460",
+      "addressNumberWithinBuilding": "7",
+      "mailRouting": "1361 Alysson Wells, 98498",
+      "city": "Sawaynton",
+      "region": "Buckinghamshire",
+      "country": "Seychelles",
+      "postalCode": "27186-4739"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000003",
+      "otherValidationAuthorityID": "OFTWRVSB",
+      "validationAuthorityEntityID": "FVTD4AJN0BBMDLEKPDDJ"
+    },
+    "legalJurisdiction": "Avon",
+    "entityCategory": "Jewelery",
     "legalForm": "CORPORATION",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "ERBXOFTWRVSBFVTD4AJN",
-      "name": "Nader - Bruen"
+      "leiCode": "X3B3IL1O5EZHYO00YBNZ",
+      "name": "Hintz - Kilback"
     },
-    "status": "IN PROGRESS",
+    "status": "REQUESTED",
     "expirationDate": "2022-07-11",
-    "expirationReason": "implement seamless systems",
+    "expirationReason": "implement robust e-markets",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "TIVL8S7NL6ECUWWRCK89",
-      "name": "Gutkowski, Goodwin and Reynolds"
+      "leiCode": "L6ONMRGIDJVYIUHW0TC3",
+      "name": "Cormier - Jacobi"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Lindgren - McClure",
+    "legalNameLanguage": "ja",
+    "otherNames": [
+      "Ledner and Sons",
+      "Hackett, Ward and Schmitt"
+    ],
+    "transliteratedOtherNames": [
+      "Ledner and Sons",
+      "Hackett, Ward and Schmitt"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "de_AT",
+      "addressLines": [
+        "Raynor - Rau",
+        "151 Rylee Coves"
+      ],
+      "addressNumber": "489",
+      "addressNumberWithinBuilding": "5",
+      "mailRouting": "75172 Kenton Court, 29944",
+      "city": "Lake Ravenmouth",
+      "region": "Bedfordshire",
+      "country": "Iceland",
+      "postalCode": "05619"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "az",
+      "addressLines": [
+        "Nienow - Schuppe",
+        "266 Hessel Drives"
+      ],
+      "addressNumber": "297",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "997 Dasia Inlet, 73278",
+      "city": "Kassulkefurt",
+      "region": "Cambridgeshire",
+      "country": "Luxembourg",
+      "postalCode": "80761-4451"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000001",
+      "otherValidationAuthorityID": "68QVVH7J",
+      "validationAuthorityEntityID": "360BN8L7JM89EML2H5Z9"
+    },
+    "legalJurisdiction": "Bedfordshire",
+    "entityCategory": "Jewelery",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "F0WN2WY8NXD27XHC735H",
+      "name": "Jakubowski, Kihn and Keebler"
+    },
+    "status": "CONFIRMED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "innovate bricks-and-clicks models",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "0ZC4T3LQCKW9R293NWL6",
+      "name": "Hand - Hilll"
     },
     "otherAddresses": []
   }

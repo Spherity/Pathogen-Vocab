@@ -1,7 +1,7 @@
 {
     "$id": "https://w3id.org/pathogen/schemas/DGCSubject.json",
     "$schema": "http://json-schema.org/draft-07/schema#",
-    "$comment": "{\"term\": \"DGCSubject\", \"@id\": \"https://hl7.eu/fhir/ig/dgc/Patient\"}",
+    "$comment": "{\"term\": \"DGCSubject\", \"@id\": \"https://w3id.org/pathogen#DGCSubject\"}",
     "title": "DGCSubject",
     "description": "Lab test information for vax.",
     "type": "object",
@@ -23,27 +23,28 @@
           "$comment": "{\"term\": \"familyName\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/Patient.name.familyName\"}",
           "title": "Family Name",
           "description": "Family name of the subject",
-          "$ref": "https://w3id.org/pathogen/schemas/Person.json"
+          "type": "string"
         },
         "givenName" : {
           "$comment": "{\"term\": \"givenName\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/Patient.name.givenName\"}",
           "title": "Given Name",
           "description": "Given name of the subject",
-          "$ref": "https://w3id.org/pathogen/schemas/Person.json"
+          "type": "string"
         },
         "birthDate" : {
-          "$comment": "{\"term\": \"givenName\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/Patient.birthDate\"}",
+          "$comment": "{\"term\": \"birthDate\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/Patient.birthDate\"}",
           "title": "Date of Birth",
           "description": "Subjects date of birth",
-          "$ref": "https://w3id.org/pathogen/schemas/Person.json"
-
+          "type": "string"
         },
         "gender" : {
           "$comment": "{\"term\": \"gender\", \"@id\": \"http://hl7.org/fhir/gender-identity\"}",
           "title": "Gender",
           "description" : "Gender of the subject",
-          "$ref": "https://w3id.org/pathogen/schemas/Person.json"
+          "type": "string"
         }
 
-    }
+    },
+    "additionalProperties": false,
+    "examples": []
 }

@@ -4,56 +4,56 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Shanahan, Romaguera and Price",
-    "description": "Self-enabling stable access",
+    "name": "Abshire - Steuber",
+    "description": "Adaptive 5th generation conglomeration",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "83513 Princess Lake",
-      "addressLocality": "South Helmertown",
-      "addressRegion": "Arizona",
-      "postalCode": "70992",
-      "addressCountry": "Brunei Darussalam"
+      "streetAddress": "6091 Kovacek Fords",
+      "addressLocality": "Kleinborough",
+      "addressRegion": "Mississippi",
+      "postalCode": "61464",
+      "addressCountry": "Falkland Islands (Malvinas)"
     },
-    "email": "Vincent_Mraz30@example.net",
-    "phoneNumber": "555-872-7369",
-    "faxNumber": "555-362-9754"
+    "email": "Alfredo28@example.net",
+    "phoneNumber": "555-526-2862",
+    "faxNumber": "555-631-5649"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Harris, Medhurst and Heaney",
-    "description": "Total zero defect collaboration",
+    "name": "Osinski, Ratke and Gerlach",
+    "description": "Phased national extranet",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "22005 Gutkowski Loop",
-      "addressLocality": "Millerton",
-      "addressRegion": "Iowa",
-      "postalCode": "27750",
-      "addressCountry": "Bahamas"
+      "streetAddress": "26815 Joel Hollow",
+      "addressLocality": "Scottietown",
+      "addressRegion": "Missouri",
+      "postalCode": "70941-9213",
+      "addressCountry": "Hong Kong"
     },
-    "email": "Arielle83@example.com",
-    "phoneNumber": "555-912-8895",
-    "faxNumber": "555-867-8895"
+    "email": "Reta_Raynor82@example.org",
+    "phoneNumber": "555-479-7568",
+    "faxNumber": "555-469-8940"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "White - Murray",
-    "description": "Monitored maximized project",
+    "name": "Miller - Altenwerth",
+    "description": "Object-based motivating budgetary management",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "59068 Thiel Stream",
-      "addressLocality": "Marquardttown",
-      "addressRegion": "Montana",
-      "postalCode": "40394-4716",
-      "addressCountry": "Grenada"
+      "streetAddress": "3846 Cartwright Islands",
+      "addressLocality": "Heathmouth",
+      "addressRegion": "Pennsylvania",
+      "postalCode": "04033-7946",
+      "addressCountry": "Niger"
     },
-    "email": "Luciano_Ferry13@example.net",
-    "phoneNumber": "555-903-2483",
-    "faxNumber": "555-499-2535"
+    "email": "Betty87@example.net",
+    "phoneNumber": "555-710-6818",
+    "faxNumber": "555-425-8992"
   }
 ]

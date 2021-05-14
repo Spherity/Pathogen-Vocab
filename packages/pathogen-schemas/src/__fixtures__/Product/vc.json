@@ -17,40 +17,51 @@
     ],
     "type": "Product",
     "manufacturer": {
-      "type": "Organization",
-      "name": "Wehner, Runte and Schuster",
-      "description": "Profound scalable process improvement",
-      "address": {
-        "type": "PostalAddress",
-        "streetAddress": "2725 Adela Ville",
-        "addressLocality": "Ziemeville",
-        "addressRegion": "North Dakota",
-        "postalCode": "80200-0738",
-        "addressCountry": "New Caledonia"
+      "type": "Person",
+      "firstName": "Tad",
+      "lastName": "Hodkiewicz",
+      "email": "Tremayne.Wintheiser11@example.com",
+      "phoneNumber": "555-490-4801",
+      "worksFor": {
+        "type": "Organization",
+        "name": "Christiansen - Glover",
+        "description": "Organic static strategy",
+        "address": {
+          "type": "PostalAddress",
+          "streetAddress": "74310 Otilia Expressway",
+          "addressLocality": "Lake Douglasstad",
+          "addressRegion": "Oklahoma",
+          "postalCode": "05840-3297",
+          "addressCountry": "Belgium"
+        },
+        "email": "Kian_Schamberger94@example.org",
+        "phoneNumber": "555-384-9377",
+        "faxNumber": "555-191-8440"
       },
-      "email": "Rosario.Prohaska@example.net",
-      "phoneNumber": "555-766-1621",
-      "faxNumber": "555-228-1050"
+      "jobTitle": "International Program Analyst",
+      "idnumber": "OKYQVSRADEGS",
+      "idnumberType": "National Identity Card",
+      "birthDate": "1985-11-23"
     },
-    "name": "Sleek Metal Car",
-    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "name": "Tasty Plastic Cheese",
+    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "895"
+      "value": "6667"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "3997"
+      "value": "1836"
     },
-    "sku": "407548957698"
+    "sku": "950773198692"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..KOdHiDA8gmfY0MZEZHlEicMjmiRNJCXYbwq2aCdMxuA2TtRIm3HEDqc3S-YXPuTsorLABL0NQ0B_Xr9VdGK9Aw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..JE5P7Wnv7TP4-rj3vtHanyNLgfpu8-RjA-jXdEWTaWtpG7gHw23EmnKoxnJjh2kejjpx9xVzeOAUaNdl6vEsBg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

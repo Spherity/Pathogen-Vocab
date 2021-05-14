@@ -4,42 +4,6 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "nb_NO",
-    "addressLines": [
-      "Lubowitz, Rice and Bogisich",
-      "26704 Windler Mountain"
-    ],
-    "addressNumber": "127",
-    "addressNumberWithinBuilding": "4",
-    "mailRouting": "16809 Kunze Summit, 45598-5366",
-    "city": "Kennedyhaven",
-    "region": "Berkshire",
-    "country": "Falkland Islands (Malvinas)",
-    "postalCode": "78578"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIaddress",
-    "language": "ne",
-    "addressLines": [
-      "Mosciski LLC",
-      "984 Rey Burg"
-    ],
-    "addressNumber": "80",
-    "addressNumberWithinBuilding": "9",
-    "mailRouting": "18327 Abbott Union, 58752-0120",
-    "city": "Erickshire",
-    "region": "Bedfordshire",
-    "country": "Saint Kitts and Nevis",
-    "postalCode": "61236-0587"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIaddress",
     "language": "en_AU_ocker",
     "addressLines": [
       "Romaguera, Brakus and Schamberger",
@@ -52,5 +16,41 @@
     "region": "Bedfordshire",
     "country": "United Arab Emirates",
     "postalCode": "83348"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "hy",
+    "addressLines": [
+      "Shanahan, Powlowski and Gusikowski",
+      "261 Valerie Garden"
+    ],
+    "addressNumber": "42",
+    "addressNumberWithinBuilding": "8",
+    "mailRouting": "104 Sylvia Row, 86937",
+    "city": "South Wilson",
+    "region": "Cambridgeshire",
+    "country": "Cuba",
+    "postalCode": "43872"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "en_AU_ocker",
+    "addressLines": [
+      "Stroman Inc",
+      "570 Brendan Plaza"
+    ],
+    "addressNumber": "386",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "09996 Jake Estates, 01516",
+    "city": "Dellview",
+    "region": "Avon",
+    "country": "San Marino",
+    "postalCode": "22410-6532"
   }
 ]

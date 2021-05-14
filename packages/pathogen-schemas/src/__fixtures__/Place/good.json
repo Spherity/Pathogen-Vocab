@@ -4,20 +4,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "6409667124670",
+    "globalLocationNumber": "2175871771279",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "37.0055",
-      "longitude": "-38.5293"
+      "latitude": "52.2918",
+      "longitude": "17.7561"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Leffler, Hirthe and Langworth",
-      "streetAddress": "14610 Ezra Tunnel",
-      "addressLocality": "Cristborough",
-      "addressRegion": "Alaska",
-      "postalCode": "63603-3074",
-      "addressCountry": "Montserrat"
+      "organizationName": "Beer Group",
+      "streetAddress": "248 Wade Burgs",
+      "addressLocality": "Port Jaleelport",
+      "addressRegion": "Wyoming",
+      "postalCode": "47845",
+      "addressCountry": "French Polynesia"
     }
   },
   {
@@ -25,20 +25,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "5086014194732",
+    "globalLocationNumber": "5601479926867",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "33.8894",
-      "longitude": "-119.7505"
+      "latitude": "-1.3814",
+      "longitude": "-49.5835"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Witting and Sons",
-      "streetAddress": "09559 Boyle Crest",
-      "addressLocality": "East Alexandreside",
-      "addressRegion": "Maryland",
-      "postalCode": "13037",
-      "addressCountry": "Cambodia"
+      "organizationName": "Reinger - Streich",
+      "streetAddress": "944 Leanna Loaf",
+      "addressLocality": "McLaughlinmouth",
+      "addressRegion": "South Dakota",
+      "postalCode": "42910-8046",
+      "addressCountry": "Suriname"
     }
   },
   {
@@ -46,20 +46,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "4997149642641",
+    "globalLocationNumber": "3304428503486",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "89.0745",
-      "longitude": "117.6147"
+      "latitude": "-84.4578",
+      "longitude": "3.7557"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Wyman - Bogisich",
-      "streetAddress": "69130 Eva Junction",
-      "addressLocality": "Littelshire",
-      "addressRegion": "Delaware",
-      "postalCode": "55517",
-      "addressCountry": "Ecuador"
+      "organizationName": "Murazik, Ernser and Walter",
+      "streetAddress": "074 Alexander Viaduct",
+      "addressLocality": "Savannachester",
+      "addressRegion": "Nebraska",
+      "postalCode": "62638",
+      "addressCountry": "Singapore"
     }
   }
 ]

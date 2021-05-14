@@ -1,0 +1,43 @@
+{
+    "$id": "https://w3id.org/pathogen/schemas/DGCInfectionInformation.json",
+    "$schema": "http://json-schema.org/draft-07/schema#",
+    "$comment": "{\"term\": \"DGCInfectionInformation\", \"@id\": \"https://w3id.org/pathogen#DGCInfectionInformation\"}",
+    "title": "DGCInfectionInformation",
+    "description": "Lab test information for vax.",
+    "type": "object",
+    "properties": {
+        "@context": {
+            "type": "array"
+        },
+        "type": {
+            "oneOf": [
+                {
+                    "type": "string"
+                },
+                {
+                    "type": "array"
+                }
+            ]
+        },
+        "diseaseRecoveredFrom": {
+          "$comment": "{\"term\": \"diseaseRecoveredFrom\", \"@id\": \"http://snomed.info/sct/840539006\"}",
+          "title": "Disease Recovered from",
+          "description": "Covid19 disease or disorder",
+          "type": "string"
+        },
+        "dateFirstPositive" : {
+          "$comment" : "{\"term\": \"dateFirstPositive\", \"@id\": \"http://hl7.eu/fhir/ig/dgc/DiagnosticReport.result.effectiveDateTime\"}",
+          "title" : "Date tested positive",
+          "description": "Date first tested positive for Covid-19",
+          "type": "string"
+        },
+        "countryOfTest" : {
+          "$comment" : "{\"term\": \"countryOfTest\", \"@id\": \"https://schema.org/countryOfOrigin\"}",
+          "title" : "Country of test",
+          "description": "Country where testing occured",
+          "type": "string"
+        }
+    },
+    "additionalProperties": false,
+    "examples": []
+}

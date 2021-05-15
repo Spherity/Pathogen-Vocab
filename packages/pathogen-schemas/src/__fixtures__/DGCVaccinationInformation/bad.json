@@ -1,0 +1,30 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "batchNumber": "C1235742",
+    "countryOfVaccination": "es",
+    "healthProfessional": "MSSCZN70H08H704F",
+    "nextVaccinationDate": "2021-06-07T04:49:51.172Z",
+    "order": "2 of 2",
+    "vaccine": "ICD-11#164949870",
+    "protocol": "parse",
+    "bus": "program",
+    "driver": "transmit",
+    "card": "calculate"
+  },
+  {
+    "type": "DGCVaccinationInformation",
+    "administeringCentre": "Hospital Universario La Paz",
+    "countryOfVaccination": "es",
+    "dateOfVaccination": "2021-05-06T00:58:07.390Z",
+    "healthProfessional": "VRDRCR70H08H703B",
+    "vaccine": "ICD-11#164949870",
+    "sensor": "generate"
+  },
+  {
+    "alarm": "synthesize",
+    "hard drive": "quantify"
+  }
+]

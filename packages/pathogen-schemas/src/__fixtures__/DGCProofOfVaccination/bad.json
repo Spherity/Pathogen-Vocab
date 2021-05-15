@@ -1,0 +1,44 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCProofOfVaccination",
+    "system": "back up"
+  },
+  {
+    "protocol": "input",
+    "bandwidth": "index"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "vaccinationInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccinationInformation",
+      "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+      "batchNumber": "B1235742",
+      "countryOfVaccination": "de",
+      "dateOfVaccination": "2021-03-11T08:48:23.370Z",
+      "healthProfessional": "MSSCZN70H08H704F",
+      "nextVaccinationDate": "2021-06-07T02:00:56.792Z",
+      "order": "1 of 2",
+      "vaccine": "ICD-11#164949870"
+    },
+    "personalInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCSubject",
+      "familyName": "Wyman",
+      "givenName": "Grant",
+      "birthDate": "1991-06-27T15:45:27.605Z",
+      "gender": "female"
+    },
+    "system": "generate",
+    "monitor": "input"
+  }
+]

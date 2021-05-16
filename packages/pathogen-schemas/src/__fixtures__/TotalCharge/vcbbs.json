@@ -16,21 +16,21 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 3879,
-    "totalCollect": 1293,
-    "sourceCurrency": "MKD",
-    "destinationCurrency": "IRR",
-    "currencyConversionRate": 4,
-    "ccChargesDestinationCurrency": "MKD",
-    "chargesDestination": 333,
-    "totalCollectCharge": 83.25
+    "totalPrepaid": 945,
+    "totalCollect": 315,
+    "sourceCurrency": "BIF",
+    "destinationCurrency": "OMR",
+    "currencyConversionRate": 5,
+    "ccChargesDestinationCurrency": "BIF",
+    "chargesDestination": 732,
+    "totalCollectCharge": 183
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:36Z",
+    "created": "2021-05-16T14:46:20Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "pDBrAXrtTAK9lbdxKCpCLHBEH9R6UG1JuItM/g69XwaZ32Rz5l/xhkLiqPzNXTlEUql75i9FtWqMxEv7b830W+hXfha5vR6GiTxPMJmT7Ow5hjzQYD5MIrIjlAsRMXZ36x5/Gh31J1BE79TL3RU3AQ==",
+    "proofValue": "q7gjkZvpKqdtoBhAEUj0fLf/OLNDQZSu1/Ktqgg27JQ3/aKxIkOp/D8yB5eECTAEW9rui6K6gkbHFDDoV716D4j2tK8PborvaqBFDnzWfyE/pOglrme6+xuZyycBx0ciCltudxMeO1GCXJ+mdJmp4Q==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

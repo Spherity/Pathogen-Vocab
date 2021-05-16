@@ -16,16 +16,64 @@
       "healthProfessional": "MSSCZN70H08H704F",
       "nextVaccinationDate": "2021-05-20T21:09:06.704Z",
       "order": "1 of 1",
-      "vaccine": "ICD-11#164949870"
+      "vaccine": {
+        "@context": [
+          "https://w3id.org/pathogen/v1"
+        ],
+        "type": "DGCVaccine",
+        "code": "SCT#1119349007",
+        "targetDisease": "ICD-10#J12.82",
+        "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+        "medicinalProductName": "COVID-19 Vaccine"
+      }
     },
     "personalInformation": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "DGCSubject",
-      "familyName": "Murazik",
-      "givenName": "Josie",
-      "birthDate": "1997-11-04T03:20:21.232Z",
+      "familyName": "Lebsack",
+      "givenName": "Sheldon",
+      "birthDate": "1973-01-18T02:42:23.588Z",
+      "gender": "female"
+    }
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCProofOfVaccination",
+    "vaccinationInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccinationInformation",
+      "administeringCentre": "Hospital Universario La Paz",
+      "batchNumber": "A1235742",
+      "countryOfVaccination": "it",
+      "dateOfVaccination": "2021-02-13T21:44:14.841Z",
+      "healthProfessional": "VRDRCR70H08H703B",
+      "nextVaccinationDate": "2021-05-27T09:31:45.220Z",
+      "order": "2 of 2",
+      "vaccine": {
+        "@context": [
+          "https://w3id.org/pathogen/v1"
+        ],
+        "type": "DGCVaccine",
+        "code": "SCT#1119349007",
+        "targetDisease": "ICD-10#J12.82",
+        "marketingAuthHolder": "Novavax CZ AS",
+        "medicinalProductName": "COVID-19 Vaccine"
+      }
+    },
+    "personalInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCSubject",
+      "familyName": "Watsica",
+      "givenName": "Pietro",
+      "birthDate": "1953-10-13T04:42:02.235Z",
       "gender": "female"
     }
   },
@@ -40,52 +88,31 @@
       ],
       "type": "DGCVaccinationInformation",
       "administeringCentre": "München Klinik Bogenhausen",
-      "batchNumber": "D1235742",
-      "countryOfVaccination": "es",
-      "dateOfVaccination": "2021-05-12T19:25:19.198Z",
-      "healthProfessional": "VRDRCR70H08H703B",
-      "nextVaccinationDate": "2021-06-07T02:46:40.971Z",
-      "order": "1 of 2",
-      "vaccine": "ICD-11#164949870"
-    },
-    "personalInformation": {
-      "@context": [
-        "https://w3id.org/pathogen/v1"
-      ],
-      "type": "DGCSubject",
-      "familyName": "Lehner",
-      "givenName": "Geraldine",
-      "birthDate": "2000-09-16T05:34:24.075Z",
-      "gender": "female"
-    }
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "DGCProofOfVaccination",
-    "vaccinationInformation": {
-      "@context": [
-        "https://w3id.org/pathogen/v1"
-      ],
-      "type": "DGCVaccinationInformation",
-      "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
       "batchNumber": "B1235742",
       "countryOfVaccination": "de",
-      "dateOfVaccination": "2021-03-11T08:48:23.370Z",
-      "healthProfessional": "MSSCZN70H08H704F",
-      "nextVaccinationDate": "2021-06-07T02:00:56.792Z",
-      "order": "1 of 2",
-      "vaccine": "ICD-11#164949870"
+      "dateOfVaccination": "2021-03-16T04:22:05.488Z",
+      "healthProfessional": "RCSTGI90B1823661",
+      "nextVaccinationDate": "2021-05-19T10:08:06.370Z",
+      "order": "1 of 1",
+      "vaccine": {
+        "@context": [
+          "https://w3id.org/pathogen/v1"
+        ],
+        "type": "DGCVaccine",
+        "code": "SCT#1119349007",
+        "targetDisease": "ICD-10#J12.82",
+        "marketingAuthHolder": "Biontech Manufacturing GmbH",
+        "medicinalProductName": "COVID-19 Vaccine"
+      }
     },
     "personalInformation": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "DGCSubject",
-      "familyName": "Wyman",
-      "givenName": "Grant",
-      "birthDate": "1991-06-27T15:45:27.605Z",
+      "familyName": "Runte",
+      "givenName": "Audra",
+      "birthDate": "1972-07-23T14:44:35.992Z",
       "gender": "female"
     }
   }

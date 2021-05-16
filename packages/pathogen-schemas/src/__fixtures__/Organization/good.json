@@ -4,56 +4,56 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Abshire - Steuber",
-    "description": "Adaptive 5th generation conglomeration",
+    "name": "Crist, Hayes and Balistreri",
+    "description": "Open-architected multimedia function",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "6091 Kovacek Fords",
-      "addressLocality": "Kleinborough",
-      "addressRegion": "Mississippi",
-      "postalCode": "61464",
-      "addressCountry": "Falkland Islands (Malvinas)"
+      "streetAddress": "740 Kristina Harbors",
+      "addressLocality": "West Fritzstad",
+      "addressRegion": "Alaska",
+      "postalCode": "36535-1146",
+      "addressCountry": "Burundi"
     },
-    "email": "Alfredo28@example.net",
-    "phoneNumber": "555-526-2862",
-    "faxNumber": "555-631-5649"
+    "email": "Adalberto.Heaney@example.com",
+    "phoneNumber": "555-140-9010",
+    "faxNumber": "555-785-4112"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Osinski, Ratke and Gerlach",
-    "description": "Phased national extranet",
+    "name": "Koch and Sons",
+    "description": "Face to face bi-directional superstructure",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "26815 Joel Hollow",
-      "addressLocality": "Scottietown",
-      "addressRegion": "Missouri",
-      "postalCode": "70941-9213",
-      "addressCountry": "Hong Kong"
+      "streetAddress": "19420 Justyn Walks",
+      "addressLocality": "Collinsbury",
+      "addressRegion": "California",
+      "postalCode": "20934",
+      "addressCountry": "Cayman Islands"
     },
-    "email": "Reta_Raynor82@example.org",
-    "phoneNumber": "555-479-7568",
-    "faxNumber": "555-469-8940"
+    "email": "Bettye.Hilpert31@example.net",
+    "phoneNumber": "555-455-1210",
+    "faxNumber": "555-381-7805"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Miller - Altenwerth",
-    "description": "Object-based motivating budgetary management",
+    "name": "Wisoky Group",
+    "description": "Optional intermediate forecast",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "3846 Cartwright Islands",
-      "addressLocality": "Heathmouth",
-      "addressRegion": "Pennsylvania",
-      "postalCode": "04033-7946",
-      "addressCountry": "Niger"
+      "streetAddress": "7591 Juvenal Manor",
+      "addressLocality": "Cathrynmouth",
+      "addressRegion": "Illinois",
+      "postalCode": "84338-2711",
+      "addressCountry": "Azerbaijan"
     },
-    "email": "Betty87@example.net",
-    "phoneNumber": "555-710-6818",
-    "faxNumber": "555-425-8992"
+    "email": "Kraig99@example.org",
+    "phoneNumber": "555-556-4082",
+    "faxNumber": "555-709-3432"
   }
 ]

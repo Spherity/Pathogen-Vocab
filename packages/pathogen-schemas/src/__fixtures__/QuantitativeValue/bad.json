@@ -1,22 +1,18 @@
 [
   {
-    "matrix": "bypass",
-    "driver": "generate",
-    "bus": "override",
-    "application": "back up"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
     "type": "QuantitativeValue",
-    "unitCode": "",
-    "panel": "program"
+    "protocol": "connect",
+    "port": "navigate",
+    "pixel": "parse"
   },
   {
     "type": "QuantitativeValue",
-    "unitCode": "",
-    "hard drive": "synthesize",
-    "system": "quantify"
+    "bandwidth": "transmit",
+    "firewall": "override"
+  },
+  {
+    "microchip": "synthesize",
+    "bandwidth": "connect",
+    "transmitter": "reboot"
   }
 ]

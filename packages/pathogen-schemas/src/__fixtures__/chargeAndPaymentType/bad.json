@@ -3,25 +3,24 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "type": "chargeAndPaymentType",
-    "application": "navigate",
-    "alarm": "transmit",
-    "panel": "generate",
-    "circuit": "connect"
+    "protocol": "index",
+    "firewall": "copy",
+    "monitor": "connect"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "chargePrepaid": 54,
-    "driver": "quantify",
-    "panel": "generate",
-    "application": "generate"
+    "type": "chargeAndPaymentType",
+    "chargeCollect": 864,
+    "monitor": "generate",
+    "capacitor": "index",
+    "program": "hack",
+    "circuit": "program"
   },
   {
-    "chargeCollect": 422,
-    "microchip": "copy",
-    "driver": "copy",
-    "system": "compress"
+    "chargePrepaid": 165,
+    "bus": "transmit",
+    "feed": "generate"
   }
 ]

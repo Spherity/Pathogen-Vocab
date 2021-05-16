@@ -16,24 +16,24 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "en_AU_ocker",
+    "language": "en",
     "addressLines": [
-      "Romaguera, Brakus and Schamberger",
-      "93177 Kristina Circle"
+      "Kuphal and Sons",
+      "7093 Kaden Circles"
     ],
-    "addressNumber": "344",
-    "addressNumberWithinBuilding": "8",
-    "mailRouting": "3060 Saul Canyon, 96947-6157",
-    "city": "North Anna",
+    "addressNumber": "352",
+    "addressNumberWithinBuilding": "4",
+    "mailRouting": "83008 Hyatt Cliff, 19526",
+    "city": "Preciousfort",
     "region": "Bedfordshire",
-    "country": "United Arab Emirates",
-    "postalCode": "83348"
+    "country": "Nauru",
+    "postalCode": "01619"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..VsKgbhewQS1DzBlS0wDemYp5VZqz-TF4Vh0Jyv7cqPsT1p_a1TiiLgDTN1byZR0sYP-fDB8WcNWLlWdTD7h-Ag",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..DpVSNlQNiqtSAYSvlI6sh5qX_ZDov8AphaYcuh6OCoMoP2T190vKsgvvnPO-ugFTD2d-4teucBLbevmhAZbvCQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

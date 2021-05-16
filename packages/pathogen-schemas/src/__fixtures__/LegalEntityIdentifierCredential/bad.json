@@ -1,23 +1,22 @@
 [
   {
-    "system": "connect",
-    "matrix": "hack",
-    "feed": "input",
-    "alarm": "copy"
-  },
-  {
-    "leiCode": "5ZVZFN540OK3I1PTW72D",
-    "card": "transmit",
-    "capacitor": "generate",
-    "bandwidth": "synthesize",
-    "application": "copy"
-  },
-  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
     "type": "LegalEntityIdentifierCredential",
-    "leiCode": "ZGWTNGBC9HTTVCI68P4T",
-    "certificateName": "US Legal Entity Certificate",
-    "program": "index",
-    "panel": "reboot",
-    "array": "input"
+    "protocol": "bypass",
+    "circuit": "program",
+    "bus": "program"
+  },
+  {
+    "transmitter": "override",
+    "pixel": "connect"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "leiCode": "4Q3IW1OVT2VYK0IPF2BW",
+    "pixel": "navigate"
   }
 ]

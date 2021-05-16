@@ -4,23 +4,23 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "chargeAndPaymentType",
-    "chargeCollect": 838,
-    "chargePrepaid": 57
+    "chargeCollect": 506,
+    "chargePrepaid": 819
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "chargeAndPaymentType",
-    "chargeCollect": 544,
-    "chargePrepaid": 54
+    "chargeCollect": 864,
+    "chargePrepaid": 127
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "chargeAndPaymentType",
-    "chargeCollect": 422,
-    "chargePrepaid": 70
+    "chargeCollect": 811,
+    "chargePrepaid": 165
   }
 ]

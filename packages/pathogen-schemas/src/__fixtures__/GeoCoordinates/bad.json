@@ -1,26 +1,19 @@
 [
   {
-    "bandwidth": "calculate",
-    "card": "parse"
+    "latitude": "-31.3334",
+    "system": "hack",
+    "driver": "connect",
+    "protocol": "synthesize",
+    "interface": "index"
   },
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "latitude": "10.7720",
-    "longitude": "47.4529",
-    "alarm": "back up",
-    "firewall": "transmit"
+    "type": "GeoCoordinates",
+    "application": "program",
+    "capacitor": "transmit",
+    "circuit": "back up"
   },
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "latitude": "50.3722",
-    "longitude": "-133.7585",
-    "driver": "generate",
-    "system": "parse",
-    "bus": "navigate",
-    "interface": "calculate"
+    "longitude": "-7.0175",
+    "matrix": "quantify"
   }
 ]

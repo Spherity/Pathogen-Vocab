@@ -16,21 +16,21 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "DGCTestInformation",
-    "testName": "jrc#1065: Becton Dickinson BD Veritor System for Rapid Deteciton os SARS-CoV-2",
-    "testType": "loinc#LP217198-3: Rapid immunoassay",
-    "sampleOriginType": "sct#122592007:Acellular blood (serum or plasma) specimen",
-    "sampleCollectionDateTime": "2021-05-06T15:40:19.937Z",
+    "testName": "jrc#1232: Abbott Rapid Diagnostics Panbio™ COVID-19 Ag Rapid Test",
+    "testType": "loinc#LP6464-4: Nucleic acid amplification with probe detection",
+    "sampleOriginType": "sct#258529004:Throat swab",
+    "sampleCollectionDateTime": "2021-04-25T21:59:27.597Z",
     "testResult": "1240591000000102-Severe acute respiratory syndrome coronavirus 2 not detected",
-    "testCenter": "Hospital Na Františku Prague",
-    "testValidatorId": "test-id",
-    "countryOfTestAdminstration": "it"
+    "testCenter": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "testValidatorId": "codiceFiscale:VRDRCR70H08H703B",
+    "countryOfTestAdminstration": "de"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:36Z",
+    "created": "2021-05-16T14:46:20Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "jF7J645C00vp+6WpX6FcyX8c0FTgoMP6X15Fgnx1IHdQRnxDdTuA0sYfmQSxULl3LTEf+oCvtqy5NjvYEeLRpudzwYRSaz8qt/Z8ryi/HWxDrCAeDdvwXsrQThXBrayTscnllnqKiHEgaY0dWvBxbA==",
+    "proofValue": "oNy2QT+Icown9PxY4R/rd4QHwJ0n7aNcdGAHBrCXHbhpknJ3LO7joQbAI4sbM/SsB/8X1xHoGV/9rY/jsZIBSKdSuA/vHHhEpNJC03Uwv2EXgU+TQy4adtJt4k1PGNZoMS/owWoCTEAX5zY7boG3qg==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

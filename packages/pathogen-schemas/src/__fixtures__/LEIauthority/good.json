@@ -4,9 +4,18 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIauthority",
-    "validationAuthorityID": "RA000661",
-    "otherValidationAuthorityID": "HZLPANPR",
-    "validationAuthorityEntityID": "UYSW1QHQ3583ZK50HHM7"
+    "validationAuthorityID": "RA000001",
+    "otherValidationAuthorityID": "RPEWL6M8",
+    "validationAuthorityEntityID": "DYI6EU2HF83VEGLIKCNL"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIauthority",
+    "validationAuthorityID": "RA000004",
+    "otherValidationAuthorityID": "UN0BLRL4",
+    "validationAuthorityEntityID": "EY8G88V2F6BIGCOT5FG8"
   },
   {
     "@context": [
@@ -14,16 +23,7 @@
     ],
     "type": "LEIauthority",
     "validationAuthorityID": "RA000001",
-    "otherValidationAuthorityID": "2IJ3VC21",
-    "validationAuthorityEntityID": "T2CEB4ZK7OOST716O3YM"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIauthority",
-    "validationAuthorityID": "RA000001",
-    "otherValidationAuthorityID": "VYPMSSCM",
-    "validationAuthorityEntityID": "TH2NWJJLTSGHN1I5QF2Q"
+    "otherValidationAuthorityID": "QCNJHSUP",
+    "validationAuthorityEntityID": "TGLVVK7J419Z24J8X11N"
   }
 ]

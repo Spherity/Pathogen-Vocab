@@ -4,19 +4,22 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIauthority",
-    "otherValidationAuthorityID": "HZLPANPR",
-    "capacitor": "copy"
+    "validationAuthorityID": "RA000001",
+    "validationAuthorityEntityID": "DYI6EU2HF83VEGLIKCNL",
+    "card": "parse",
+    "interface": "compress"
+  },
+  {
+    "otherValidationAuthorityID": "UN0BLRL4",
+    "microchip": "navigate",
+    "driver": "quantify"
   },
   {
     "type": "LEIauthority",
-    "protocol": "calculate",
-    "firewall": "copy",
-    "monitor": "reboot"
-  },
-  {
-    "validationAuthorityID": "RA000001",
-    "validationAuthorityEntityID": "TH2NWJJLTSGHN1I5QF2Q",
-    "bus": "calculate",
-    "program": "copy"
+    "otherValidationAuthorityID": "QCNJHSUP",
+    "validationAuthorityEntityID": "TGLVVK7J419Z24J8X11N",
+    "bandwidth": "generate",
+    "pixel": "back up",
+    "feed": "hack"
   }
 ]

@@ -16,15 +16,15 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 8888,
-    "priceCurrency": "CHF"
+    "price": 179,
+    "priceCurrency": "MGA"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:36Z",
+    "created": "2021-05-16T14:46:19Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "tb8lTXqaTEoee7u872Igy4I8N+rJVisH91gJzbzMjOU10lj2HunEnm0tS2IolQWEATVQGIORafFpfT48eX7QtdAlClUxiTieQhyU18L6B8du+/3TQjBthGitWde/lEE5MVsxkjDJNGUYI3zBt/J/Sw==",
+    "proofValue": "rLQCSuVWBJRjkSJtPzJgsnx5XBD17RyW1RmIcycVuw1vdK9b/Y+IonQIAZPIehxqEspLgBuBTrfBUs+rZFnmcQYrMBTCwFzBUuH4ixNSZUs+xdZGgRVtRFjn+8WslQT8UudPRxry0SF/Na5xMimZlA==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

@@ -17,13 +17,13 @@
     ],
     "type": "QuantitativeValue",
     "unitCode": "",
-    "value": "6570"
+    "value": "7809"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..dr6zmTdS9H9MdVxSi4qVTdWtJLE29jVsA1KCALGn1I2zScTskb_ESSaRLeButbKd1WI1dIZ9SydU9QGCMImoDw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..EjBHok2l0hL5Aq5NAgK2NJlSu0I_RMF7oe_pWbsQqYHJ7k2_nVqjatfoXVUDPUdOewQkhkhRgB6kq9DEkDVzCQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

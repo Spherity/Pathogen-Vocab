@@ -3,21 +3,27 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "system": "back up",
-    "circuit": "compress",
-    "sensor": "program"
+    "familyName": "Gulgowski",
+    "givenName": "Edna",
+    "gender": "female",
+    "protocol": "compress",
+    "driver": "reboot",
+    "matrix": "back up"
   },
   {
-    "matrix": "back up"
+    "familyName": "Keebler",
+    "givenName": "Bernhard",
+    "gender": "female",
+    "capacitor": "transmit",
+    "application": "compress",
+    "bandwidth": "quantify",
+    "system": "parse"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "DGCSubject",
-    "givenName": "Amie",
-    "birthDate": "1991-06-06T06:06:49.774Z",
-    "gender": "female",
-    "sensor": "connect"
+    "monitor": "parse"
   }
 ]

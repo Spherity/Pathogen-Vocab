@@ -4,23 +4,23 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 8888,
-    "priceCurrency": "CHF"
+    "price": 179,
+    "priceCurrency": "MGA"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 6375,
-    "priceCurrency": "AUD"
+    "price": 4361,
+    "priceCurrency": "DOP"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 5207,
-    "priceCurrency": "MDL"
+    "price": 3487,
+    "priceCurrency": "CRC"
   }
 ]

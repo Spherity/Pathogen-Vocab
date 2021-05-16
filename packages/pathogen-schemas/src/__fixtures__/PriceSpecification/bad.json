@@ -1,20 +1,26 @@
 [
   {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
     "type": "PriceSpecification",
-    "pixel": "generate"
+    "price": 179,
+    "transmitter": "navigate",
+    "bandwidth": "override"
   },
   {
-    "priceCurrency": "AUD",
-    "program": "transmit",
-    "card": "transmit",
-    "port": "generate"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "price": 4361,
+    "priceCurrency": "DOP",
+    "array": "input",
+    "monitor": "generate"
   },
   {
-    "type": "PriceSpecification",
-    "price": 5207,
-    "priceCurrency": "MDL",
-    "application": "synthesize",
-    "port": "program",
-    "sensor": "hack"
+    "priceCurrency": "CRC",
+    "card": "calculate",
+    "alarm": "generate",
+    "matrix": "program"
   }
 ]

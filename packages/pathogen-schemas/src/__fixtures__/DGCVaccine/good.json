@@ -1,0 +1,32 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccine",
+    "code": "SCT#1119349007",
+    "targetDisease": "ICD-10#J12.82",
+    "marketingAuthHolder": "Novavax CZ AS",
+    "medicinalProductName": "COVID-19 Vaccine"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccine",
+    "code": "SCT#1119349007",
+    "targetDisease": "ICD-10#J12.82",
+    "marketingAuthHolder": "Biontech Manufacturing GmbH",
+    "medicinalProductName": "COVID-19 Vaccine"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccine",
+    "code": "SCT#1119349007",
+    "targetDisease": "ICD-10#J12.82",
+    "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+    "medicinalProductName": "COVID-19 Vaccine"
+  }
+]

@@ -1,25 +1,33 @@
 [
   {
-    "type": "LEIaddress",
-    "mailRouting": "3060 Saul Canyon, 96947-6157",
-    "bandwidth": "connect",
-    "bus": "hack"
-  },
-  {
-    "type": "LEIaddress",
-    "addressNumberWithinBuilding": "8",
-    "sensor": "generate",
-    "matrix": "hack"
-  },
-  {
     "addressLines": [
-      "Stroman Inc",
-      "570 Brendan Plaza"
+      "Kuphal and Sons",
+      "7093 Kaden Circles"
     ],
-    "mailRouting": "09996 Jake Estates, 01516",
-    "city": "Dellview",
-    "country": "San Marino",
-    "protocol": "synthesize",
-    "interface": "index"
+    "addressNumber": "352",
+    "city": "Preciousfort",
+    "firewall": "copy",
+    "monitor": "reboot",
+    "bus": "parse"
+  },
+  {
+    "addressNumber": "408",
+    "mailRouting": "6051 Bode Row, 05261-4862",
+    "postalCode": "71874",
+    "matrix": "connect"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "language": "ko",
+    "addressNumber": "37",
+    "mailRouting": "7846 Gabriel Hollow, 95058-5554",
+    "city": "Lake Goldenport",
+    "region": "Bedfordshire",
+    "country": "Palau",
+    "sensor": "calculate",
+    "bus": "input",
+    "program": "hack"
   }
 ]

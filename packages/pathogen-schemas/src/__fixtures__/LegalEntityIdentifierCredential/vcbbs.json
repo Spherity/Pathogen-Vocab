@@ -16,15 +16,15 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LegalEntityIdentifierCredential",
-    "leiCode": "5L716DWQNT5BFSMY3UV4",
+    "leiCode": "47P4J239810KGAATL2A8",
     "certificateName": "US Legal Entity Certificate"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:36Z",
+    "created": "2021-05-16T14:46:19Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "jhsmp7z7KKlFV5VQYy/92N9e8Pms6etxvmHHkUF3TwPuZxMrFf3NSrsLBCJXGWHaTT2DLLKsg4y7n9TPvt4CxmGexrDmguW8ItLF5OHG+4k7IdB93SER6OKSzoZ9SGjCM0Rh5clF2grrL2HHxTew/Q==",
+    "proofValue": "pQEtKh2puv0Uvwvo2Ovq0JXrrHYbFo7vbtnZmVHPbfBgspX6K3cMn63S0pzvFtnULyc/JO0X5yHQPjV+U2PQUlZk/YKJp8Q6N2O4CjasOi1Ti1yqqsXL3dbrsBSVqZCyKhsdGRkDXO7prHwPf6Vddg==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

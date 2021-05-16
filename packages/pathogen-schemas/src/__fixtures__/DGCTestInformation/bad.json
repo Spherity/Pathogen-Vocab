@@ -1,30 +1,29 @@
 [
   {
+    "countryOfTestAdminstration": "de",
+    "application": "transmit",
+    "array": "transmit",
+    "protocol": "calculate",
+    "matrix": "override"
+  },
+  {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "DGCTestInformation",
     "testName": "jrc#1065: Becton Dickinson BD Veritor System for Rapid Deteciton os SARS-CoV-2",
-    "sampleCollectionDateTime": "2021-05-06T15:40:19.937Z",
+    "sampleOriginType": "sct#122554006:Capillary blood specimen",
+    "testValidatorId": "codiceFiscale:VRDRCR70H08H703B",
     "countryOfTestAdminstration": "it",
-    "driver": "bypass"
+    "panel": "reboot",
+    "transmitter": "connect",
+    "program": "input"
   },
   {
-    "sampleOriginType": "sct#445297001:Swab of internal nose",
-    "sampleCollectionDateTime": "2021-05-06T09:42:00.817Z",
-    "testResult": "1240591000000102-Severe acute respiratory syndrome coronavirus 2 not detected",
-    "testCenter": "Hospital Na Františku Prague",
-    "bandwidth": "navigate",
-    "interface": "synthesize"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "DGCTestInformation",
-    "testName": "jrc#1232: Abbott Rapid Diagnostics Panbio™ COVID-19 Ag Rapid Test",
-    "sampleCollectionDateTime": "2021-04-25T19:12:53.659Z",
-    "circuit": "calculate",
-    "matrix": "override"
+    "sampleCollectionDateTime": "2021-04-26T16:21:00.604Z",
+    "driver": "transmit",
+    "card": "calculate",
+    "capacitor": "generate",
+    "monitor": "bypass"
   }
 ]

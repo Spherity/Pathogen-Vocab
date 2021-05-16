@@ -5,91 +5,34 @@
     ],
     "type": "Product",
     "manufacturer": {
-      "type": "Person",
-      "firstName": "Tad",
-      "lastName": "Hodkiewicz",
-      "email": "Tremayne.Wintheiser11@example.com",
-      "phoneNumber": "555-490-4801",
-      "worksFor": {
-        "type": "Organization",
-        "name": "Christiansen - Glover",
-        "description": "Organic static strategy",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "74310 Otilia Expressway",
-          "addressLocality": "Lake Douglasstad",
-          "addressRegion": "Oklahoma",
-          "postalCode": "05840-3297",
-          "addressCountry": "Belgium"
-        },
-        "email": "Kian_Schamberger94@example.org",
-        "phoneNumber": "555-384-9377",
-        "faxNumber": "555-191-8440"
+      "type": "Organization",
+      "name": "Beer, McCullough and Williamson",
+      "description": "Vision-oriented value-added core",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "767 DuBuque Glens",
+        "addressLocality": "East Ella",
+        "addressRegion": "Vermont",
+        "postalCode": "72926",
+        "addressCountry": "Latvia"
       },
-      "jobTitle": "International Program Analyst",
-      "idnumber": "OKYQVSRADEGS",
-      "idnumberType": "National Identity Card",
-      "birthDate": "1985-11-23"
+      "email": "Justina_Zboncak@example.net",
+      "phoneNumber": "555-526-7726",
+      "faxNumber": "555-153-5264"
     },
-    "name": "Tasty Plastic Cheese",
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "name": "Awesome Steel Cheese",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "6667"
+      "value": "6450"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "1836"
+      "value": "9629"
     },
-    "sku": "950773198692"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "Product",
-    "manufacturer": {
-      "type": "Person",
-      "firstName": "Brandi",
-      "lastName": "Ritchie",
-      "email": "Emery.Wiza@example.net",
-      "phoneNumber": "555-937-6864",
-      "worksFor": {
-        "type": "Organization",
-        "name": "Thompson, O'Connell and Emmerich",
-        "description": "Secured national pricing structure",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "4126 Fritz Islands",
-          "addressLocality": "North Rydermouth",
-          "addressRegion": "Georgia",
-          "postalCode": "58487",
-          "addressCountry": "Cote d'Ivoire"
-        },
-        "email": "Alfred.Grimes@example.com",
-        "phoneNumber": "555-434-6916",
-        "faxNumber": "555-882-5250"
-      },
-      "jobTitle": "Regional Quality Developer",
-      "idnumber": "MFPXCHBJRBVC",
-      "idnumberType": "National Identity Card",
-      "birthDate": "1985-11-23"
-    },
-    "name": "Gorgeous Wooden Pizza",
-    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
-    "sizeOrAmount": {
-      "type": "QuantitativeValue",
-      "unitCode": "",
-      "value": "5163"
-    },
-    "weight": {
-      "type": "QuantitativeValue",
-      "unitCode": "",
-      "value": "5443"
-    },
-    "sku": "14703242945"
+    "sku": "204989161760"
   },
   {
     "@context": [
@@ -98,32 +41,67 @@
     "type": "Product",
     "manufacturer": {
       "type": "Organization",
-      "name": "Cole - Wolf",
-      "description": "Synchronised bandwidth-monitored local area network",
+      "name": "Kuphal LLC",
+      "description": "Enterprise-wide heuristic alliance",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "435 Dixie Underpass",
-        "addressLocality": "Lake Jamaalhaven",
-        "addressRegion": "Wisconsin",
-        "postalCode": "53673",
-        "addressCountry": "Kenya"
+        "streetAddress": "569 Pacocha Junctions",
+        "addressLocality": "Devanfort",
+        "addressRegion": "Louisiana",
+        "postalCode": "93274-5807",
+        "addressCountry": "Papua New Guinea"
       },
-      "email": "Arden_Russel@example.org",
-      "phoneNumber": "555-796-3405",
-      "faxNumber": "555-795-2978"
+      "email": "Hassan52@example.org",
+      "phoneNumber": "555-155-7210",
+      "faxNumber": "555-232-9375"
     },
-    "name": "Intelligent Concrete Table",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "name": "Fantastic Granite Sausages",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "3684"
+      "value": "7614"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "1210"
+      "value": "2426"
     },
-    "sku": "332106049431"
+    "sku": "962310582344"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Product",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Nienow Group",
+      "description": "Networked zero tolerance groupware",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "0518 Durgan Lock",
+        "addressLocality": "Beattyfurt",
+        "addressRegion": "Texas",
+        "postalCode": "99758",
+        "addressCountry": "Hong Kong"
+      },
+      "email": "Veda_Wunsch@example.net",
+      "phoneNumber": "555-317-6932",
+      "faxNumber": "555-964-1980"
+    },
+    "name": "Practical Cotton Sausages",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2199"
+    },
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2603"
+    },
+    "sku": "176103714953"
   }
 ]

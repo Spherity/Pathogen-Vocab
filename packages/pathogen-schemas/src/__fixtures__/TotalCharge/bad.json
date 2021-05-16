@@ -1,35 +1,23 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "system": "input",
-    "application": "transmit"
+    "totalCollectCharge": 183,
+    "alarm": "parse",
+    "panel": "program"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "totalCollect": 1245,
-    "sourceCurrency": "KHR",
-    "currencyConversionRate": 2,
-    "ccChargesDestinationCurrency": "KHR",
-    "chargesDestination": 549,
-    "totalCollectCharge": 137.25,
-    "card": "quantify",
-    "bus": "back up"
+    "currencyConversionRate": 4,
+    "ccChargesDestinationCurrency": "BIF",
+    "chargesDestination": 730,
+    "panel": "generate",
+    "application": "navigate"
   },
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "TotalCharge",
-    "totalPrepaid": 540,
-    "totalCollect": 180,
-    "destinationCurrency": "MZN",
-    "currencyConversionRate": 1,
-    "chargesDestination": 371,
-    "interface": "bypass",
-    "transmitter": "transmit"
+    "totalPrepaid": 2887.5,
+    "totalCollect": 962.5,
+    "bandwidth": "compress",
+    "hard drive": "synthesize"
   }
 ]

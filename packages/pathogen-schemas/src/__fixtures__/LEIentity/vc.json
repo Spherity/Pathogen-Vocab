@@ -16,67 +16,67 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Bins and Sons",
-    "legalNameLanguage": "zh_CN",
+    "legalName": "Weimann, Douglas and Reynolds",
+    "legalNameLanguage": "hy",
     "otherNames": [
-      "O'Conner - Bode",
-      "Jacobson LLC"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "transliteratedOtherNames": [
-      "O'Conner - Bode",
-      "Jacobson LLC"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "en_BORK",
+      "language": "en_AU",
       "addressLines": [
-        "Spencer and Sons",
-        "7846 Gabriel Hollow"
+        "Dickens, Botsford and Renner",
+        "912 Rodrigo Rest"
       ],
-      "addressNumber": "481",
-      "addressNumberWithinBuilding": "8",
-      "mailRouting": "950 Jonathon Neck, 54073-4685",
-      "city": "Schimmelview",
-      "region": "Cambridgeshire",
-      "country": "Chile",
-      "postalCode": "29529-3236"
+      "addressNumber": "222",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "936 Frami Bridge, 88857-0197",
+      "city": "Terryfurt",
+      "region": "Avon",
+      "country": "Pakistan",
+      "postalCode": "29683-6651"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "fr_CA",
+      "language": "es",
       "addressLines": [
-        "Smith - Reynolds",
-        "9616 Witting Fords"
+        "Cronin - Zulauf",
+        "498 Aubree Shore"
       ],
-      "addressNumber": "389",
-      "addressNumberWithinBuilding": "8",
-      "mailRouting": "1480 Franecki Meadows, 84455",
-      "city": "Floyfurt",
+      "addressNumber": "160",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "2718 Runolfsdottir Ports, 96489",
+      "city": "Thielfort",
       "region": "Avon",
-      "country": "Djibouti",
-      "postalCode": "01633-9328"
+      "country": "Mozambique",
+      "postalCode": "48831"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
       "validationAuthorityID": "RA000004",
-      "otherValidationAuthorityID": "N0BLRL4E",
-      "validationAuthorityEntityID": "Y8G88V2F6BIGCOT5FG8L"
+      "otherValidationAuthorityID": "AJN0BBMD",
+      "validationAuthorityEntityID": "LEKPDDJGL8JDF802LL6O"
     },
-    "legalJurisdiction": "Avon",
-    "entityCategory": "Finance",
+    "legalJurisdiction": "Buckinghamshire",
+    "entityCategory": "Jewelery",
     "legalForm": "LLC",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "ZGCQ6VSFN1H5J0PN8BZJ",
-      "name": "Cummings and Sons"
+      "leiCode": "EZHYO00YBNZVKG9IIHCO",
+      "name": "Kutch - Hoeger"
     },
-    "status": "REQUESTED",
+    "status": "REJECTED",
     "expirationDate": "2022-07-11",
-    "expirationReason": "seize vertical e-commerce",
+    "expirationReason": "exploit collaborative relationships",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "QCNJHSUPTGLVVK7J419Z",
-      "name": "Casper LLC"
+      "leiCode": "UHW0TC3D5EIK8JHLERJT",
+      "name": "Raynor, Rau and Wilkinson"
     },
     "otherAddresses": []
   },
@@ -84,7 +84,7 @@
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..4mS1nSnhXiFLjX2xcmhaFLczJJFrieM3cCRJzDiVU7sQlPkc-KfiGTqIkuHVbQkfAZpz1h4AJpoCLo-VYvcmBA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..5rdTtMSGRnUIsLAFSam4CKxL12Qq7TAsLeL9Q6BoXGN9lD27HoJBinhguKBFnWTfceAXUKsqXHASY89qGNeACw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

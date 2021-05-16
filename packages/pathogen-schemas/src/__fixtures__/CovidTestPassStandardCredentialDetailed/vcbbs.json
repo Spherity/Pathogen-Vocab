@@ -79,9 +79,9 @@
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:38Z",
+    "created": "2021-05-16T14:46:22Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "pcvN345qqE62NfqfX+iwSfrnOKDTvH3TDopF0RKJqSj+0e/e13q4XE0xtrPdrcOCXK7XmYe2UyQXCmbsn4jALPnwRDDJ8XGk69+3A+CWd7kTGM25cY/qUU3WGgPcSWKSSEPPDtHsXrzQJss3VOHUjA==",
+    "proofValue": "jl8W/MQmDDWA3Izcv7PnBEsCm2OAnomfmnqQkwTo2t1GorPI9bsMdUPbB2NWMcpEUOgwdeFcanMjQ4R6+wL+erhwLeLDktT+dhqQ3Su7EadZHNElNTxOkUBqsnT4rNKKuXu76Y7WbR0nJ69JrR59Xw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

@@ -1,44 +1,49 @@
 [
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "DGCProofOfVaccination",
-    "system": "back up"
-  },
-  {
-    "protocol": "input",
-    "bandwidth": "index"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
     "vaccinationInformation": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "DGCVaccinationInformation",
-      "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
-      "batchNumber": "B1235742",
+      "administeringCentre": "Hospital Universario La Paz",
+      "batchNumber": "C1235742",
       "countryOfVaccination": "de",
-      "dateOfVaccination": "2021-03-11T08:48:23.370Z",
+      "dateOfVaccination": "2021-02-22T13:19:56.397Z",
       "healthProfessional": "MSSCZN70H08H704F",
-      "nextVaccinationDate": "2021-06-07T02:00:56.792Z",
-      "order": "1 of 2",
-      "vaccine": "ICD-11#164949870"
+      "nextVaccinationDate": "2021-05-20T21:09:06.704Z",
+      "order": "1 of 1",
+      "vaccine": {
+        "@context": [
+          "https://w3id.org/pathogen/v1"
+        ],
+        "type": "DGCVaccine",
+        "code": "SCT#1119349007",
+        "targetDisease": "ICD-10#J12.82",
+        "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+        "medicinalProductName": "COVID-19 Vaccine"
+      }
     },
+    "sensor": "program"
+  },
+  {
+    "interface": "back up"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
     "personalInformation": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "DGCSubject",
-      "familyName": "Wyman",
-      "givenName": "Grant",
-      "birthDate": "1991-06-27T15:45:27.605Z",
+      "familyName": "Runte",
+      "givenName": "Audra",
+      "birthDate": "1972-07-23T14:44:35.992Z",
       "gender": "female"
     },
-    "system": "generate",
-    "monitor": "input"
+    "monitor": "compress",
+    "driver": "bypass",
+    "sensor": "navigate"
   }
 ]

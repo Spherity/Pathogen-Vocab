@@ -16,25 +16,25 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Torp LLC",
-    "description": "Up-sized methodical workforce",
+    "name": "Daniel, Pfeffer and Russel",
+    "description": "Business-focused value-added encryption",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "862 Jon Place",
-      "addressLocality": "East Alysaville",
-      "addressRegion": "Maryland",
-      "postalCode": "01978",
-      "addressCountry": "Guam"
+      "streetAddress": "6058 Breitenberg Spur",
+      "addressLocality": "Lake Aidan",
+      "addressRegion": "Nevada",
+      "postalCode": "98336",
+      "addressCountry": "China"
     },
-    "email": "Chadrick_Gibson@example.com",
-    "phoneNumber": "555-820-1520",
-    "faxNumber": "555-666-9721"
+    "email": "Melissa70@example.org",
+    "phoneNumber": "555-938-7783",
+    "faxNumber": "555-192-8099"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..AIPNqFmewy-z1rFLb73FCAwpx0Jt1HmUmKt5bGkrLuZdIx9yAVHCCwPAU1dMybVb-a1VpityqtnIyGO3rLbYBQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..s6IVuazSWLhZH0Cdwu5ETxuFWz30rXsD2u1GhHYfsI05RBtJHLRlqlG9Z17IPSBexTosYvMgmgWKCJxWlJWbDQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

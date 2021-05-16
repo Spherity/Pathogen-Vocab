@@ -18,25 +18,25 @@
     "type": "LEIregistration",
     "initialRegistrationDate": "2020-01-01",
     "lastUpdateDate": "2020-01-01",
-    "status": "IN PROGRESS",
+    "status": "REQUESTED",
     "nextRenewalDate": "2021-02-02",
-    "managingLou": "ZGDRSFEOIMIZYPZJECAD",
-    "validationSources": "NOT_CORROBORATED",
+    "managingLou": "CJTZEIWHVXOCSTIZMXVQ",
+    "validationSources": "PARTIALLY_CORROBORATED",
     "validationAuthority": [
       {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000003",
-        "otherValidationAuthorityID": "K5CJBERC",
-        "validationAuthorityEntityID": "3W80QNJY4KVXE1TFS9MQ"
+        "validationAuthorityID": "RA000005",
+        "otherValidationAuthorityID": "IBYZFHZ4",
+        "validationAuthorityEntityID": "OQMB5ZVZFN540OK3I1PT"
       }
     ]
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:36Z",
+    "created": "2021-05-16T14:46:20Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "rxLvBMALnes+PePEmL6TmvcYXa8kuPmfCrAkfEyq1ezDxNJ/BG/GXGTVhaYwrLoHRjoc1RTHtK1lIQdNNGlo2Zle/9tk36/QdVGxCmg4cFEzUvA98bKCaxMSitBBFgtlHhp7XCSUK17JDlf+/Wly3g==",
+    "proofValue": "lMVfLlDFghaygIqfaQoA8dGJxa1VJ+CTPTXy4ukiZZFs224AvQOYfRnNtTzBPgBUW6xT4RAZ5gqpecxeqfVgKy8BAAQMgWwjXdAT1HqpNNUy7RvOEmPHsecMUnkcX12WaWU7idPlX+GF62z5wNeqRA==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

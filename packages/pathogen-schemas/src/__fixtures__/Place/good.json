@@ -4,20 +4,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "2175871771279",
+    "globalLocationNumber": "7425573311187",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "52.2918",
-      "longitude": "17.7561"
+      "latitude": "58.0563",
+      "longitude": "-70.8502"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Beer Group",
-      "streetAddress": "248 Wade Burgs",
-      "addressLocality": "Port Jaleelport",
-      "addressRegion": "Wyoming",
-      "postalCode": "47845",
-      "addressCountry": "French Polynesia"
+      "organizationName": "Greenfelder, Lueilwitz and Maggio",
+      "streetAddress": "1197 Jacobs Roads",
+      "addressLocality": "East Eda",
+      "addressRegion": "Vermont",
+      "postalCode": "86702",
+      "addressCountry": "Saint Helena"
     }
   },
   {
@@ -25,20 +25,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "5601479926867",
+    "globalLocationNumber": "1421667743533",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-1.3814",
-      "longitude": "-49.5835"
+      "latitude": "-40.2895",
+      "longitude": "33.6549"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Reinger - Streich",
-      "streetAddress": "944 Leanna Loaf",
-      "addressLocality": "McLaughlinmouth",
-      "addressRegion": "South Dakota",
-      "postalCode": "42910-8046",
-      "addressCountry": "Suriname"
+      "organizationName": "Tremblay, Berge and McCullough",
+      "streetAddress": "403 Name Forge",
+      "addressLocality": "West Tomasaton",
+      "addressRegion": "Tennessee",
+      "postalCode": "12588",
+      "addressCountry": "Gambia"
     }
   },
   {
@@ -46,20 +46,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "3304428503486",
+    "globalLocationNumber": "1803605204427",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "-84.4578",
-      "longitude": "3.7557"
+      "latitude": "33.6635",
+      "longitude": "-164.7750"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Murazik, Ernser and Walter",
-      "streetAddress": "074 Alexander Viaduct",
-      "addressLocality": "Savannachester",
-      "addressRegion": "Nebraska",
-      "postalCode": "62638",
-      "addressCountry": "Singapore"
+      "organizationName": "Mann - Howell",
+      "streetAddress": "687 Conn Ranch",
+      "addressLocality": "East Metahaven",
+      "addressRegion": "North Dakota",
+      "postalCode": "92719",
+      "addressCountry": "Pakistan"
     }
   }
 ]

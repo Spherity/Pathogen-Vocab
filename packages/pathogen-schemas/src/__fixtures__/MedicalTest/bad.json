@@ -4,34 +4,59 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "MedicalTest",
-    "affectedBy": [
-      "Antibiotics"
-    ],
     "normalRange": [
       "Any Person"
     ],
     "signDetected": "Positive",
     "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "DGHMZLIMMQFM",
+    "code": "PLHMFPNN",
     "legalStatus": "Approved",
-    "relevantSpecialty": "Other",
-    "hard drive": "override"
+    "medicineSystem": "evidence-based",
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Wyman, Lakin and Glover",
+      "description": "Proactive fresh-thinking approach",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "9645 Luciano Square",
+        "addressLocality": "New Jolieland",
+        "addressRegion": "Colorado",
+        "postalCode": "37496",
+        "addressCountry": "Eritrea"
+      },
+      "email": "Deonte.Abernathy@example.net",
+      "phoneNumber": "555-955-3444",
+      "faxNumber": "555-640-5256"
+    },
+    "relevantSpecialty": "Communicable Disease",
+    "driver": "program",
+    "bandwidth": "copy",
+    "array": "connect",
+    "transmitter": "index"
   },
   {
-    "legalStatus": "Revoked",
-    "relevantSpecialty": "Communicable Disease",
-    "circuit": "synthesize",
-    "card": "quantify",
-    "array": "reboot"
+    "affectedBy": [
+      "High Blood Pressure Medicines"
+    ],
+    "signDetected": "Positive",
+    "interface": "bypass"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
+    "type": "MedicalTest",
+    "affectedBy": [
+      "High Blood Pressure Medicines"
+    ],
     "normalRange": [
       "Any Person"
     ],
-    "port": "calculate",
-    "interface": "bypass",
-    "circuit": "compress"
+    "usesDevice": "KBXDVOFIMSVQ",
+    "code": "BVKSWLKR",
+    "medicineSystem": "evidence-based",
+    "relevantSpecialty": "Non-Communicable Disease",
+    "transmitter": "navigate"
   }
 ]

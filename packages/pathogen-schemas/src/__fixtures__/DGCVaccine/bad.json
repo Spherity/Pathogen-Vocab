@@ -1,0 +1,22 @@
+[
+  {
+    "type": "DGCVaccine",
+    "code": "SCT#1119349007",
+    "targetDisease": "ICD-10#J12.82",
+    "panel": "transmit"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccine",
+    "code": "SCT#1119349007",
+    "targetDisease": "ICD-10#J12.82",
+    "driver": "transmit"
+  },
+  {
+    "medicinalProductName": "COVID-19 Vaccine",
+    "bandwidth": "calculate",
+    "card": "parse"
+  }
+]

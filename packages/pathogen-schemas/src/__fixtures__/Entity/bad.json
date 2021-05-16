@@ -1,27 +1,49 @@
 [
   {
-    "name": "Torp LLC",
-    "pixel": "compress"
-  },
-  {
-    "type": "Organization",
-    "name": "Hintz Inc",
-    "description": "Exclusive neutral parallelism",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "580 Giovanni Locks",
-      "addressLocality": "East Brayan",
-      "addressRegion": "Mississippi",
-      "postalCode": "09880-8369",
-      "addressCountry": "Marshall Islands"
+      "streetAddress": "6058 Breitenberg Spur",
+      "addressLocality": "Lake Aidan",
+      "addressRegion": "Nevada",
+      "postalCode": "98336",
+      "addressCountry": "China"
     },
-    "phoneNumber": "555-761-1782",
-    "faxNumber": "555-353-4676",
-    "protocol": "parse",
-    "bus": "bypass",
-    "sensor": "generate"
+    "email": "Melissa70@example.org",
+    "faxNumber": "555-192-8099",
+    "bus": "program"
   },
   {
-    "driver": "transmit"
+    "faxNumber": "555-521-9974",
+    "capacitor": "reboot",
+    "panel": "back up",
+    "system": "input"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "lastName": "Murazik",
+    "email": "Brendan91@example.net",
+    "worksFor": {
+      "type": "Organization",
+      "name": "Wisoky - Cronin",
+      "description": "Digitized cohesive strategy",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "249 Hammes Harbor",
+        "addressLocality": "Reillyberg",
+        "addressRegion": "Pennsylvania",
+        "postalCode": "20867",
+        "addressCountry": "Guinea-Bissau"
+      },
+      "email": "Oren.Cremin84@example.org",
+      "phoneNumber": "555-606-8779",
+      "faxNumber": "555-524-5258"
+    },
+    "jobTitle": "Chief Usability Orchestrator",
+    "idnumber": "EUMMADPDPRGL",
+    "idnumberType": "National Identity Card",
+    "birthDate": "1985-11-23",
+    "alarm": "quantify"
   }
 ]

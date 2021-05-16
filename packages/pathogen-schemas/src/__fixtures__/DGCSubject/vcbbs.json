@@ -16,17 +16,17 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "DGCSubject",
-    "familyName": "Schneider",
-    "givenName": "Kameron",
-    "birthDate": "1979-01-27T21:25:11.340Z",
+    "familyName": "Gulgowski",
+    "givenName": "Edna",
+    "birthDate": "1996-01-20T04:54:56.773Z",
     "gender": "female"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:36Z",
+    "created": "2021-05-16T14:46:20Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "tYUQJiro2iZfHUpUSRxNVLB5R9FlZFLxwtX76qg03sp480fc1p/bBczlCGsrqfSXFZE4xe9fkM01ieMqomb0uJ8ZD7O5z8y5effb1VPKaIUDFBY6ehHhB5sItf/Oj8Aj0BXybLW/BKQOTkeF89l2Ag==",
+    "proofValue": "jkP4KNkd47aIxT2R9UbnkmL+FqixFVT+2r9l0pfOSn5cdecR/OEVxQBIOlimpLToIb3fUsZcNyDyah7wxBDzznk/1iXCRUHZmSQr48kZ6RkeihGpuj6S5wqE6iwYX+nmvM8FGbCG9Ag6UJinSuBQVg==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

@@ -17,40 +17,40 @@
     ],
     "type": "MedicalTest",
     "affectedBy": [
-      "Antibiotics"
+      "High Blood Pressure Medicines"
     ],
     "normalRange": [
       "Any Person"
     ],
     "signDetected": "Positive",
     "usedToDiagnose": "Covid19 2020 Variants",
-    "usesDevice": "WNFHJFBATHKQ",
-    "code": "TYXWGTUU",
+    "usesDevice": "DGHMZLIMMQFM",
+    "code": "PLHMFPNN",
     "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Parker Inc",
-      "description": "De-engineered systematic monitoring",
+      "name": "Wyman, Lakin and Glover",
+      "description": "Proactive fresh-thinking approach",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "6465 Ron Inlet",
-        "addressLocality": "Kovacekhaven",
-        "addressRegion": "Wisconsin",
-        "postalCode": "60176",
-        "addressCountry": "Bolivia"
+        "streetAddress": "9645 Luciano Square",
+        "addressLocality": "New Jolieland",
+        "addressRegion": "Colorado",
+        "postalCode": "37496",
+        "addressCountry": "Eritrea"
       },
-      "email": "Zachariah27@example.org",
-      "phoneNumber": "555-392-3834",
-      "faxNumber": "555-717-1034"
+      "email": "Deonte.Abernathy@example.net",
+      "phoneNumber": "555-955-3444",
+      "faxNumber": "555-640-5256"
     },
-    "relevantSpecialty": "Other"
+    "relevantSpecialty": "Communicable Disease"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..LNeD-T8BuDE4NeIBce4FVxmVBZtqkDj538EDJOcyi_R_0E01-D8Y8HeNki_54fZ_cl_cFrM09WziDoKn79jhCA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..WL1iwMIncnzd43gxo6Nyj5DnrL3vUlbM6vq_zyKrVx89dTOpPEUXQmTmk6zRr4CYevvg0NiMVd39cqnqGtXzDw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

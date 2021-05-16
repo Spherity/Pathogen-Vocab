@@ -1,33 +1,34 @@
 [
   {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
     "type": "LEIregistration",
-    "status": "IN PROGRESS",
-    "nextRenewalDate": "2021-02-02",
-    "managingLou": "ZGDRSFEOIMIZYPZJECAD",
-    "validationSources": "NOT_CORROBORATED",
+    "status": "REQUESTED",
+    "managingLou": "CJTZEIWHVXOCSTIZMXVQ",
+    "validationSources": "PARTIALLY_CORROBORATED",
     "validationAuthority": [
       {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000003",
-        "otherValidationAuthorityID": "K5CJBERC",
-        "validationAuthorityEntityID": "3W80QNJY4KVXE1TFS9MQ"
+        "validationAuthorityID": "RA000005",
+        "otherValidationAuthorityID": "IBYZFHZ4",
+        "validationAuthorityEntityID": "OQMB5ZVZFN540OK3I1PT"
       }
     ],
-    "feed": "quantify",
-    "hard drive": "generate",
-    "matrix": "hack",
-    "program": "program"
+    "transmitter": "program",
+    "array": "generate",
+    "microchip": "compress",
+    "monitor": "hack"
   },
   {
-    "lastUpdateDate": "2020-01-01",
     "validationSources": "NOT_CORROBORATED",
-    "panel": "program",
-    "port": "compress",
-    "capacitor": "connect",
-    "hard drive": "parse"
+    "interface": "calculate",
+    "application": "reboot"
   },
   {
-    "status": "REJECTED",
-    "matrix": "generate"
+    "nextRenewalDate": "2021-02-02",
+    "transmitter": "generate",
+    "port": "calculate",
+    "bus": "connect"
   }
 ]

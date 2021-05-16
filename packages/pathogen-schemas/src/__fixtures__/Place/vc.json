@@ -16,27 +16,27 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "2175871771279",
+    "globalLocationNumber": "7425573311187",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "52.2918",
-      "longitude": "17.7561"
+      "latitude": "58.0563",
+      "longitude": "-70.8502"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Beer Group",
-      "streetAddress": "248 Wade Burgs",
-      "addressLocality": "Port Jaleelport",
-      "addressRegion": "Wyoming",
-      "postalCode": "47845",
-      "addressCountry": "French Polynesia"
+      "organizationName": "Greenfelder, Lueilwitz and Maggio",
+      "streetAddress": "1197 Jacobs Roads",
+      "addressLocality": "East Eda",
+      "addressRegion": "Vermont",
+      "postalCode": "86702",
+      "addressCountry": "Saint Helena"
     }
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..JkFvZY5iPRFaguNjDRKqImFIL1jDolmy-L02wleS-yh6-Xt6wvm4h9TxrYqnT2bJkzL-X8crNS4Mah-b8knBCQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..RHUVnsvjXJC5Zi4z8vzAtUZ-30GDTIxO6cEkmnS-xkJTFF8KtE119QbIbne4ItBvO9KNeDJ2JGuWdL0NSw75AQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

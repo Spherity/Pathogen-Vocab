@@ -4,73 +4,73 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIevidenceDocument",
-    "lei": "LNOJ8BGB6O1ZDNDKZQGG",
+    "lei": "2MPAZF86524SA936OO2M",
     "entity": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "LEIentity",
-      "legalName": "Feest - Carter",
-      "legalNameLanguage": "az",
+      "legalName": "Shields - Dare",
+      "legalNameLanguage": "fr",
       "otherNames": [
-        "Gutkowski - O'Reilly",
-        "Schinner, Krajcik and Walter"
+        "Dietrich - Hermann",
+        "Leffler - Jerde"
       ],
       "transliteratedOtherNames": [
-        "Gutkowski - O'Reilly",
-        "Schinner, Krajcik and Walter"
+        "Dietrich - Hermann",
+        "Leffler - Jerde"
       ],
       "legalAddress": {
         "type": "LEIaddress",
-        "language": "zh_CN",
+        "language": "es_MX",
         "addressLines": [
-          "Aufderhar Group",
-          "86506 Schaefer Fork"
+          "Windler, Anderson and Friesen",
+          "72576 Leuschke Crest"
         ],
-        "addressNumber": "385",
-        "addressNumberWithinBuilding": "6",
-        "mailRouting": "816 Oswaldo Stream, 70013",
-        "city": "East Evansborough",
-        "region": "Cambridgeshire",
-        "country": "Russian Federation",
-        "postalCode": "03925"
+        "addressNumber": "241",
+        "addressNumberWithinBuilding": "5",
+        "mailRouting": "2308 Werner Forest, 80904",
+        "city": "North Dino",
+        "region": "Avon",
+        "country": "Iraq",
+        "postalCode": "64482-0141"
       },
       "headquartersAddress": {
         "type": "LEIaddress",
-        "language": "ge",
+        "language": "en",
         "addressLines": [
-          "Shanahan and Sons",
-          "519 Marvin Spurs"
+          "Hane, Frami and Rippin",
+          "3843 Simeon Spurs"
         ],
-        "addressNumber": "472",
-        "addressNumberWithinBuilding": "7",
-        "mailRouting": "583 Tomas Falls, 15863",
-        "city": "Shadmouth",
+        "addressNumber": "406",
+        "addressNumberWithinBuilding": "4",
+        "mailRouting": "91763 Rahul Village, 02289",
+        "city": "East Stephenmouth",
         "region": "Berkshire",
-        "country": "Falkland Islands (Malvinas)",
-        "postalCode": "78172-3803"
+        "country": "Niue",
+        "postalCode": "86463"
       },
       "registrationAuthority": {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000004",
-        "otherValidationAuthorityID": "E065P8CY",
-        "validationAuthorityEntityID": "ZKNXTK4HVBXLH5LWRT6B"
+        "validationAuthorityID": "RA000001",
+        "otherValidationAuthorityID": "WGM8MW2G",
+        "validationAuthorityEntityID": "IV53QZIFO1113QPN2S23"
       },
-      "legalJurisdiction": "Berkshire",
-      "entityCategory": "Finance",
-      "legalForm": "CORPORATION",
+      "legalJurisdiction": "Buckinghamshire",
+      "entityCategory": "Grocery",
+      "legalForm": "LLC",
       "associatedEntity": {
         "type": "Organization",
-        "leiCode": "C2KK3YY6MOR76JE3FGTR",
-        "name": "Corkery, Orn and Hilll"
+        "leiCode": "IMZ8T8M7B6MNIUFQ4SVE",
+        "name": "Rippin - Howell"
       },
-      "status": "REQUESTED",
+      "status": "CONFIRMED",
       "expirationDate": "2022-07-11",
-      "expirationReason": "optimize interactive web-readiness",
+      "expirationReason": "brand B2C blockchains",
       "successorEntity": {
         "type": "Organization",
-        "leiCode": "I48Y2JRY4FLBXIVF93UN",
-        "name": "Emmerich Inc"
+        "leiCode": "CYRXNS6C6E3JNTR29F02",
+        "name": "Larkin Group"
       },
       "otherAddresses": []
     },
@@ -81,21 +81,21 @@
       "type": "LEIregistration",
       "initialRegistrationDate": "2020-01-01",
       "lastUpdateDate": "2020-01-01",
-      "status": "CONFIRMED",
+      "status": "IN PROGRESS",
       "nextRenewalDate": "2021-02-02",
-      "managingLou": "CERRBQNQZFVGPFHEQRNW",
+      "managingLou": "CPMPXTNVQREDBICYPFCJ",
       "validationSources": "PARTIALLY_CORROBORATED",
       "validationAuthority": [
         {
           "type": "LEIauthority",
-          "validationAuthorityID": "RA000002",
-          "otherValidationAuthorityID": "MLND5D2K",
-          "validationAuthorityEntityID": "S6G72HZR2MPAZF86524S"
+          "validationAuthorityID": "RA000003",
+          "otherValidationAuthorityID": "WASR8MZD",
+          "validationAuthorityEntityID": "O7049M9R2NYJH1WYBS4A"
         }
       ]
     },
     "bic": [
-      "SDUXIDQOHW"
+      "LOLKMTBMZT"
     ]
   },
   {
@@ -103,73 +103,73 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIevidenceDocument",
-    "lei": "Y08E4HF0S9KRO46JM7B0",
+    "lei": "NZAOTBVVU9XJ9MR7GZUQ",
     "entity": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "LEIentity",
-      "legalName": "Kreiger - Schroeder",
-      "legalNameLanguage": "en",
+      "legalName": "Spencer and Sons",
+      "legalNameLanguage": "nl_BE",
       "otherNames": [
-        "Champlin - Cormier",
-        "Hane, Frami and Rippin"
+        "Schumm Group",
+        "Kuhn LLC"
       ],
       "transliteratedOtherNames": [
-        "Champlin - Cormier",
-        "Hane, Frami and Rippin"
+        "Schumm Group",
+        "Kuhn LLC"
       ],
       "legalAddress": {
         "type": "LEIaddress",
-        "language": "ja",
+        "language": "fi",
         "addressLines": [
-          "Stokes - Koelpin",
-          "91763 Rahul Village"
+          "Rosenbaum - McLaughlin",
+          "51608 Serena Parkways"
         ],
-        "addressNumber": "479",
-        "addressNumberWithinBuilding": "9",
-        "mailRouting": "0228 Funk Viaduct, 74864-6384",
-        "city": "Daniellestad",
-        "region": "Buckinghamshire",
-        "country": "Hong Kong",
-        "postalCode": "04581-1795"
+        "addressNumber": "306",
+        "addressNumberWithinBuilding": "3",
+        "mailRouting": "411 Adele Lodge, 27789-2014",
+        "city": "Schmidtfurt",
+        "region": "Borders",
+        "country": "Saint Barthelemy",
+        "postalCode": "35778"
       },
       "headquartersAddress": {
         "type": "LEIaddress",
-        "language": "fr",
+        "language": "ja",
         "addressLines": [
-          "Beahan, Bauch and Bashirian",
-          "80100 Myriam Ville"
+          "Dibbert - Pfeffer",
+          "5087 Sipes Street"
         ],
-        "addressNumber": "359",
-        "addressNumberWithinBuilding": "7",
-        "mailRouting": "3429 Onie Inlet, 67131-4056",
-        "city": "Runolfsdottirton",
-        "region": "Buckinghamshire",
-        "country": "Belgium",
-        "postalCode": "40005"
+        "addressNumber": "392",
+        "addressNumberWithinBuilding": "6",
+        "mailRouting": "027 Freeda Ville, 37183-4859",
+        "city": "West Gerhardview",
+        "region": "Berkshire",
+        "country": "Guatemala",
+        "postalCode": "77825-1364"
       },
       "registrationAuthority": {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000002",
-        "otherValidationAuthorityID": "YWASR8MZ",
-        "validationAuthorityEntityID": "DO7049M9R2NYJH1WYBS4"
+        "validationAuthorityID": "RA000003",
+        "otherValidationAuthorityID": "0P601M6C",
+        "validationAuthorityEntityID": "6SD3ELVHINQ23K8KPK1L"
       },
-      "legalJurisdiction": "Berkshire",
-      "entityCategory": "Industrial",
+      "legalJurisdiction": "Buckinghamshire",
+      "entityCategory": "Jewelery",
       "legalForm": "LLC",
       "associatedEntity": {
         "type": "Organization",
-        "leiCode": "U8MZ7S2Y1HD39JNGHU93",
-        "name": "Mills and Sons"
+        "leiCode": "QKR6N16BJRZ9XJ1Q534O",
+        "name": "Mills, Glover and Bahringer"
       },
-      "status": "REJECTED",
+      "status": "IN PROGRESS",
       "expirationDate": "2022-07-11",
-      "expirationReason": "cultivate out-of-the-box relationships",
+      "expirationReason": "monetize dot-com systems",
       "successorEntity": {
         "type": "Organization",
-        "leiCode": "TMN541C3XL83DDFJFDM5",
-        "name": "Goodwin, Fisher and Ward"
+        "leiCode": "252PCQSZP7STIIFD54BQ",
+        "name": "Feil - Bogisich"
       },
       "otherAddresses": []
     },
@@ -180,21 +180,21 @@
       "type": "LEIregistration",
       "initialRegistrationDate": "2020-01-01",
       "lastUpdateDate": "2020-01-01",
-      "status": "REQUESTED",
+      "status": "REJECTED",
       "nextRenewalDate": "2021-02-02",
-      "managingLou": "RBEIOTZHYOBSECDRSCVZ",
+      "managingLou": "FEOJZIEASAPVPHSNYHUY",
       "validationSources": "FULLY_CORROBORATED",
       "validationAuthority": [
         {
           "type": "LEIauthority",
-          "validationAuthorityID": "RA000661",
-          "otherValidationAuthorityID": "4O7HV0NZ",
-          "validationAuthorityEntityID": "AOTBVVU9XJ9MR7GZUQQK"
+          "validationAuthorityID": "RA000005",
+          "otherValidationAuthorityID": "D72LSQRZ",
+          "validationAuthorityEntityID": "QXAN6FMMHS64OEZUQDQK"
         }
       ]
     },
     "bic": [
-      "MNDVGNETKU"
+      "GWLFTHFMXA"
     ]
   },
   {
@@ -202,73 +202,73 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIevidenceDocument",
-    "lei": "VRF55GK0T8QQVZA36EVS",
+    "lei": "21QWHWFSQ0R258L44ERX",
     "entity": {
       "@context": [
         "https://w3id.org/pathogen/v1"
       ],
       "type": "LEIentity",
-      "legalName": "Rosenbaum, Hills and Pagac",
-      "legalNameLanguage": "ru",
+      "legalName": "Stehr - Bartoletti",
+      "legalNameLanguage": "pl",
       "otherNames": [
-        "Sipes LLC",
-        "Douglas LLC"
+        "Kirlin - Sporer",
+        "Gleichner, Bergnaum and Crist"
       ],
       "transliteratedOtherNames": [
-        "Sipes LLC",
-        "Douglas LLC"
+        "Kirlin - Sporer",
+        "Gleichner, Bergnaum and Crist"
       ],
       "legalAddress": {
         "type": "LEIaddress",
-        "language": "pl",
+        "language": "cz",
         "addressLines": [
-          "Spinka and Sons",
-          "33467 Cydney Spur"
+          "Ullrich - MacGyver",
+          "7308 Reynolds Fords"
         ],
-        "addressNumber": "252",
-        "addressNumberWithinBuilding": "10",
-        "mailRouting": "1364 Chauncey Alley, 06131",
-        "city": "Howellton",
-        "region": "Cambridgeshire",
-        "country": "Republic of Korea",
-        "postalCode": "58456"
+        "addressNumber": "267",
+        "addressNumberWithinBuilding": "4",
+        "mailRouting": "5915 Glenda Trail, 84726",
+        "city": "Jermainshire",
+        "region": "Berkshire",
+        "country": "Burkina Faso",
+        "postalCode": "21671-1534"
       },
       "headquartersAddress": {
         "type": "LEIaddress",
-        "language": "nl_BE",
+        "language": "en_US",
         "addressLines": [
-          "Braun LLC",
-          "64658 Bahringer Pines"
+          "West, Mohr and Wisoky",
+          "72420 Kelley Summit"
         ],
-        "addressNumber": "352",
-        "addressNumberWithinBuilding": "6",
-        "mailRouting": "346 Beer Cliff, 37797-2785",
-        "city": "Idellabury",
-        "region": "Borders",
-        "country": "Czech Republic",
-        "postalCode": "13742"
+        "addressNumber": "58",
+        "addressNumberWithinBuilding": "1",
+        "mailRouting": "5912 Reichert Throughway, 07755-6024",
+        "city": "Kuhicview",
+        "region": "Bedfordshire",
+        "country": "Guam",
+        "postalCode": "19682"
       },
       "registrationAuthority": {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000004",
-        "otherValidationAuthorityID": "3D72LSQR",
-        "validationAuthorityEntityID": "ZQXAN6FMMHS64OEZUQDQ"
+        "validationAuthorityID": "RA000002",
+        "otherValidationAuthorityID": "O3GVEGNQ",
+        "validationAuthorityEntityID": "JA2SI4TCGZ1SSH7C9V5J"
       },
-      "legalJurisdiction": "Bedfordshire",
+      "legalJurisdiction": "Avon",
       "entityCategory": "Finance",
       "legalForm": "LLC",
       "associatedEntity": {
         "type": "Organization",
-        "leiCode": "N7BJQQTMM6OCDSJJI0UR",
-        "name": "Denesik LLC"
+        "leiCode": "NGY02A21A19989WS8Z9D",
+        "name": "Leannon, Auer and Doyle"
       },
-      "status": "CONFIRMED",
+      "status": "REQUESTED",
       "expirationDate": "2022-07-11",
-      "expirationReason": "redefine frictionless initiatives",
+      "expirationReason": "transition world-class e-business",
       "successorEntity": {
         "type": "Organization",
-        "leiCode": "0P0LTL9PIXASX29UF8VD",
-        "name": "Koepp, Dibbert and Kshlerin"
+        "leiCode": "5V98YGKZRRK0J23GCWAJ",
+        "name": "Kuphal - Schmeler"
       },
       "otherAddresses": []
     },
@@ -279,21 +279,21 @@
       "type": "LEIregistration",
       "initialRegistrationDate": "2020-01-01",
       "lastUpdateDate": "2020-01-01",
-      "status": "CONFIRMED",
+      "status": "IN PROGRESS",
       "nextRenewalDate": "2021-02-02",
-      "managingLou": "YABHBBHAGHGHXUGZHJTL",
-      "validationSources": "PARTIALLY_CORROBORATED",
+      "managingLou": "NNELSOUEIPWJXXHEZNDP",
+      "validationSources": "FULLY_CORROBORATED",
       "validationAuthority": [
         {
           "type": "LEIauthority",
-          "validationAuthorityID": "RA000004",
-          "otherValidationAuthorityID": "SFGXHP4M",
-          "validationAuthorityEntityID": "21QWHWFSQ0R258L44ERX"
+          "validationAuthorityID": "RA000005",
+          "otherValidationAuthorityID": "3DNGTED3",
+          "validationAuthorityEntityID": "RFY776I3ACSRK9MBSNE7"
         }
       ]
     },
     "bic": [
-      "VUGBCCCWPQ"
+      "AEJXPSMSDQ"
     ]
   }
 ]

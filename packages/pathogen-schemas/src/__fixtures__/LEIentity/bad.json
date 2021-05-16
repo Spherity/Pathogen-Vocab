@@ -1,132 +1,121 @@
 [
   {
-    "legalName": "Bins and Sons",
-    "otherNames": [
-      "O'Conner - Bode",
-      "Jacobson LLC"
-    ],
+    "legalNameLanguage": "hy",
     "transliteratedOtherNames": [
-      "O'Conner - Bode",
-      "Jacobson LLC"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "en_BORK",
+      "language": "en_AU",
       "addressLines": [
-        "Spencer and Sons",
-        "7846 Gabriel Hollow"
+        "Dickens, Botsford and Renner",
+        "912 Rodrigo Rest"
       ],
-      "addressNumber": "481",
-      "addressNumberWithinBuilding": "8",
-      "mailRouting": "950 Jonathon Neck, 54073-4685",
-      "city": "Schimmelview",
-      "region": "Cambridgeshire",
-      "country": "Chile",
-      "postalCode": "29529-3236"
+      "addressNumber": "222",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "936 Frami Bridge, 88857-0197",
+      "city": "Terryfurt",
+      "region": "Avon",
+      "country": "Pakistan",
+      "postalCode": "29683-6651"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "fr_CA",
+      "language": "es",
       "addressLines": [
-        "Smith - Reynolds",
-        "9616 Witting Fords"
+        "Cronin - Zulauf",
+        "498 Aubree Shore"
       ],
-      "addressNumber": "389",
-      "addressNumberWithinBuilding": "8",
-      "mailRouting": "1480 Franecki Meadows, 84455",
-      "city": "Floyfurt",
+      "addressNumber": "160",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "2718 Runolfsdottir Ports, 96489",
+      "city": "Thielfort",
       "region": "Avon",
-      "country": "Djibouti",
-      "postalCode": "01633-9328"
+      "country": "Mozambique",
+      "postalCode": "48831"
     },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000004",
-      "otherValidationAuthorityID": "N0BLRL4E",
-      "validationAuthorityEntityID": "Y8G88V2F6BIGCOT5FG8L"
-    },
-    "legalJurisdiction": "Avon",
-    "entityCategory": "Finance",
+    "legalJurisdiction": "Buckinghamshire",
+    "entityCategory": "Jewelery",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "ZGCQ6VSFN1H5J0PN8BZJ",
-      "name": "Cummings and Sons"
+      "leiCode": "EZHYO00YBNZVKG9IIHCO",
+      "name": "Kutch - Hoeger"
     },
-    "status": "REQUESTED",
-    "expirationDate": "2022-07-11",
-    "expirationReason": "seize vertical e-commerce",
-    "otherAddresses": [],
-    "system": "override"
+    "status": "REJECTED",
+    "alarm": "reboot"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Orn - Lemke",
-    "legalNameLanguage": "sk",
-    "transliteratedOtherNames": [
-      "Klocko - Gaylord",
-      "Lebsack - Kuhn"
-    ],
-    "headquartersAddress": {
-      "type": "LEIaddress",
-      "language": "id_ID",
-      "addressLines": [
-        "Bartell, Bruen and Waters",
-        "2968 Macey Key"
-      ],
-      "addressNumber": "460",
-      "addressNumberWithinBuilding": "7",
-      "mailRouting": "1361 Alysson Wells, 98498",
-      "city": "Sawaynton",
-      "region": "Buckinghamshire",
-      "country": "Seychelles",
-      "postalCode": "27186-4739"
-    },
-    "expirationDate": "2022-07-11",
-    "otherAddresses": [],
-    "monitor": "parse",
-    "firewall": "back up",
-    "transmitter": "override"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "legalName": "Lindgren - McClure",
-    "legalNameLanguage": "ja",
+    "legalName": "Jerde, Senger and Cartwright",
+    "legalNameLanguage": "id_ID",
     "otherNames": [
-      "Ledner and Sons",
-      "Hackett, Ward and Schmitt"
+      "Borer LLC",
+      "Rau, Jacobs and Goldner"
     ],
     "transliteratedOtherNames": [
-      "Ledner and Sons",
-      "Hackett, Ward and Schmitt"
+      "Borer LLC",
+      "Rau, Jacobs and Goldner"
     ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "en_AU_ocker",
+      "addressLines": [
+        "Parker Group",
+        "217 Gerhold Parks"
+      ],
+      "addressNumber": "263",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "944 Raven Club, 30561-9066",
+      "city": "Larkinhaven",
+      "region": "Buckinghamshire",
+      "country": "Christmas Island",
+      "postalCode": "27266-1438"
+    },
     "registrationAuthority": {
       "type": "LEIauthority",
       "validationAuthorityID": "RA000001",
-      "otherValidationAuthorityID": "68QVVH7J",
-      "validationAuthorityEntityID": "360BN8L7JM89EML2H5Z9"
+      "otherValidationAuthorityID": "JM89EML2",
+      "validationAuthorityEntityID": "H5Z94LPOEFFGPQO0ZC4T"
     },
-    "entityCategory": "Jewelery",
-    "associatedEntity": {
-      "type": "Organization",
-      "leiCode": "F0WN2WY8NXD27XHC735H",
-      "name": "Jakubowski, Kihn and Keebler"
-    },
+    "legalJurisdiction": "Borders",
     "status": "CONFIRMED",
     "expirationDate": "2022-07-11",
-    "expirationReason": "innovate bricks-and-clicks models",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "0ZC4T3LQCKW9R293NWL6",
-      "name": "Hand - Hilll"
+      "leiCode": "3NWL6EBD8CCM2FIT2OS2",
+      "name": "Nikolaus LLC"
     },
     "otherAddresses": [],
-    "transmitter": "bypass",
-    "feed": "transmit",
-    "protocol": "compress"
+    "card": "connect"
+  },
+  {
+    "transliteratedOtherNames": [
+      "Pollich - Roob",
+      "Dach LLC"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "ro",
+      "addressLines": [
+        "Abbott, Heidenreich and Gutkowski",
+        "321 Candace Keys"
+      ],
+      "addressNumber": "398",
+      "addressNumberWithinBuilding": "5",
+      "mailRouting": "97975 Margaret Forest, 06207-7816",
+      "city": "Lakinmouth",
+      "region": "Cambridgeshire",
+      "country": "Norway",
+      "postalCode": "70013"
+    },
+    "legalJurisdiction": "Berkshire",
+    "entityCategory": "Grocery",
+    "expirationReason": "enable open-source portals",
+    "otherAddresses": [],
+    "sensor": "override"
   }
 ]

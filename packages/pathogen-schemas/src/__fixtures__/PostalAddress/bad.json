@@ -1,28 +1,27 @@
 [
   {
-    "port": "index"
+    "type": "PostalAddress",
+    "streetAddress": "9358 Koch Light",
+    "addressRegion": "Rhode Island",
+    "alarm": "program",
+    "sensor": "input"
+  },
+  {
+    "firewall": "generate",
+    "port": "bypass",
+    "bus": "synthesize",
+    "driver": "compress"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "organizationName": "Jaskolski, Bailey and Bergstrom",
-    "streetAddress": "35168 Maxie Parkways",
-    "addressLocality": "North Verdieton",
-    "addressRegion": "Nebraska",
-    "postalCode": "26015-8727",
-    "addressCountry": "Kyrgyz Republic",
-    "monitor": "index"
-  },
-  {
-    "type": "PostalAddress",
-    "organizationName": "Grimes, Ebert and Feeney",
-    "streetAddress": "248 Candace Glens",
-    "addressLocality": "East Susie",
-    "addressRegion": "Alaska",
-    "postalCode": "54825",
-    "program": "navigate",
-    "interface": "calculate",
-    "application": "hack"
+    "organizationName": "Vandervort - Hauck",
+    "addressLocality": "Lake Guillermo",
+    "addressCountry": "Macao",
+    "port": "input",
+    "program": "generate",
+    "panel": "parse",
+    "bus": "hack"
   }
 ]

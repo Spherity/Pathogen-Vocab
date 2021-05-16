@@ -98,9 +98,9 @@
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-14T22:05:38Z",
+    "created": "2021-05-16T14:46:22Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "lCZBXUNn3HFdGs6BGLmWrXaJ/eg0iwaPHOhH5ENIqYmm7Pki+9QmAP2Qfr/e2gsHCzU9i1fsyGBNNkrZ/A840Xx29DptS7j8oos28XLBUkRYgQKmb1T4tITAJVClcMfytEQePib9GfSd5udL3KRKOw==",
+    "proofValue": "knwfrjlI14RLon6iab6FQ3mID4ORKhWWB8rAJofQCelGaKBga56nx0kVXanh5Z9KA3GD7UdifCLmBke1tgaxyWXWZvHWhzQ+OLzWvm15eTU6PxLRGmA1igbf0IBwPXBa0MXfZkJdugV6vJd075P4bQ==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

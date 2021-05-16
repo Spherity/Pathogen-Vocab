@@ -3,26 +3,26 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "lastName": "Farrell",
-    "phoneNumber": "555-810-6312",
-    "idnumberType": "National Identity Card",
-    "birthDate": "1985-11-23",
-    "protocol": "reboot"
+    "phoneNumber": "555-814-7126",
+    "circuit": "parse",
+    "system": "transmit",
+    "pixel": "input"
   },
   {
-    "type": "Person",
-    "interface": "back up"
+    "lastName": "Schneider",
+    "application": "program",
+    "bus": "synthesize",
+    "pixel": "bypass",
+    "bandwidth": "index"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "lastName": "Schumm",
-    "email": "Corbin_Jacobson73@example.com",
-    "phoneNumber": "555-499-2354",
-    "jobTitle": "Human Paradigm Orchestrator",
-    "monitor": "navigate",
-    "firewall": "connect",
-    "bus": "back up"
+    "idnumber": "MVFOQFZAPFJK",
+    "pixel": "generate",
+    "protocol": "calculate",
+    "feed": "generate",
+    "program": "connect"
   }
 ]

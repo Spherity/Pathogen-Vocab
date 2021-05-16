@@ -4,53 +4,53 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "en_AU_ocker",
+    "language": "en",
     "addressLines": [
-      "Romaguera, Brakus and Schamberger",
-      "93177 Kristina Circle"
+      "Kuphal and Sons",
+      "7093 Kaden Circles"
     ],
-    "addressNumber": "344",
-    "addressNumberWithinBuilding": "8",
-    "mailRouting": "3060 Saul Canyon, 96947-6157",
-    "city": "North Anna",
+    "addressNumber": "352",
+    "addressNumberWithinBuilding": "4",
+    "mailRouting": "83008 Hyatt Cliff, 19526",
+    "city": "Preciousfort",
     "region": "Bedfordshire",
-    "country": "United Arab Emirates",
-    "postalCode": "83348"
+    "country": "Nauru",
+    "postalCode": "01619"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "hy",
+    "language": "nl",
     "addressLines": [
-      "Shanahan, Powlowski and Gusikowski",
-      "261 Valerie Garden"
+      "Schmitt - Sawayn",
+      "68555 Izabella Stravenue"
     ],
-    "addressNumber": "42",
-    "addressNumberWithinBuilding": "8",
-    "mailRouting": "104 Sylvia Row, 86937",
-    "city": "South Wilson",
-    "region": "Cambridgeshire",
-    "country": "Cuba",
-    "postalCode": "43872"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIaddress",
-    "language": "en_AU_ocker",
-    "addressLines": [
-      "Stroman Inc",
-      "570 Brendan Plaza"
-    ],
-    "addressNumber": "386",
+    "addressNumber": "408",
     "addressNumberWithinBuilding": "5",
-    "mailRouting": "09996 Jake Estates, 01516",
-    "city": "Dellview",
-    "region": "Avon",
-    "country": "San Marino",
-    "postalCode": "22410-6532"
+    "mailRouting": "6051 Bode Row, 05261-4862",
+    "city": "Port Janet",
+    "region": "Borders",
+    "country": "Greenland",
+    "postalCode": "71874"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIaddress",
+    "language": "ko",
+    "addressLines": [
+      "Dooley and Sons",
+      "22841 Mona Track"
+    ],
+    "addressNumber": "37",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "7846 Gabriel Hollow, 95058-5554",
+    "city": "Lake Goldenport",
+    "region": "Bedfordshire",
+    "country": "Palau",
+    "postalCode": "85974-6295"
   }
 ]

@@ -16,15 +16,15 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIauthority",
-    "validationAuthorityID": "RA000661",
-    "otherValidationAuthorityID": "HZLPANPR",
-    "validationAuthorityEntityID": "UYSW1QHQ3583ZK50HHM7"
+    "validationAuthorityID": "RA000001",
+    "otherValidationAuthorityID": "RPEWL6M8",
+    "validationAuthorityEntityID": "DYI6EU2HF83VEGLIKCNL"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..whxUJnt1SqQ_dG586Jq4Lkd88HLf0rbLJ9P0eRX0tRKlgxaF4iwi9ojVsNNqnTXDm25GE16cHK-BbAV9qgwlCA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..fwPtMnZ2c4na65vd88IDIYJzocfDBTzbFUwCy5wmSA6bgVdIsf940adUO9FnT0l-eYg1kdSWzWB9S7BjQkXnCQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -17,51 +17,40 @@
     ],
     "type": "Product",
     "manufacturer": {
-      "type": "Person",
-      "firstName": "Tad",
-      "lastName": "Hodkiewicz",
-      "email": "Tremayne.Wintheiser11@example.com",
-      "phoneNumber": "555-490-4801",
-      "worksFor": {
-        "type": "Organization",
-        "name": "Christiansen - Glover",
-        "description": "Organic static strategy",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "74310 Otilia Expressway",
-          "addressLocality": "Lake Douglasstad",
-          "addressRegion": "Oklahoma",
-          "postalCode": "05840-3297",
-          "addressCountry": "Belgium"
-        },
-        "email": "Kian_Schamberger94@example.org",
-        "phoneNumber": "555-384-9377",
-        "faxNumber": "555-191-8440"
+      "type": "Organization",
+      "name": "Beer, McCullough and Williamson",
+      "description": "Vision-oriented value-added core",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "767 DuBuque Glens",
+        "addressLocality": "East Ella",
+        "addressRegion": "Vermont",
+        "postalCode": "72926",
+        "addressCountry": "Latvia"
       },
-      "jobTitle": "International Program Analyst",
-      "idnumber": "OKYQVSRADEGS",
-      "idnumberType": "National Identity Card",
-      "birthDate": "1985-11-23"
+      "email": "Justina_Zboncak@example.net",
+      "phoneNumber": "555-526-7726",
+      "faxNumber": "555-153-5264"
     },
-    "name": "Tasty Plastic Cheese",
-    "description": "The automobile layout consists of a front-engine design, with transaxle-type transmissions mounted at the rear of the engine and four wheel drive",
+    "name": "Awesome Steel Cheese",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "6667"
+      "value": "6450"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "1836"
+      "value": "9629"
     },
-    "sku": "950773198692"
+    "sku": "204989161760"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..JE5P7Wnv7TP4-rj3vtHanyNLgfpu8-RjA-jXdEWTaWtpG7gHw23EmnKoxnJjh2kejjpx9xVzeOAUaNdl6vEsBg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..a2FRbP2kr91R3DmVh_tcXoY5AtOSYSVX_Zw_e-jWbQOG15PfZ8uP-l1GJixiMidTkG82laWEnz1LUmoGq5R8DA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

@@ -1,15 +1,35 @@
 [
   {
-    "name": "Tasty Plastic Cheese",
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Beer, McCullough and Williamson",
+      "description": "Vision-oriented value-added core",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "767 DuBuque Glens",
+        "addressLocality": "East Ella",
+        "addressRegion": "Vermont",
+        "postalCode": "72926",
+        "addressCountry": "Latvia"
+      },
+      "email": "Justina_Zboncak@example.net",
+      "phoneNumber": "555-526-7726",
+      "faxNumber": "555-153-5264"
+    },
+    "name": "Awesome Steel Cheese",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "1836"
+      "value": "9629"
     },
-    "alarm": "calculate",
-    "matrix": "back up",
-    "bandwidth": "navigate",
-    "sensor": "parse"
+    "sku": "204989161760",
+    "panel": "reboot",
+    "pixel": "program",
+    "application": "copy"
   },
   {
     "@context": [
@@ -17,56 +37,70 @@
     ],
     "type": "Product",
     "manufacturer": {
-      "type": "Person",
-      "firstName": "Brandi",
-      "lastName": "Ritchie",
-      "email": "Emery.Wiza@example.net",
-      "phoneNumber": "555-937-6864",
-      "worksFor": {
-        "type": "Organization",
-        "name": "Thompson, O'Connell and Emmerich",
-        "description": "Secured national pricing structure",
-        "address": {
-          "type": "PostalAddress",
-          "streetAddress": "4126 Fritz Islands",
-          "addressLocality": "North Rydermouth",
-          "addressRegion": "Georgia",
-          "postalCode": "58487",
-          "addressCountry": "Cote d'Ivoire"
-        },
-        "email": "Alfred.Grimes@example.com",
-        "phoneNumber": "555-434-6916",
-        "faxNumber": "555-882-5250"
+      "type": "Organization",
+      "name": "Kuphal LLC",
+      "description": "Enterprise-wide heuristic alliance",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "569 Pacocha Junctions",
+        "addressLocality": "Devanfort",
+        "addressRegion": "Louisiana",
+        "postalCode": "93274-5807",
+        "addressCountry": "Papua New Guinea"
       },
-      "jobTitle": "Regional Quality Developer",
-      "idnumber": "MFPXCHBJRBVC",
-      "idnumberType": "National Identity Card",
-      "birthDate": "1985-11-23"
+      "email": "Hassan52@example.org",
+      "phoneNumber": "555-155-7210",
+      "faxNumber": "555-232-9375"
     },
-    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
+    "name": "Fantastic Granite Sausages",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "5163"
+      "value": "7614"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "5443"
+      "value": "2426"
     },
-    "bus": "back up",
-    "monitor": "hack"
+    "sku": "962310582344",
+    "capacitor": "transmit",
+    "application": "connect"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "type": "Product",
-    "name": "Intelligent Concrete Table",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
-    "sku": "332106049431",
-    "program": "navigate",
-    "alarm": "navigate",
-    "hard drive": "back up"
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Nienow Group",
+      "description": "Networked zero tolerance groupware",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "0518 Durgan Lock",
+        "addressLocality": "Beattyfurt",
+        "addressRegion": "Texas",
+        "postalCode": "99758",
+        "addressCountry": "Hong Kong"
+      },
+      "email": "Veda_Wunsch@example.net",
+      "phoneNumber": "555-317-6932",
+      "faxNumber": "555-964-1980"
+    },
+    "name": "Practical Cotton Sausages",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2199"
+    },
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2603"
+    },
+    "sku": "176103714953",
+    "driver": "override",
+    "transmitter": "transmit"
   }
 ]

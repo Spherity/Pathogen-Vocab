@@ -1,5 +1,7 @@
 const faker = require('faker');
 
+const { getDGCVaccine } = require('./DGCVaccine');
+
 const getDGCVaccinationInformation = () => {
     const getAdministeringCenter = () => {
         const centers = [
@@ -30,7 +32,11 @@ const getDGCVaccinationInformation = () => {
         return order[faker.random.number({ min: 0, max: 2 })];
     };
 
-    const getVaccineCode = () => 'ICD-11#164949870';
+    const getVaccine = () => {
+        const vax = getDGCVaccine();
+        return vax;
+    };
+        // 'ICD-11#164949870';
 
     const example = {
         '@context': ['https://w3id.org/pathogen/v1'],
@@ -42,7 +48,7 @@ const getDGCVaccinationInformation = () => {
         healthProfessional: getHealthProfessional(),
         nextVaccinationDate: faker.date.between('2021-05-11', '2021-06-11'),
         order: getVaccineAdminOrder(),
-        vaccine: getVaccineCode(),
+        vaccine: getVaccine(),
     };
     return example;
 };

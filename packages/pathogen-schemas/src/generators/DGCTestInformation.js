@@ -1,5 +1,4 @@
 const faker = require('faker');
-const { getDGCSubject } = require('./DGCSubject');
 
 const getDGCTestInformation = () => {
   const getTestName = () => {

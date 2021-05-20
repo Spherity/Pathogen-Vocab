@@ -40,9 +40,9 @@
   ],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-16T14:46:20Z",
+    "created": "2021-05-17T16:53:26Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "h5aHv+yJuWQGU+34plr2/+1JAc4usqSMzcs0+BtNFu5lyJ+4Ze38OlNQVxJyA7XJL+/sw05Evlyq1AcT/i9yYbS8ZQmLscoVp9lULJq9Y+08V0AE3v4TPHhbloGBIJOVciqPaJDDGzwI5nexSiXkbg==",
+    "proofValue": "h2tS/e7/ELGrvWn7rw/IRiCjk7T7HIocp7Cxtk/TKYRUJywxCqZBElbPiGLXemLjVwT7EFQIV8T6hT2jAlLAnxa9mu3sUG1oe2ISQ6Y84XBDiZT7X8fC3Ri6QGgcgpqUcv8LsIHuckjKNsTuFt8zGg==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

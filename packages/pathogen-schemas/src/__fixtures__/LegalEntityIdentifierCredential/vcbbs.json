@@ -22,9 +22,9 @@
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-05-16T14:46:19Z",
+    "created": "2021-05-17T16:53:25Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "pQEtKh2puv0Uvwvo2Ovq0JXrrHYbFo7vbtnZmVHPbfBgspX6K3cMn63S0pzvFtnULyc/JO0X5yHQPjV+U2PQUlZk/YKJp8Q6N2O4CjasOi1Ti1yqqsXL3dbrsBSVqZCyKhsdGRkDXO7prHwPf6Vddg==",
+    "proofValue": "gOmb4SUeOmVS4YxaWwBigfgftV8OFl4zEREnd175TrJGLxxudrHAKAzG75Zgm0vbMDOv6eFw6BX/z8InfxGtsofEFPUJNc46TSFqyqWdMB0BJ4cLtXAj1STSsPmtqn5J/9zXM5sHUL6PE3ytDhlvSg==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

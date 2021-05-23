@@ -5,7 +5,7 @@
     ],
     "type": "QuantitativeValue",
     "unitCode": "",
-    "value": "9066"
+    "value": "7809"
   },
   {
     "@context": [
@@ -13,7 +13,7 @@
     ],
     "type": "QuantitativeValue",
     "unitCode": "",
-    "value": "2912"
+    "value": "2972"
   },
   {
     "@context": [
@@ -21,6 +21,6 @@
     ],
     "type": "QuantitativeValue",
     "unitCode": "",
-    "value": "631"
+    "value": "3699"
   }
 ]

@@ -1,0 +1,45 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccinationInformation",
+    "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "batchNumber": "B1235742",
+    "dateOfVaccination": "2021-04-06T14:42:50.320Z",
+    "healthProfessional": "VRDRCR70H08H703B",
+    "nextVaccinationDate": "2021-05-19T01:15:24.525Z",
+    "order": "1 of 1",
+    "vaccine": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccine",
+      "code": "SCT#1119349007",
+      "targetDisease": "ICD-10#J12.82",
+      "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+      "medicinalProductName": "COVID-19 Vaccine"
+    },
+    "protocol": "parse",
+    "program": "bypass",
+    "feed": "reboot"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccinationInformation",
+    "batchNumber": "D1235742",
+    "order": "2 of 2",
+    "hard drive": "program",
+    "port": "input",
+    "circuit": "generate"
+  },
+  {
+    "administeringCentre": "Hospital Universario La Paz",
+    "nextVaccinationDate": "2021-05-15T21:03:41.222Z",
+    "application": "override",
+    "panel": "program",
+    "circuit": "parse"
+  }
+]

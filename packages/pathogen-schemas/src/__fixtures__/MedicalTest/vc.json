@@ -17,32 +17,32 @@
     ],
     "type": "MedicalTest",
     "affectedBy": [
-      "Antibiotics"
+      "High Blood Pressure Medicines"
     ],
     "normalRange": [
       "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 SA Variant",
-    "usesDevice": "CHJUTPHQIUQK",
-    "code": "FXXNNELS",
-    "legalStatus": "Preliminary Approval",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "DGHMZLIMMQFM",
+    "code": "PLHMFPNN",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hilpert LLC",
-      "description": "Multi-channelled solution-oriented Graphic Interface",
+      "name": "Wyman, Lakin and Glover",
+      "description": "Proactive fresh-thinking approach",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "681 Ferry Track",
-        "addressLocality": "Kleinmouth",
-        "addressRegion": "Wyoming",
-        "postalCode": "75050-0439",
-        "addressCountry": "Falkland Islands (Malvinas)"
+        "streetAddress": "9645 Luciano Square",
+        "addressLocality": "New Jolieland",
+        "addressRegion": "Colorado",
+        "postalCode": "37496",
+        "addressCountry": "Eritrea"
       },
-      "email": "Augustine_Ryan@example.com",
-      "phoneNumber": "555-584-4516",
-      "faxNumber": "555-548-8185"
+      "email": "Deonte.Abernathy@example.net",
+      "phoneNumber": "555-955-3444",
+      "faxNumber": "555-640-5256"
     },
     "relevantSpecialty": "Communicable Disease"
   },
@@ -50,7 +50,7 @@
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..REjo-X2EvtprhFo2j5esnHVK721tvCbql1hWjnT93HJAg8uH6vM0M576SSJ_IsjODUP64eHqG7BFqcO_L3eKCQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..WL1iwMIncnzd43gxo6Nyj5DnrL3vUlbM6vq_zyKrVx89dTOpPEUXQmTmk6zRr4CYevvg0NiMVd39cqnqGtXzDw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

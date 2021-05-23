@@ -5,32 +5,32 @@
     ],
     "type": "MedicalTest",
     "affectedBy": [
-      "Antibiotics"
+      "High Blood Pressure Medicines"
     ],
     "normalRange": [
       "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 SA Variant",
-    "usesDevice": "CHJUTPHQIUQK",
-    "code": "FXXNNELS",
-    "legalStatus": "Preliminary Approval",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "DGHMZLIMMQFM",
+    "code": "PLHMFPNN",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hilpert LLC",
-      "description": "Multi-channelled solution-oriented Graphic Interface",
+      "name": "Wyman, Lakin and Glover",
+      "description": "Proactive fresh-thinking approach",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "681 Ferry Track",
-        "addressLocality": "Kleinmouth",
-        "addressRegion": "Wyoming",
-        "postalCode": "75050-0439",
-        "addressCountry": "Falkland Islands (Malvinas)"
+        "streetAddress": "9645 Luciano Square",
+        "addressLocality": "New Jolieland",
+        "addressRegion": "Colorado",
+        "postalCode": "37496",
+        "addressCountry": "Eritrea"
       },
-      "email": "Augustine_Ryan@example.com",
-      "phoneNumber": "555-584-4516",
-      "faxNumber": "555-548-8185"
+      "email": "Deonte.Abernathy@example.net",
+      "phoneNumber": "555-955-3444",
+      "faxNumber": "555-640-5256"
     },
     "relevantSpecialty": "Communicable Disease"
   },
@@ -45,29 +45,29 @@
     "normalRange": [
       "Any Person"
     ],
-    "signDetected": "Negative",
+    "signDetected": "Positive",
     "usedToDiagnose": "Covid19 UK Variant",
-    "usesDevice": "SVXFCJTZEIWH",
-    "code": "VXOCSTIZ",
-    "legalStatus": "Revoked",
+    "usesDevice": "VSYYVSAWQABS",
+    "code": "GVBBPWRG",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Cummerata Group",
-      "description": "Team-oriented zero administration hardware",
+      "name": "Cummerata and Sons",
+      "description": "Innovative full-range parallelism",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "681 Schmeler Harbor",
-        "addressLocality": "Vivianeton",
-        "addressRegion": "Texas",
-        "postalCode": "18753-9944",
-        "addressCountry": "Western Sahara"
+        "streetAddress": "2092 Ashlee Keys",
+        "addressLocality": "New Rebecca",
+        "addressRegion": "Colorado",
+        "postalCode": "38558-0467",
+        "addressCountry": "Armenia"
       },
-      "email": "Carrie68@example.com",
-      "phoneNumber": "555-210-7011",
-      "faxNumber": "555-752-6712"
+      "email": "Shanny_Upton25@example.com",
+      "phoneNumber": "555-993-5055",
+      "faxNumber": "555-218-9364"
     },
-    "relevantSpecialty": "Other"
+    "relevantSpecialty": "Non-Communicable Disease"
   },
   {
     "@context": [
@@ -75,33 +75,33 @@
     ],
     "type": "MedicalTest",
     "affectedBy": [
-      "Birthcontrol"
+      "High Blood Pressure Medicines"
     ],
     "normalRange": [
       "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 UK Variant",
-    "usesDevice": "CQISWNFHJFBA",
-    "code": "THKQTYXW",
+    "usedToDiagnose": "Covid19 SA Variant",
+    "usesDevice": "KBXDVOFIMSVQ",
+    "code": "BVKSWLKR",
     "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hane and Sons",
-      "description": "Public-key 24 hour approach",
+      "name": "Simonis LLC",
+      "description": "Vision-oriented bifurcated secured line",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "72419 Issac Inlet",
-        "addressLocality": "Lake Leslyfurt",
-        "addressRegion": "Michigan",
-        "postalCode": "53788-4892",
-        "addressCountry": "New Caledonia"
+        "streetAddress": "466 Francesco Ranch",
+        "addressLocality": "Medhurststad",
+        "addressRegion": "Alabama",
+        "postalCode": "61916-1817",
+        "addressCountry": "New Zealand"
       },
-      "email": "Chandler_Cummings22@example.net",
-      "phoneNumber": "555-128-2136",
-      "faxNumber": "555-765-7085"
+      "email": "Maude.Jones@example.org",
+      "phoneNumber": "555-208-7668",
+      "faxNumber": "555-912-5769"
     },
-    "relevantSpecialty": "Other"
+    "relevantSpecialty": "Non-Communicable Disease"
   }
 ]

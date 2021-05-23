@@ -1,0 +1,71 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccinationInformation",
+    "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "batchNumber": "B1235742",
+    "countryOfVaccination": "it",
+    "dateOfVaccination": "2021-04-06T14:42:50.320Z",
+    "healthProfessional": "VRDRCR70H08H703B",
+    "nextVaccinationDate": "2021-05-19T01:15:24.525Z",
+    "order": "1 of 1",
+    "vaccine": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccine",
+      "code": "SCT#1119349007",
+      "targetDisease": "ICD-10#J12.82",
+      "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+      "medicinalProductName": "COVID-19 Vaccine"
+    }
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccinationInformation",
+    "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "batchNumber": "D1235742",
+    "countryOfVaccination": "es",
+    "dateOfVaccination": "2021-05-08T15:55:47.677Z",
+    "healthProfessional": "MSSCZN70H08H704F",
+    "nextVaccinationDate": "2021-06-07T08:52:56.150Z",
+    "order": "2 of 2",
+    "vaccine": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccine",
+      "code": "SCT#1119349007",
+      "targetDisease": "ICD-10#J12.82",
+      "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+      "medicinalProductName": "COVID-19 Vaccine"
+    }
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccinationInformation",
+    "administeringCentre": "Hospital Universario La Paz",
+    "batchNumber": "D1235742",
+    "countryOfVaccination": "de",
+    "dateOfVaccination": "2021-04-19T17:39:14.991Z",
+    "healthProfessional": "RCSTGI90B1823661",
+    "nextVaccinationDate": "2021-05-15T21:03:41.222Z",
+    "order": "1 of 1",
+    "vaccine": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccine",
+      "code": "SCT#1119349007",
+      "targetDisease": "ICD-10#J12.82",
+      "marketingAuthHolder": "AstraZeneca AB",
+      "medicinalProductName": "COVID-19 Vaccine"
+    }
+  }
+]

@@ -4,34 +4,59 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "MedicalTest",
-    "affectedBy": [
-      "Antibiotics"
+    "normalRange": [
+      "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 SA Variant",
-    "usesDevice": "CHJUTPHQIUQK",
-    "legalStatus": "Preliminary Approval",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "DGHMZLIMMQFM",
+    "code": "PLHMFPNN",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
-    "port": "override",
-    "matrix": "generate",
-    "panel": "quantify",
-    "microchip": "back up"
+    "recognizingAuthority": {
+      "type": "Organization",
+      "name": "Wyman, Lakin and Glover",
+      "description": "Proactive fresh-thinking approach",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "9645 Luciano Square",
+        "addressLocality": "New Jolieland",
+        "addressRegion": "Colorado",
+        "postalCode": "37496",
+        "addressCountry": "Eritrea"
+      },
+      "email": "Deonte.Abernathy@example.net",
+      "phoneNumber": "555-955-3444",
+      "faxNumber": "555-640-5256"
+    },
+    "relevantSpecialty": "Communicable Disease",
+    "driver": "program",
+    "bandwidth": "copy",
+    "array": "connect",
+    "transmitter": "index"
+  },
+  {
+    "affectedBy": [
+      "High Blood Pressure Medicines"
+    ],
+    "signDetected": "Positive",
+    "interface": "bypass"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "MedicalTest",
-    "usesDevice": "SVXFCJTZEIWH",
-    "legalStatus": "Revoked",
-    "firewall": "override",
-    "program": "synthesize"
-  },
-  {
     "affectedBy": [
-      "Birthcontrol"
+      "High Blood Pressure Medicines"
     ],
-    "usesDevice": "CQISWNFHJFBA",
-    "bandwidth": "index"
+    "normalRange": [
+      "Any Person"
+    ],
+    "usesDevice": "KBXDVOFIMSVQ",
+    "code": "BVKSWLKR",
+    "medicineSystem": "evidence-based",
+    "relevantSpecialty": "Non-Communicable Disease",
+    "transmitter": "navigate"
   }
 ]

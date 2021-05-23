@@ -6,33 +6,33 @@
     "type": "Product",
     "manufacturer": {
       "type": "Organization",
-      "name": "Wehner, Runte and Schuster",
-      "description": "Profound scalable process improvement",
+      "name": "Beer, McCullough and Williamson",
+      "description": "Vision-oriented value-added core",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "2725 Adela Ville",
-        "addressLocality": "Ziemeville",
-        "addressRegion": "North Dakota",
-        "postalCode": "80200-0738",
-        "addressCountry": "New Caledonia"
+        "streetAddress": "767 DuBuque Glens",
+        "addressLocality": "East Ella",
+        "addressRegion": "Vermont",
+        "postalCode": "72926",
+        "addressCountry": "Latvia"
       },
-      "email": "Rosario.Prohaska@example.net",
-      "phoneNumber": "555-766-1621",
-      "faxNumber": "555-228-1050"
+      "email": "Justina_Zboncak@example.net",
+      "phoneNumber": "555-526-7726",
+      "faxNumber": "555-153-5264"
     },
-    "name": "Sleek Metal Car",
-    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "name": "Awesome Steel Cheese",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "895"
+      "value": "6450"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "3997"
+      "value": "9629"
     },
-    "sku": "407548957698"
+    "sku": "204989161760"
   },
   {
     "@context": [
@@ -41,33 +41,33 @@
     "type": "Product",
     "manufacturer": {
       "type": "Organization",
-      "name": "Ward Inc",
-      "description": "Intuitive demand-driven support",
+      "name": "Kuphal LLC",
+      "description": "Enterprise-wide heuristic alliance",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "158 Arely Greens",
-        "addressLocality": "South Ronnyfort",
-        "addressRegion": "Illinois",
-        "postalCode": "40107-4622",
-        "addressCountry": "Denmark"
+        "streetAddress": "569 Pacocha Junctions",
+        "addressLocality": "Devanfort",
+        "addressRegion": "Louisiana",
+        "postalCode": "93274-5807",
+        "addressCountry": "Papua New Guinea"
       },
-      "email": "Emmy_McCullough@example.org",
-      "phoneNumber": "555-877-3529",
-      "faxNumber": "555-461-8231"
+      "email": "Hassan52@example.org",
+      "phoneNumber": "555-155-7210",
+      "faxNumber": "555-232-9375"
     },
-    "name": "Generic Concrete Chips",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "name": "Fantastic Granite Sausages",
+    "description": "Boston's most advanced compression wear technology increases muscle oxygenation, stabilizes active muscles",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "2268"
+      "value": "7614"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "5494"
+      "value": "2426"
     },
-    "sku": "603497064169"
+    "sku": "962310582344"
   },
   {
     "@context": [
@@ -76,32 +76,32 @@
     "type": "Product",
     "manufacturer": {
       "type": "Organization",
-      "name": "Jacobs and Sons",
-      "description": "Decentralized directional structure",
+      "name": "Nienow Group",
+      "description": "Networked zero tolerance groupware",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "650 Julian Points",
-        "addressLocality": "South Micaelaberg",
-        "addressRegion": "Tennessee",
-        "postalCode": "82555",
-        "addressCountry": "Brazil"
+        "streetAddress": "0518 Durgan Lock",
+        "addressLocality": "Beattyfurt",
+        "addressRegion": "Texas",
+        "postalCode": "99758",
+        "addressCountry": "Hong Kong"
       },
-      "email": "Reta.Murphy27@example.org",
-      "phoneNumber": "555-228-9251",
-      "faxNumber": "555-797-7485"
+      "email": "Veda_Wunsch@example.net",
+      "phoneNumber": "555-317-6932",
+      "faxNumber": "555-964-1980"
     },
-    "name": "Incredible Wooden Chair",
-    "description": "New ABC 13 9370, 13.3, 5th Gen CoreA5-8250U, 8GB RAM, 256GB SSD, power UHD Graphics, OS 10 Home, OS Office A & J 2016",
+    "name": "Practical Cotton Sausages",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "7489"
+      "value": "2199"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "4030"
+      "value": "2603"
     },
-    "sku": "511134027932"
+    "sku": "176103714953"
   }
 ]

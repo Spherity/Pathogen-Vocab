@@ -4,23 +4,23 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "GeoCoordinates",
-    "latitude": "-14.8020",
-    "longitude": "-58.9066"
+    "latitude": "-31.3334",
+    "longitude": "-83.1624"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "GeoCoordinates",
-    "latitude": "-38.2970",
-    "longitude": "127.0159"
+    "latitude": "-3.6110",
+    "longitude": "170.8920"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "GeoCoordinates",
-    "latitude": "-13.0008",
-    "longitude": "-140.5917"
+    "latitude": "40.3714",
+    "longitude": "-7.0175"
   }
 ]

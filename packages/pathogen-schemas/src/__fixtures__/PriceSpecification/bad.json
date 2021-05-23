@@ -3,24 +3,24 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "price": 8541,
-    "priceCurrency": "ARS",
-    "bus": "copy",
-    "circuit": "compress",
-    "protocol": "copy"
-  },
-  {
     "type": "PriceSpecification",
-    "priceCurrency": "TWD",
-    "alarm": "override",
-    "capacitor": "input",
-    "driver": "input",
-    "sensor": "reboot"
+    "price": 179,
+    "transmitter": "navigate",
+    "bandwidth": "override"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "alarm": "copy"
+    "price": 4361,
+    "priceCurrency": "DOP",
+    "array": "input",
+    "monitor": "generate"
+  },
+  {
+    "priceCurrency": "CRC",
+    "card": "calculate",
+    "alarm": "generate",
+    "matrix": "program"
   }
 ]

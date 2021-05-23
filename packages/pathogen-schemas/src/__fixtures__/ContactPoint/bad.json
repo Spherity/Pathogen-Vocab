@@ -1,36 +1,38 @@
 [
   {
-    "name": "Feeney LLC",
+    "type": "ContactPoint",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "35954 Lenny Canyon",
-      "addressLocality": "Cecileview",
-      "addressRegion": "Arkansas",
-      "postalCode": "99958",
-      "addressCountry": "Honduras"
+      "streetAddress": "19163 Adaline Plain",
+      "addressLocality": "North Einar",
+      "addressRegion": "Nebraska",
+      "postalCode": "31029-3240",
+      "addressCountry": "Saudi Arabia"
     },
-    "phoneNumber": "555-374-1143",
-    "interface": "compress",
-    "microchip": "calculate",
-    "application": "copy",
-    "system": "generate"
+    "email": "Jamil_Bayer68@example.com",
+    "phoneNumber": "555-656-2797",
+    "capacitor": "reboot"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
+    "name": "Durgan - Lockman",
+    "address": {
+      "type": "PostalAddress",
+      "streetAddress": "00262 Bonita Loaf",
+      "addressLocality": "Jermeyfort",
+      "addressRegion": "Alaska",
+      "postalCode": "93216",
+      "addressCountry": "Saint Lucia"
+    },
+    "pixel": "input",
+    "capacitor": "copy",
+    "bandwidth": "quantify",
+    "microchip": "generate"
+  },
+  {
     "type": "ContactPoint",
-    "email": "Rhoda_McGlynn@example.com",
-    "phoneNumber": "555-392-8600",
-    "panel": "copy",
-    "transmitter": "hack"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "email": "Marcella_Hane@example.org",
-    "interface": "hack",
-    "matrix": "synthesize"
+    "circuit": "program"
   }
 ]

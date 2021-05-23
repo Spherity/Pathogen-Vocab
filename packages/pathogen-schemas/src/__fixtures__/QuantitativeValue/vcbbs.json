@@ -17,14 +17,14 @@
     ],
     "type": "QuantitativeValue",
     "unitCode": "",
-    "value": "9066"
+    "value": "7809"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:10Z",
+    "created": "2021-05-17T16:53:25Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "rZSW2QwX2smj77Zh6LUu+J6W19h5FpambSK64w4Lgil0k2F7mdaj2g6KSrokf+WJMgMt4b/p86B90uN1aFoWG/kW701VEY5scX8Rz5f+6l8hdHmLPojIhTbCY3AhpkvUj90jg7aA30Qzu3JSPmtCnQ==",
+    "proofValue": "i5H5PqHKAnU/TZorQYwVheTm1sVxhep7ldM2L+CieNQX2zsIbxV46V+z9zJ3KWIEJ+jcf2AGXi7ftCEkyx1bF31ClN56gFXj0s4gzr/Xuv4wFUW2wBl4Oj9vMfcjKxVYJ/He8BH2eE8Iq4xGZt5xSw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

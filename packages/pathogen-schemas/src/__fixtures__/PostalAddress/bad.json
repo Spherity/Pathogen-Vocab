@@ -1,16 +1,27 @@
 [
   {
-    "microchip": "input",
-    "interface": "hack"
-  },
-  {
     "type": "PostalAddress",
-    "streetAddress": "592 Larue Crescent",
-    "capacitor": "connect"
+    "streetAddress": "9358 Koch Light",
+    "addressRegion": "Rhode Island",
+    "alarm": "program",
+    "sensor": "input"
   },
   {
-    "transmitter": "parse",
-    "sensor": "override",
-    "matrix": "bypass"
+    "firewall": "generate",
+    "port": "bypass",
+    "bus": "synthesize",
+    "driver": "compress"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "organizationName": "Vandervort - Hauck",
+    "addressLocality": "Lake Guillermo",
+    "addressCountry": "Macao",
+    "port": "input",
+    "program": "generate",
+    "panel": "parse",
+    "bus": "hack"
   }
 ]

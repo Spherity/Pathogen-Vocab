@@ -1,0 +1,18 @@
+[
+  {
+    "card": "bypass",
+    "transmitter": "reboot"
+  },
+  {
+    "alarm": "input",
+    "feed": "calculate",
+    "bus": "parse",
+    "program": "reboot"
+  },
+  {
+    "type": "DGCProofOfCovidTest",
+    "hard drive": "connect",
+    "circuit": "copy",
+    "driver": "hack"
+  }
+]

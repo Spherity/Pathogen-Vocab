@@ -4,53 +4,53 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "nb_NO",
+    "language": "en",
     "addressLines": [
-      "Lubowitz, Rice and Bogisich",
-      "26704 Windler Mountain"
+      "Kuphal and Sons",
+      "7093 Kaden Circles"
     ],
-    "addressNumber": "127",
+    "addressNumber": "352",
     "addressNumberWithinBuilding": "4",
-    "mailRouting": "16809 Kunze Summit, 45598-5366",
-    "city": "Kennedyhaven",
-    "region": "Berkshire",
-    "country": "Falkland Islands (Malvinas)",
-    "postalCode": "78578"
+    "mailRouting": "83008 Hyatt Cliff, 19526",
+    "city": "Preciousfort",
+    "region": "Bedfordshire",
+    "country": "Nauru",
+    "postalCode": "01619"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "ne",
+    "language": "nl",
     "addressLines": [
-      "Mosciski LLC",
-      "984 Rey Burg"
+      "Schmitt - Sawayn",
+      "68555 Izabella Stravenue"
     ],
-    "addressNumber": "80",
-    "addressNumberWithinBuilding": "9",
-    "mailRouting": "18327 Abbott Union, 58752-0120",
-    "city": "Erickshire",
-    "region": "Bedfordshire",
-    "country": "Saint Kitts and Nevis",
-    "postalCode": "61236-0587"
+    "addressNumber": "408",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "6051 Bode Row, 05261-4862",
+    "city": "Port Janet",
+    "region": "Borders",
+    "country": "Greenland",
+    "postalCode": "71874"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "en_AU_ocker",
+    "language": "ko",
     "addressLines": [
-      "Romaguera, Brakus and Schamberger",
-      "93177 Kristina Circle"
+      "Dooley and Sons",
+      "22841 Mona Track"
     ],
-    "addressNumber": "344",
-    "addressNumberWithinBuilding": "8",
-    "mailRouting": "3060 Saul Canyon, 96947-6157",
-    "city": "North Anna",
+    "addressNumber": "37",
+    "addressNumberWithinBuilding": "5",
+    "mailRouting": "7846 Gabriel Hollow, 95058-5554",
+    "city": "Lake Goldenport",
     "region": "Bedfordshire",
-    "country": "United Arab Emirates",
-    "postalCode": "83348"
+    "country": "Palau",
+    "postalCode": "85974-6295"
   }
 ]

@@ -4,23 +4,23 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 8541,
-    "priceCurrency": "ARS"
+    "price": 179,
+    "priceCurrency": "MGA"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 2568,
-    "priceCurrency": "TWD"
+    "price": 4361,
+    "priceCurrency": "DOP"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PriceSpecification",
-    "price": 315,
-    "priceCurrency": "NZD"
+    "price": 3487,
+    "priceCurrency": "CRC"
   }
 ]

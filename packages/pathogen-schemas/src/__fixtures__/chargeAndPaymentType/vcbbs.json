@@ -16,15 +16,15 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "chargeAndPaymentType",
-    "chargeCollect": 725,
-    "chargePrepaid": 834
+    "chargeCollect": 506,
+    "chargePrepaid": 819
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:10Z",
+    "created": "2021-05-17T16:53:25Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "jB0GUKPWYr1oIwAvHzwPtfVQuPbAfO7Cns9+YVIh3L+bt2kg3bV3t+n4Xd/WwMjcU6pv00LD1kwhBf2gV6AWqHFzqFAbzWIwUMU1X2+09IkJFs4nKJorwR3RZOUHLfO5iAvPCxcLL+zLkTtoj5vTxA==",
+    "proofValue": "h1t1mKwwDkW9Ss8sDXu3Qk32HxYzrwlTQL3yI5W/d2B5nIRL6C8Cp6E5+ZpSEw0mCT3QynfurF0sp+1N0mwJ0tWu18bvMoS50Hkx8SM4ZBM8S5iwekAINkM2MBId2n/glRUPF5K3vWotRQUuVxchhw==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

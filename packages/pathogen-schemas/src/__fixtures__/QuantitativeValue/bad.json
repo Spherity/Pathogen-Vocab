@@ -1,20 +1,18 @@
 [
   {
     "type": "QuantitativeValue",
-    "unitCode": "",
-    "port": "transmit",
-    "array": "parse",
-    "capacitor": "navigate"
+    "protocol": "connect",
+    "port": "navigate",
+    "pixel": "parse"
   },
   {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "feed": "synthesize"
+    "type": "QuantitativeValue",
+    "bandwidth": "transmit",
+    "firewall": "override"
   },
   {
-    "unitCode": "",
-    "alarm": "compress",
-    "system": "back up"
+    "microchip": "synthesize",
+    "bandwidth": "connect",
+    "transmitter": "reboot"
   }
 ]

@@ -18,39 +18,39 @@
     "type": "Product",
     "manufacturer": {
       "type": "Organization",
-      "name": "Wehner, Runte and Schuster",
-      "description": "Profound scalable process improvement",
+      "name": "Beer, McCullough and Williamson",
+      "description": "Vision-oriented value-added core",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "2725 Adela Ville",
-        "addressLocality": "Ziemeville",
-        "addressRegion": "North Dakota",
-        "postalCode": "80200-0738",
-        "addressCountry": "New Caledonia"
+        "streetAddress": "767 DuBuque Glens",
+        "addressLocality": "East Ella",
+        "addressRegion": "Vermont",
+        "postalCode": "72926",
+        "addressCountry": "Latvia"
       },
-      "email": "Rosario.Prohaska@example.net",
-      "phoneNumber": "555-766-1621",
-      "faxNumber": "555-228-1050"
+      "email": "Justina_Zboncak@example.net",
+      "phoneNumber": "555-526-7726",
+      "faxNumber": "555-153-5264"
     },
-    "name": "Sleek Metal Car",
-    "description": "The slim & simple Maple Gaming Keyboard from Dev Byte comes with a sleek body and 7- Color RGB LED Back-lighting for smart functionality",
+    "name": "Awesome Steel Cheese",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "895"
+      "value": "6450"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "3997"
+      "value": "9629"
     },
-    "sku": "407548957698"
+    "sku": "204989161760"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..KOdHiDA8gmfY0MZEZHlEicMjmiRNJCXYbwq2aCdMxuA2TtRIm3HEDqc3S-YXPuTsorLABL0NQ0B_Xr9VdGK9Aw",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..a2FRbP2kr91R3DmVh_tcXoY5AtOSYSVX_Zw_e-jWbQOG15PfZ8uP-l1GJixiMidTkG82laWEnz1LUmoGq5R8DA",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

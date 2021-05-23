@@ -17,41 +17,41 @@
     ],
     "type": "MedicalTest",
     "affectedBy": [
-      "Antibiotics"
+      "High Blood Pressure Medicines"
     ],
     "normalRange": [
       "Any Person"
     ],
     "signDetected": "Positive",
-    "usedToDiagnose": "Covid19 SA Variant",
-    "usesDevice": "CHJUTPHQIUQK",
-    "code": "FXXNNELS",
-    "legalStatus": "Preliminary Approval",
+    "usedToDiagnose": "Covid19 2020 Variants",
+    "usesDevice": "DGHMZLIMMQFM",
+    "code": "PLHMFPNN",
+    "legalStatus": "Approved",
     "medicineSystem": "evidence-based",
     "recognizingAuthority": {
       "type": "Organization",
-      "name": "Hilpert LLC",
-      "description": "Multi-channelled solution-oriented Graphic Interface",
+      "name": "Wyman, Lakin and Glover",
+      "description": "Proactive fresh-thinking approach",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "681 Ferry Track",
-        "addressLocality": "Kleinmouth",
-        "addressRegion": "Wyoming",
-        "postalCode": "75050-0439",
-        "addressCountry": "Falkland Islands (Malvinas)"
+        "streetAddress": "9645 Luciano Square",
+        "addressLocality": "New Jolieland",
+        "addressRegion": "Colorado",
+        "postalCode": "37496",
+        "addressCountry": "Eritrea"
       },
-      "email": "Augustine_Ryan@example.com",
-      "phoneNumber": "555-584-4516",
-      "faxNumber": "555-548-8185"
+      "email": "Deonte.Abernathy@example.net",
+      "phoneNumber": "555-955-3444",
+      "faxNumber": "555-640-5256"
     },
     "relevantSpecialty": "Communicable Disease"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:11Z",
+    "created": "2021-05-17T16:53:26Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "hBnF/9bd8xCCfTnmEtTPaMBj0lgvRQfbK2+V3aG159fieEkxuxW0H69fRKYPaddHOWyUcVfn3CrDJRLWnr0FHAK5fNwYg53EniG94CeoKfdlctiWPyWzt3uTAWl9QvPzEbjQyEefjj9yW6WIpGTvpQ==",
+    "proofValue": "pQfJmVlpjWgdks05AqnuooUKzbaJEt7OBIiJ4pyyzuDRuUoavwe00kRaLqDzl18UUe1ZYkz9w3rUUuMTRv+xTdLbJMOCtqFVtwnaY8d/hdlRl22lj9bigOF8AYuHa+tMsTuJHGiDucWl/zUmA4rrwg==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

@@ -1,42 +1,38 @@
 [
   {
-    "type": "Place",
-    "globalLocationNumber": "6409667124670",
+    "geo": {
+      "type": "GeoCoordinates",
+      "latitude": "58.0563",
+      "longitude": "-70.8502"
+    },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Leffler, Hirthe and Langworth",
-      "streetAddress": "14610 Ezra Tunnel",
-      "addressLocality": "Cristborough",
-      "addressRegion": "Alaska",
-      "postalCode": "63603-3074",
-      "addressCountry": "Montserrat"
+      "organizationName": "Greenfelder, Lueilwitz and Maggio",
+      "streetAddress": "1197 Jacobs Roads",
+      "addressLocality": "East Eda",
+      "addressRegion": "Vermont",
+      "postalCode": "86702",
+      "addressCountry": "Saint Helena"
     },
-    "pixel": "generate",
-    "array": "program",
-    "program": "quantify",
-    "matrix": "quantify"
+    "firewall": "transmit"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "Place",
+    "system": "index",
+    "circuit": "navigate",
+    "interface": "reboot",
+    "matrix": "synthesize"
   },
   {
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "33.8894",
-      "longitude": "-119.7505"
+      "latitude": "33.6635",
+      "longitude": "-164.7750"
     },
-    "address": {
-      "type": "PostalAddress",
-      "organizationName": "Witting and Sons",
-      "streetAddress": "09559 Boyle Crest",
-      "addressLocality": "East Alexandreside",
-      "addressRegion": "Maryland",
-      "postalCode": "13037",
-      "addressCountry": "Cambodia"
-    },
-    "bus": "hack",
-    "array": "copy",
-    "sensor": "program"
-  },
-  {
-    "monitor": "override",
-    "microchip": "bypass"
+    "application": "calculate",
+    "alarm": "parse"
   }
 ]

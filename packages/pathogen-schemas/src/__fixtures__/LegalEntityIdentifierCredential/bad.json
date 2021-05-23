@@ -3,20 +3,20 @@
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "leiCode": "YSS93LFZVVYLGWMZ6QZ2",
-    "certificateName": "US Legal Entity Certificate",
-    "bus": "calculate",
-    "program": "quantify",
-    "transmitter": "generate",
-    "bandwidth": "compress"
+    "type": "LegalEntityIdentifierCredential",
+    "protocol": "bypass",
+    "circuit": "program",
+    "bus": "program"
   },
   {
-    "certificateName": "US Legal Entity Certificate",
-    "application": "connect",
-    "feed": "parse",
-    "panel": "reboot"
+    "transmitter": "override",
+    "pixel": "connect"
   },
   {
-    "transmitter": "copy"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "leiCode": "4Q3IW1OVT2VYK0IPF2BW",
+    "pixel": "navigate"
   }
 ]

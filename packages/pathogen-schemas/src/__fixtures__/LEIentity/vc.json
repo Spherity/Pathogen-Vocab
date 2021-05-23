@@ -16,67 +16,67 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Bogisich - Tillman",
-    "legalNameLanguage": "en_ZA",
+    "legalName": "Weimann, Douglas and Reynolds",
+    "legalNameLanguage": "hy",
     "otherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "transliteratedOtherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "de",
+      "language": "en_AU",
       "addressLines": [
-        "Senger Inc",
-        "526 Reilly Rest"
+        "Dickens, Botsford and Renner",
+        "912 Rodrigo Rest"
       ],
-      "addressNumber": "162",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "01619 Quigley Points, 05960-6527",
-      "city": "Strosinside",
-      "region": "Berkshire",
-      "country": "Guernsey",
-      "postalCode": "68736-8406"
+      "addressNumber": "222",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "936 Frami Bridge, 88857-0197",
+      "city": "Terryfurt",
+      "region": "Avon",
+      "country": "Pakistan",
+      "postalCode": "29683-6651"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "tr",
+      "language": "es",
       "addressLines": [
-        "Lowe - Metz",
-        "0517 Reilly Lights"
+        "Cronin - Zulauf",
+        "498 Aubree Shore"
       ],
-      "addressNumber": "227",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "52614 Daija Trafficway, 94371",
-      "city": "Schambergerview",
-      "region": "Buckinghamshire",
-      "country": "Solomon Islands",
-      "postalCode": "04150-7623"
+      "addressNumber": "160",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "2718 Runolfsdottir Ports, 96489",
+      "city": "Thielfort",
+      "region": "Avon",
+      "country": "Mozambique",
+      "postalCode": "48831"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
-      "validationAuthorityID": "RA000003",
-      "otherValidationAuthorityID": "ZJZHN27E",
-      "validationAuthorityEntityID": "O72F179UG6VYQEQUFMCQ"
+      "validationAuthorityID": "RA000004",
+      "otherValidationAuthorityID": "AJN0BBMD",
+      "validationAuthorityEntityID": "LEKPDDJGL8JDF802LL6O"
     },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Finance",
+    "legalJurisdiction": "Buckinghamshire",
+    "entityCategory": "Jewelery",
     "legalForm": "LLC",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "YSW1QHQ3583ZK50HHM7P",
-      "name": "Batz - Littel"
+      "leiCode": "EZHYO00YBNZVKG9IIHCO",
+      "name": "Kutch - Hoeger"
     },
-    "status": "IN PROGRESS",
+    "status": "REJECTED",
     "expirationDate": "2022-07-11",
-    "expirationReason": "syndicate front-end e-markets",
+    "expirationReason": "exploit collaborative relationships",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "F1QEHLVLWSFN9ZLAWC7D",
-      "name": "Konopelski - Murray"
+      "leiCode": "UHW0TC3D5EIK8JHLERJT",
+      "name": "Raynor, Rau and Wilkinson"
     },
     "otherAddresses": []
   },
@@ -84,7 +84,7 @@
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..tfWKypPxn2OWYJ0motWisojQHp_bBAyePkZk6g085iLH3q_-zUJQJqyU1ovRexlbHPSkGteabRhDTg_hGNg4Ag",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..5rdTtMSGRnUIsLAFSam4CKxL12Qq7TAsLeL9Q6BoXGN9lD27HoJBinhguKBFnWTfceAXUKsqXHASY89qGNeACw",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

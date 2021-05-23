@@ -16,18 +16,18 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Heaney - Pagac",
-    "streetAddress": "29855 McClure Inlet",
-    "addressLocality": "Broderickshire",
-    "addressRegion": "Minnesota",
-    "postalCode": "68424",
-    "addressCountry": "Sao Tome and Principe"
+    "organizationName": "Braun and Sons",
+    "streetAddress": "9358 Koch Light",
+    "addressLocality": "East Lorenzabury",
+    "addressRegion": "Rhode Island",
+    "postalCode": "00871",
+    "addressCountry": "Iraq"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..Exs9wyN6H3D2jodl4Dwmz6bI_TKaguvbOIA-Yi0fkvCWZNspxv9OGBNMXIPg3Llm-wRILDJpnykytpUTMMzeAA",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..oWbUJzP6_hjFOOBjKHIH0obcVEWxeQhcrBR6HsXoT23vbGMEKlAB8prBAc4ddD-76Vw0-YV1dDgHIIjVPrpMBg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

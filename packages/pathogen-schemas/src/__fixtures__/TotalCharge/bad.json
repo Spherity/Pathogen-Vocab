@@ -1,29 +1,23 @@
 [
   {
-    "type": "TotalCharge",
-    "destinationCurrency": "IQD",
-    "capacitor": "transmit",
-    "application": "connect"
+    "totalCollectCharge": 183,
+    "alarm": "parse",
+    "panel": "program"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "type": "TotalCharge",
-    "totalPrepaid": 1358.25,
-    "totalCollect": 452.75,
-    "sourceCurrency": "LYD",
-    "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "LYD",
-    "chargesDestination": 438,
-    "totalCollectCharge": 109.5,
-    "bus": "connect"
+    "currencyConversionRate": 4,
+    "ccChargesDestinationCurrency": "BIF",
+    "chargesDestination": 730,
+    "panel": "generate",
+    "application": "navigate"
   },
   {
-    "totalCollect": 2244.5,
-    "bandwidth": "override",
-    "alarm": "parse",
-    "sensor": "parse",
-    "interface": "synthesize"
+    "totalPrepaid": 2887.5,
+    "totalCollect": 962.5,
+    "bandwidth": "compress",
+    "hard drive": "synthesize"
   }
 ]

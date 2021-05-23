@@ -4,41 +4,41 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 7185,
-    "totalCollect": 2395,
-    "sourceCurrency": "BND",
-    "destinationCurrency": "IQD",
-    "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "BND",
-    "chargesDestination": 309,
-    "totalCollectCharge": 77.25
+    "totalPrepaid": 945,
+    "totalCollect": 315,
+    "sourceCurrency": "BIF",
+    "destinationCurrency": "OMR",
+    "currencyConversionRate": 5,
+    "ccChargesDestinationCurrency": "BIF",
+    "chargesDestination": 732,
+    "totalCollectCharge": 183
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "TotalCharge",
-    "totalPrepaid": 1358.25,
-    "totalCollect": 452.75,
-    "sourceCurrency": "LYD",
-    "destinationCurrency": "LYD",
-    "currencyConversionRate": 3,
-    "ccChargesDestinationCurrency": "LYD",
-    "chargesDestination": 438,
-    "totalCollectCharge": 109.5
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "TotalCharge",
-    "totalPrepaid": 6733.5,
-    "totalCollect": 2244.5,
-    "sourceCurrency": "KMF",
-    "destinationCurrency": "CNY",
+    "totalPrepaid": 5737.5,
+    "totalCollect": 1912.5,
+    "sourceCurrency": "BIF",
+    "destinationCurrency": "PAB",
     "currencyConversionRate": 4,
-    "ccChargesDestinationCurrency": "KMF",
-    "chargesDestination": 59,
-    "totalCollectCharge": 14.75
+    "ccChargesDestinationCurrency": "BIF",
+    "chargesDestination": 730,
+    "totalCollectCharge": 182.5
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "TotalCharge",
+    "totalPrepaid": 2887.5,
+    "totalCollect": 962.5,
+    "sourceCurrency": "PLN",
+    "destinationCurrency": "UAH",
+    "currencyConversionRate": 1,
+    "ccChargesDestinationCurrency": "PLN",
+    "chargesDestination": 25,
+    "totalCollectCharge": 6.25
   }
 ]

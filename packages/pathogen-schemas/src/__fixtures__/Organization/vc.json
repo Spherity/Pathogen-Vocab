@@ -16,25 +16,25 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Shanahan, Romaguera and Price",
-    "description": "Self-enabling stable access",
+    "name": "Crist, Hayes and Balistreri",
+    "description": "Open-architected multimedia function",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "83513 Princess Lake",
-      "addressLocality": "South Helmertown",
-      "addressRegion": "Arizona",
-      "postalCode": "70992",
-      "addressCountry": "Brunei Darussalam"
+      "streetAddress": "740 Kristina Harbors",
+      "addressLocality": "West Fritzstad",
+      "addressRegion": "Alaska",
+      "postalCode": "36535-1146",
+      "addressCountry": "Burundi"
     },
-    "email": "Vincent_Mraz30@example.net",
-    "phoneNumber": "555-872-7369",
-    "faxNumber": "555-362-9754"
+    "email": "Adalberto.Heaney@example.com",
+    "phoneNumber": "555-140-9010",
+    "faxNumber": "555-785-4112"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..F9txunKIFsX1qkJiRY5KuZmrnBgE2jZrOdfjVAwGMEnebT7oB73w_qG-U6A-xEvb0y-3CK6a_AnL1HiWFhTpBQ",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..8ddOBsm_ZfE6OtjS131loj3SABtHe6LAdLArE6uoRBv1nl2glHi_KicLMSguj3D_aE5p0LQ7F6uzsxewMyG6Cg",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

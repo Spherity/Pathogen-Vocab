@@ -16,24 +16,24 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIaddress",
-    "language": "nb_NO",
+    "language": "en",
     "addressLines": [
-      "Lubowitz, Rice and Bogisich",
-      "26704 Windler Mountain"
+      "Kuphal and Sons",
+      "7093 Kaden Circles"
     ],
-    "addressNumber": "127",
+    "addressNumber": "352",
     "addressNumberWithinBuilding": "4",
-    "mailRouting": "16809 Kunze Summit, 45598-5366",
-    "city": "Kennedyhaven",
-    "region": "Berkshire",
-    "country": "Falkland Islands (Malvinas)",
-    "postalCode": "78578"
+    "mailRouting": "83008 Hyatt Cliff, 19526",
+    "city": "Preciousfort",
+    "region": "Bedfordshire",
+    "country": "Nauru",
+    "postalCode": "01619"
   },
   "evidence": [],
   "proof": {
     "type": "Ed25519Signature2018",
     "created": "2019-12-11T03:50:55Z",
-    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..f-EzP9L-0G07bAiroQeJKZJMplEeQatPXSGf4LRmH3ZP3xN_sDX3hsFBbnKi-OerxUJfkVf0k0xXvhG_ppD2Dg",
+    "jws": "eyJhbGciOiJFZERTQSIsImI2NCI6ZmFsc2UsImNyaXQiOlsiYjY0Il19..DpVSNlQNiqtSAYSvlI6sh5qX_ZDov8AphaYcuh6OCoMoP2T190vKsgvvnPO-ugFTD2d-4teucBLbevmhAZbvCQ",
     "proofPurpose": "assertionMethod",
     "verificationMethod": "did:example:123#key-0"
   }

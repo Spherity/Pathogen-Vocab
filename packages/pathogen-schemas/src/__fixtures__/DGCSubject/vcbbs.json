@@ -1,0 +1,32 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Gulgowski",
+    "givenName": "Edna",
+    "birthDate": "1996-01-20T04:54:56.773Z",
+    "gender": "female"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-05-17T16:53:26Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "go0WsWuCG7yqOu1Z6VVad1HK7ql9NVF4M7LLob6f/ckmEL20I8OFP9jYzAVHkJJ9EerOhLdhWpjfDBYZg8dmDTba6fwHnFEuDduEWGh0WJNJNe+56R0DXG+lh3684nByNhQ5teihacaBN+Kpbh8ehg==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

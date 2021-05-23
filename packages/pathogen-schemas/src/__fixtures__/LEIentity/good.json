@@ -4,136 +4,67 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Bogisich - Tillman",
-    "legalNameLanguage": "en_ZA",
+    "legalName": "Weimann, Douglas and Reynolds",
+    "legalNameLanguage": "hy",
     "otherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "transliteratedOtherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
-    ],
-    "legalAddress": {
-      "type": "LEIaddress",
-      "language": "de",
-      "addressLines": [
-        "Senger Inc",
-        "526 Reilly Rest"
-      ],
-      "addressNumber": "162",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "01619 Quigley Points, 05960-6527",
-      "city": "Strosinside",
-      "region": "Berkshire",
-      "country": "Guernsey",
-      "postalCode": "68736-8406"
-    },
-    "headquartersAddress": {
-      "type": "LEIaddress",
-      "language": "tr",
-      "addressLines": [
-        "Lowe - Metz",
-        "0517 Reilly Lights"
-      ],
-      "addressNumber": "227",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "52614 Daija Trafficway, 94371",
-      "city": "Schambergerview",
-      "region": "Buckinghamshire",
-      "country": "Solomon Islands",
-      "postalCode": "04150-7623"
-    },
-    "registrationAuthority": {
-      "type": "LEIauthority",
-      "validationAuthorityID": "RA000003",
-      "otherValidationAuthorityID": "ZJZHN27E",
-      "validationAuthorityEntityID": "O72F179UG6VYQEQUFMCQ"
-    },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Finance",
-    "legalForm": "LLC",
-    "associatedEntity": {
-      "type": "Organization",
-      "leiCode": "YSW1QHQ3583ZK50HHM7P",
-      "name": "Batz - Littel"
-    },
-    "status": "IN PROGRESS",
-    "expirationDate": "2022-07-11",
-    "expirationReason": "syndicate front-end e-markets",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "F1QEHLVLWSFN9ZLAWC7D",
-      "name": "Konopelski - Murray"
-    },
-    "otherAddresses": []
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "type": "LEIentity",
-    "legalName": "Tillman Inc",
-    "legalNameLanguage": "it",
-    "otherNames": [
-      "Hyatt Group",
-      "Kling Inc"
-    ],
-    "transliteratedOtherNames": [
-      "Hyatt Group",
-      "Kling Inc"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "legalAddress": {
       "type": "LEIaddress",
       "language": "en_AU",
       "addressLines": [
-        "Leannon and Sons",
-        "4256 Denis Village"
+        "Dickens, Botsford and Renner",
+        "912 Rodrigo Rest"
       ],
-      "addressNumber": "415",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "31306 Ondricka Rue, 47878-4588",
-      "city": "Constantinmouth",
-      "region": "Buckinghamshire",
-      "country": "Greenland",
-      "postalCode": "02901"
+      "addressNumber": "222",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "936 Frami Bridge, 88857-0197",
+      "city": "Terryfurt",
+      "region": "Avon",
+      "country": "Pakistan",
+      "postalCode": "29683-6651"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "hy",
+      "language": "es",
       "addressLines": [
-        "Wehner Inc",
-        "1903 Kurt Course"
+        "Cronin - Zulauf",
+        "498 Aubree Shore"
       ],
-      "addressNumber": "62",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "61394 Abigale Vista, 93698",
-      "city": "Jackberg",
-      "region": "Borders",
-      "country": "Argentina",
-      "postalCode": "54365-1101"
+      "addressNumber": "160",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "2718 Runolfsdottir Ports, 96489",
+      "city": "Thielfort",
+      "region": "Avon",
+      "country": "Mozambique",
+      "postalCode": "48831"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
-      "validationAuthorityID": "RA000003",
-      "otherValidationAuthorityID": "B5PX7QO5",
-      "validationAuthorityEntityID": "Y63QO5F8VY69ONUZYDO0"
+      "validationAuthorityID": "RA000004",
+      "otherValidationAuthorityID": "AJN0BBMD",
+      "validationAuthorityEntityID": "LEKPDDJGL8JDF802LL6O"
     },
-    "legalJurisdiction": "Berkshire",
-    "entityCategory": "Grocery",
+    "legalJurisdiction": "Buckinghamshire",
+    "entityCategory": "Jewelery",
     "legalForm": "LLC",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "LIKCNL35NEBYE9UN0BLR",
-      "name": "Stroman, Stracke and Marks"
+      "leiCode": "EZHYO00YBNZVKG9IIHCO",
+      "name": "Kutch - Hoeger"
     },
-    "status": "IN PROGRESS",
+    "status": "REJECTED",
     "expirationDate": "2022-07-11",
-    "expirationReason": "utilize leading-edge experiences",
+    "expirationReason": "exploit collaborative relationships",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
-      "name": "Wolff Group"
+      "leiCode": "UHW0TC3D5EIK8JHLERJT",
+      "name": "Raynor, Rau and Wilkinson"
     },
     "otherAddresses": []
   },
@@ -142,67 +73,136 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "LEIentity",
-    "legalName": "Powlowski - Hoeger",
-    "legalNameLanguage": "az",
+    "legalName": "Jerde, Senger and Cartwright",
+    "legalNameLanguage": "id_ID",
     "otherNames": [
-      "Hane LLC",
-      "Monahan - Hyatt"
+      "Borer LLC",
+      "Rau, Jacobs and Goldner"
     ],
     "transliteratedOtherNames": [
-      "Hane LLC",
-      "Monahan - Hyatt"
+      "Borer LLC",
+      "Rau, Jacobs and Goldner"
     ],
     "legalAddress": {
       "type": "LEIaddress",
-      "language": "hr",
+      "language": "en_AU_ocker",
       "addressLines": [
-        "Metz - Ferry",
-        "05616 Noble Port"
+        "Parker Group",
+        "217 Gerhold Parks"
       ],
-      "addressNumber": "223",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "5358 Roselyn Villages, 90831",
-      "city": "East Grayce",
-      "region": "Berkshire",
-      "country": "Malta",
-      "postalCode": "52546-3758"
+      "addressNumber": "263",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "944 Raven Club, 30561-9066",
+      "city": "Larkinhaven",
+      "region": "Buckinghamshire",
+      "country": "Christmas Island",
+      "postalCode": "27266-1438"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "pl",
+      "language": "tr",
       "addressLines": [
-        "Rau, Wilkinson and Lebsack",
-        "86089 Tillman Forest"
+        "Russel, Hermann and Lynch",
+        "78846 Austin Radial"
       ],
-      "addressNumber": "98",
-      "addressNumberWithinBuilding": "5",
-      "mailRouting": "0194 Bradtke Inlet, 46252",
-      "city": "Eloisaside",
-      "region": "Buckinghamshire",
-      "country": "Andorra",
-      "postalCode": "55530-6773"
+      "addressNumber": "391",
+      "addressNumberWithinBuilding": "4",
+      "mailRouting": "614 Candice Landing, 27884",
+      "city": "South Austinville",
+      "region": "Bedfordshire",
+      "country": "Djibouti",
+      "postalCode": "36262"
     },
     "registrationAuthority": {
       "type": "LEIauthority",
-      "validationAuthorityID": "RA000004",
-      "otherValidationAuthorityID": "9ZET4I64",
-      "validationAuthorityEntityID": "OU6SI6PA3SK69XYFH3TT"
+      "validationAuthorityID": "RA000001",
+      "otherValidationAuthorityID": "JM89EML2",
+      "validationAuthorityEntityID": "H5Z94LPOEFFGPQO0ZC4T"
+    },
+    "legalJurisdiction": "Borders",
+    "entityCategory": "Jewelery",
+    "legalForm": "LLC",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "D27XHC735HM9IAOBXSJJ",
+      "name": "Mayert - Ullrich"
+    },
+    "status": "CONFIRMED",
+    "expirationDate": "2022-07-11",
+    "expirationReason": "drive revolutionary ROI",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "3NWL6EBD8CCM2FIT2OS2",
+      "name": "Nikolaus LLC"
+    },
+    "otherAddresses": []
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Boyer - Jones",
+    "legalNameLanguage": "en_AU_ocker",
+    "otherNames": [
+      "Pollich - Roob",
+      "Dach LLC"
+    ],
+    "transliteratedOtherNames": [
+      "Pollich - Roob",
+      "Dach LLC"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "ro",
+      "addressLines": [
+        "Abbott, Heidenreich and Gutkowski",
+        "321 Candace Keys"
+      ],
+      "addressNumber": "398",
+      "addressNumberWithinBuilding": "5",
+      "mailRouting": "97975 Margaret Forest, 06207-7816",
+      "city": "Lakinmouth",
+      "region": "Cambridgeshire",
+      "country": "Norway",
+      "postalCode": "70013"
+    },
+    "headquartersAddress": {
+      "type": "LEIaddress",
+      "language": "en_CA",
+      "addressLines": [
+        "Heaney and Sons",
+        "55383 Weissnat Gardens"
+      ],
+      "addressNumber": "174",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "8519 Marvin Spurs, 58325-9315",
+      "city": "Murphybury",
+      "region": "Avon",
+      "country": "Heard Island and McDonald Islands",
+      "postalCode": "85878-1723"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000661",
+      "otherValidationAuthorityID": "T2BE065P",
+      "validationAuthorityEntityID": "8CYZKNXTK4HVBXLH5LWR"
     },
     "legalJurisdiction": "Berkshire",
-    "entityCategory": "Industrial",
+    "entityCategory": "Grocery",
     "legalForm": "CORPORATION",
     "associatedEntity": {
       "type": "Organization",
-      "leiCode": "ERBXOFTWRVSBFVTD4AJN",
-      "name": "Nader - Bruen"
+      "leiCode": "B6O1ZDNDKZQGGC2KK3YY",
+      "name": "Wilderman - Jacobi"
     },
     "status": "IN PROGRESS",
     "expirationDate": "2022-07-11",
-    "expirationReason": "implement seamless systems",
+    "expirationReason": "enable open-source portals",
     "successorEntity": {
       "type": "Organization",
-      "leiCode": "TIVL8S7NL6ECUWWRCK89",
-      "name": "Gutkowski, Goodwin and Reynolds"
+      "leiCode": "42H0I48Y2JRY4FLBXIVF",
+      "name": "Braun Group"
     },
     "otherAddresses": []
   }

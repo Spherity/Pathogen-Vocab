@@ -16,24 +16,24 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "ContactPoint",
-    "name": "Feeney LLC",
+    "name": "Larkin - Wyman",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "35954 Lenny Canyon",
-      "addressLocality": "Cecileview",
-      "addressRegion": "Arkansas",
-      "postalCode": "99958",
-      "addressCountry": "Honduras"
+      "streetAddress": "19163 Adaline Plain",
+      "addressLocality": "North Einar",
+      "addressRegion": "Nebraska",
+      "postalCode": "31029-3240",
+      "addressCountry": "Saudi Arabia"
     },
-    "email": "Idella60@example.org",
-    "phoneNumber": "555-374-1143"
+    "email": "Jamil_Bayer68@example.com",
+    "phoneNumber": "555-656-2797"
   },
   "evidence": [],
   "proof": {
     "type": "BbsBlsSignature2020",
-    "created": "2021-04-08T22:48:11Z",
+    "created": "2021-05-17T16:53:26Z",
     "proofPurpose": "assertionMethod",
-    "proofValue": "qP17QXQ/UIlMpqfMmVZY5Z6CLZkqsgqlG7RmBiXWm+E0W7vnnTXyeHbV018EzsKNPc6/R3rvsn45YAxpNESzpRrqSrgpOiMMUz+AvDzyXetkvLTc+6QnmOBS3f1nrgaacqKhmXOpfMzfiIYTML5cvA==",
+    "proofValue": "gamNpMNFEdIXOWITD7ywUAPUdOm9yeKXsftZ+Ah18ibKpPJDadXWkKq4Io11FO8pbJP+TrYhintuljlfDi2bksquxYdymcSa9CYTxCnefwpqbmlPb07h1HP8kzdtV1d3RN+MCN8LyT+G2dLM2oFrZQ==",
     "verificationMethod": "did:example:123#key-1"
   }
 }

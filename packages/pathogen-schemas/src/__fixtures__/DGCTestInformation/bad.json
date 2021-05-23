@@ -1,0 +1,29 @@
+[
+  {
+    "countryOfTestAdminstration": "de",
+    "application": "transmit",
+    "array": "transmit",
+    "protocol": "calculate",
+    "matrix": "override"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCTestInformation",
+    "testName": "jrc#1065: Becton Dickinson BD Veritor System for Rapid Deteciton os SARS-CoV-2",
+    "sampleOriginType": "sct#122554006:Capillary blood specimen",
+    "testValidatorId": "codiceFiscale:VRDRCR70H08H703B",
+    "countryOfTestAdminstration": "it",
+    "panel": "reboot",
+    "transmitter": "connect",
+    "program": "input"
+  },
+  {
+    "sampleCollectionDateTime": "2021-04-26T16:21:00.604Z",
+    "driver": "transmit",
+    "card": "calculate",
+    "capacitor": "generate",
+    "monitor": "bypass"
+  }
+]

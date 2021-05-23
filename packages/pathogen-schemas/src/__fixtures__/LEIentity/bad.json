@@ -1,75 +1,121 @@
 [
   {
+    "legalNameLanguage": "hy",
     "transliteratedOtherNames": [
-      "Ryan - Altenwerth",
-      "Hansen, Bins and Larson"
-    ],
-    "expirationReason": "syndicate front-end e-markets",
-    "protocol": "connect",
-    "system": "compress",
-    "bandwidth": "program",
-    "interface": "connect"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "legalName": "Tillman Inc",
-    "legalNameLanguage": "it",
-    "transliteratedOtherNames": [
-      "Hyatt Group",
-      "Kling Inc"
+      "Cassin Inc",
+      "Hackett Inc"
     ],
     "legalAddress": {
       "type": "LEIaddress",
       "language": "en_AU",
       "addressLines": [
-        "Leannon and Sons",
-        "4256 Denis Village"
+        "Dickens, Botsford and Renner",
+        "912 Rodrigo Rest"
       ],
-      "addressNumber": "415",
-      "addressNumberWithinBuilding": "2",
-      "mailRouting": "31306 Ondricka Rue, 47878-4588",
-      "city": "Constantinmouth",
-      "region": "Buckinghamshire",
-      "country": "Greenland",
-      "postalCode": "02901"
+      "addressNumber": "222",
+      "addressNumberWithinBuilding": "3",
+      "mailRouting": "936 Frami Bridge, 88857-0197",
+      "city": "Terryfurt",
+      "region": "Avon",
+      "country": "Pakistan",
+      "postalCode": "29683-6651"
     },
     "headquartersAddress": {
       "type": "LEIaddress",
-      "language": "hy",
+      "language": "es",
       "addressLines": [
-        "Wehner Inc",
-        "1903 Kurt Course"
+        "Cronin - Zulauf",
+        "498 Aubree Shore"
       ],
-      "addressNumber": "62",
-      "addressNumberWithinBuilding": "3",
-      "mailRouting": "61394 Abigale Vista, 93698",
-      "city": "Jackberg",
-      "region": "Borders",
-      "country": "Argentina",
-      "postalCode": "54365-1101"
+      "addressNumber": "160",
+      "addressNumberWithinBuilding": "10",
+      "mailRouting": "2718 Runolfsdottir Ports, 96489",
+      "city": "Thielfort",
+      "region": "Avon",
+      "country": "Mozambique",
+      "postalCode": "48831"
+    },
+    "legalJurisdiction": "Buckinghamshire",
+    "entityCategory": "Jewelery",
+    "associatedEntity": {
+      "type": "Organization",
+      "leiCode": "EZHYO00YBNZVKG9IIHCO",
+      "name": "Kutch - Hoeger"
+    },
+    "status": "REJECTED",
+    "alarm": "reboot"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "LEIentity",
+    "legalName": "Jerde, Senger and Cartwright",
+    "legalNameLanguage": "id_ID",
+    "otherNames": [
+      "Borer LLC",
+      "Rau, Jacobs and Goldner"
+    ],
+    "transliteratedOtherNames": [
+      "Borer LLC",
+      "Rau, Jacobs and Goldner"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "en_AU_ocker",
+      "addressLines": [
+        "Parker Group",
+        "217 Gerhold Parks"
+      ],
+      "addressNumber": "263",
+      "addressNumberWithinBuilding": "2",
+      "mailRouting": "944 Raven Club, 30561-9066",
+      "city": "Larkinhaven",
+      "region": "Buckinghamshire",
+      "country": "Christmas Island",
+      "postalCode": "27266-1438"
+    },
+    "registrationAuthority": {
+      "type": "LEIauthority",
+      "validationAuthorityID": "RA000001",
+      "otherValidationAuthorityID": "JM89EML2",
+      "validationAuthorityEntityID": "H5Z94LPOEFFGPQO0ZC4T"
+    },
+    "legalJurisdiction": "Borders",
+    "status": "CONFIRMED",
+    "expirationDate": "2022-07-11",
+    "successorEntity": {
+      "type": "Organization",
+      "leiCode": "3NWL6EBD8CCM2FIT2OS2",
+      "name": "Nikolaus LLC"
+    },
+    "otherAddresses": [],
+    "card": "connect"
+  },
+  {
+    "transliteratedOtherNames": [
+      "Pollich - Roob",
+      "Dach LLC"
+    ],
+    "legalAddress": {
+      "type": "LEIaddress",
+      "language": "ro",
+      "addressLines": [
+        "Abbott, Heidenreich and Gutkowski",
+        "321 Candace Keys"
+      ],
+      "addressNumber": "398",
+      "addressNumberWithinBuilding": "5",
+      "mailRouting": "97975 Margaret Forest, 06207-7816",
+      "city": "Lakinmouth",
+      "region": "Cambridgeshire",
+      "country": "Norway",
+      "postalCode": "70013"
     },
     "legalJurisdiction": "Berkshire",
     "entityCategory": "Grocery",
-    "expirationReason": "utilize leading-edge experiences",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "SOXOL7XNTEONK3CN5ZL1",
-      "name": "Wolff Group"
-    },
-    "circuit": "calculate"
-  },
-  {
-    "legalJurisdiction": "Berkshire",
-    "successorEntity": {
-      "type": "Organization",
-      "leiCode": "TIVL8S7NL6ECUWWRCK89",
-      "name": "Gutkowski, Goodwin and Reynolds"
-    },
+    "expirationReason": "enable open-source portals",
     "otherAddresses": [],
-    "bus": "program",
-    "sensor": "override",
-    "firewall": "bypass"
+    "sensor": "override"
   }
 ]

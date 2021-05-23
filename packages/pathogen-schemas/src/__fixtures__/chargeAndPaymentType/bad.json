@@ -1,20 +1,26 @@
 [
   {
-    "pixel": "copy"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "protocol": "index",
+    "firewall": "copy",
+    "monitor": "connect"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "chargeCollect": 616,
-    "chargePrepaid": 530,
-    "port": "generate"
+    "type": "chargeAndPaymentType",
+    "chargeCollect": 864,
+    "monitor": "generate",
+    "capacitor": "index",
+    "program": "hack",
+    "circuit": "program"
   },
   {
-    "type": "chargeAndPaymentType",
-    "chargeCollect": 616,
-    "chargePrepaid": 406,
-    "matrix": "navigate",
-    "program": "connect"
+    "chargePrepaid": 165,
+    "bus": "transmit",
+    "feed": "generate"
   }
 ]

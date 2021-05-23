@@ -1,49 +1,106 @@
 [
   {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
     "manufacturer": {
       "type": "Organization",
-      "name": "Wehner, Runte and Schuster",
-      "description": "Profound scalable process improvement",
+      "name": "Beer, McCullough and Williamson",
+      "description": "Vision-oriented value-added core",
       "address": {
         "type": "PostalAddress",
-        "streetAddress": "2725 Adela Ville",
-        "addressLocality": "Ziemeville",
-        "addressRegion": "North Dakota",
-        "postalCode": "80200-0738",
-        "addressCountry": "New Caledonia"
+        "streetAddress": "767 DuBuque Glens",
+        "addressLocality": "East Ella",
+        "addressRegion": "Vermont",
+        "postalCode": "72926",
+        "addressCountry": "Latvia"
       },
-      "email": "Rosario.Prohaska@example.net",
-      "phoneNumber": "555-766-1621",
-      "faxNumber": "555-228-1050"
+      "email": "Justina_Zboncak@example.net",
+      "phoneNumber": "555-526-7726",
+      "faxNumber": "555-153-5264"
     },
-    "sku": "407548957698",
-    "alarm": "transmit"
+    "name": "Awesome Steel Cheese",
+    "description": "The Apollotech B340 is an affordable wireless mouse with reliable connectivity, 12 months battery life and modern design",
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "9629"
+    },
+    "sku": "204989161760",
+    "panel": "reboot",
+    "pixel": "program",
+    "application": "copy"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Product",
-    "description": "Ergonomic executive chair upholstered in bonded black leather and PVC padded seat and back for all-day comfort and support",
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Kuphal LLC",
+      "description": "Enterprise-wide heuristic alliance",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "569 Pacocha Junctions",
+        "addressLocality": "Devanfort",
+        "addressRegion": "Louisiana",
+        "postalCode": "93274-5807",
+        "addressCountry": "Papua New Guinea"
+      },
+      "email": "Hassan52@example.org",
+      "phoneNumber": "555-155-7210",
+      "faxNumber": "555-232-9375"
+    },
+    "name": "Fantastic Granite Sausages",
     "sizeOrAmount": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "2268"
+      "value": "7614"
     },
     "weight": {
       "type": "QuantitativeValue",
       "unitCode": "",
-      "value": "5494"
+      "value": "2426"
     },
-    "sku": "603497064169",
-    "application": "hack",
-    "microchip": "program",
-    "monitor": "generate"
+    "sku": "962310582344",
+    "capacitor": "transmit",
+    "application": "connect"
   },
   {
-    "name": "Incredible Wooden Chair",
-    "bus": "connect",
-    "driver": "navigate",
-    "program": "reboot"
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "manufacturer": {
+      "type": "Organization",
+      "name": "Nienow Group",
+      "description": "Networked zero tolerance groupware",
+      "address": {
+        "type": "PostalAddress",
+        "streetAddress": "0518 Durgan Lock",
+        "addressLocality": "Beattyfurt",
+        "addressRegion": "Texas",
+        "postalCode": "99758",
+        "addressCountry": "Hong Kong"
+      },
+      "email": "Veda_Wunsch@example.net",
+      "phoneNumber": "555-317-6932",
+      "faxNumber": "555-964-1980"
+    },
+    "name": "Practical Cotton Sausages",
+    "description": "Carbonite web goalkeeper gloves are ergonomically designed to give easy fit",
+    "sizeOrAmount": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2199"
+    },
+    "weight": {
+      "type": "QuantitativeValue",
+      "unitCode": "",
+      "value": "2603"
+    },
+    "sku": "176103714953",
+    "driver": "override",
+    "transmitter": "transmit"
   }
 ]

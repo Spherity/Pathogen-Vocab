@@ -1,0 +1,32 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Gulgowski",
+    "givenName": "Edna",
+    "birthDate": "1996-01-20T04:54:56.773Z",
+    "gender": "female"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Keebler",
+    "givenName": "Bernhard",
+    "birthDate": "1970-10-03T01:47:14.887Z",
+    "gender": "female"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "familyName": "Thiel",
+    "givenName": "Shawna",
+    "birthDate": "2001-01-05T22:47:29.507Z",
+    "gender": "female"
+  }
+]

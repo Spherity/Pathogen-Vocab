@@ -4,20 +4,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "6409667124670",
+    "globalLocationNumber": "7425573311187",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "37.0055",
-      "longitude": "-38.5293"
+      "latitude": "58.0563",
+      "longitude": "-70.8502"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Leffler, Hirthe and Langworth",
-      "streetAddress": "14610 Ezra Tunnel",
-      "addressLocality": "Cristborough",
-      "addressRegion": "Alaska",
-      "postalCode": "63603-3074",
-      "addressCountry": "Montserrat"
+      "organizationName": "Greenfelder, Lueilwitz and Maggio",
+      "streetAddress": "1197 Jacobs Roads",
+      "addressLocality": "East Eda",
+      "addressRegion": "Vermont",
+      "postalCode": "86702",
+      "addressCountry": "Saint Helena"
     }
   },
   {
@@ -25,20 +25,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "5086014194732",
+    "globalLocationNumber": "1421667743533",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "33.8894",
-      "longitude": "-119.7505"
+      "latitude": "-40.2895",
+      "longitude": "33.6549"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Witting and Sons",
-      "streetAddress": "09559 Boyle Crest",
-      "addressLocality": "East Alexandreside",
-      "addressRegion": "Maryland",
-      "postalCode": "13037",
-      "addressCountry": "Cambodia"
+      "organizationName": "Tremblay, Berge and McCullough",
+      "streetAddress": "403 Name Forge",
+      "addressLocality": "West Tomasaton",
+      "addressRegion": "Tennessee",
+      "postalCode": "12588",
+      "addressCountry": "Gambia"
     }
   },
   {
@@ -46,20 +46,20 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Place",
-    "globalLocationNumber": "4997149642641",
+    "globalLocationNumber": "1803605204427",
     "geo": {
       "type": "GeoCoordinates",
-      "latitude": "89.0745",
-      "longitude": "117.6147"
+      "latitude": "33.6635",
+      "longitude": "-164.7750"
     },
     "address": {
       "type": "PostalAddress",
-      "organizationName": "Wyman - Bogisich",
-      "streetAddress": "69130 Eva Junction",
-      "addressLocality": "Littelshire",
-      "addressRegion": "Delaware",
-      "postalCode": "55517",
-      "addressCountry": "Ecuador"
+      "organizationName": "Mann - Howell",
+      "streetAddress": "687 Conn Ranch",
+      "addressLocality": "East Metahaven",
+      "addressRegion": "North Dakota",
+      "postalCode": "92719",
+      "addressCountry": "Pakistan"
     }
   }
 ]

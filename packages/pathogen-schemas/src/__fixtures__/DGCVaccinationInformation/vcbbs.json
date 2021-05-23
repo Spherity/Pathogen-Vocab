@@ -1,0 +1,45 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCVaccinationInformation",
+    "administeringCentre": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "batchNumber": "B1235742",
+    "countryOfVaccination": "it",
+    "dateOfVaccination": "2021-04-06T14:42:50.320Z",
+    "healthProfessional": "VRDRCR70H08H703B",
+    "nextVaccinationDate": "2021-05-19T01:15:24.525Z",
+    "order": "1 of 1",
+    "vaccine": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccine",
+      "code": "SCT#1119349007",
+      "targetDisease": "ICD-10#J12.82",
+      "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+      "medicinalProductName": "COVID-19 Vaccine"
+    }
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-05-17T16:53:27Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "lpiGOxATAEnDZGj7EuAupF+cxGxQ2XX6m5W6ieANFN4QcG4mhuMsNo4AQgO1Yy95AtItitgcpLRBehC7S0AnVnkq0yCqQEdIug+9SEEiWGg3g5OAggwXOELQX079UbJwTwvVhlrFcau9GsGKZ0OSAA==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

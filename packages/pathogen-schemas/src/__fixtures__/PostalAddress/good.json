@@ -4,35 +4,35 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Heaney - Pagac",
-    "streetAddress": "29855 McClure Inlet",
-    "addressLocality": "Broderickshire",
-    "addressRegion": "Minnesota",
-    "postalCode": "68424",
-    "addressCountry": "Sao Tome and Principe"
+    "organizationName": "Braun and Sons",
+    "streetAddress": "9358 Koch Light",
+    "addressLocality": "East Lorenzabury",
+    "addressRegion": "Rhode Island",
+    "postalCode": "00871",
+    "addressCountry": "Iraq"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Stehr and Sons",
-    "streetAddress": "592 Larue Crescent",
-    "addressLocality": "Millerchester",
-    "addressRegion": "Louisiana",
-    "postalCode": "48017-7510",
-    "addressCountry": "Serbia"
+    "organizationName": "O'Connell, Emmerich and Schinner",
+    "streetAddress": "760 Collins Green",
+    "addressLocality": "O'Haraland",
+    "addressRegion": "Oregon",
+    "postalCode": "39603-6741",
+    "addressCountry": "Moldova"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "PostalAddress",
-    "organizationName": "Wunsch - Botsford",
-    "streetAddress": "7845 Kulas Grove",
-    "addressLocality": "South Concepcion",
-    "addressRegion": "New Hampshire",
-    "postalCode": "43659-4357",
-    "addressCountry": "Syrian Arab Republic"
+    "organizationName": "Vandervort - Hauck",
+    "streetAddress": "071 Bartell Village",
+    "addressLocality": "Lake Guillermo",
+    "addressRegion": "Kentucky",
+    "postalCode": "95207-4890",
+    "addressCountry": "Macao"
   }
 ]

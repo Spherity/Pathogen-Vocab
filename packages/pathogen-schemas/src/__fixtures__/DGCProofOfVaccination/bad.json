@@ -1,0 +1,49 @@
+[
+  {
+    "vaccinationInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCVaccinationInformation",
+      "administeringCentre": "Hospital Universario La Paz",
+      "batchNumber": "C1235742",
+      "countryOfVaccination": "de",
+      "dateOfVaccination": "2021-02-22T13:19:56.397Z",
+      "healthProfessional": "MSSCZN70H08H704F",
+      "nextVaccinationDate": "2021-05-20T21:09:06.704Z",
+      "order": "1 of 1",
+      "vaccine": {
+        "@context": [
+          "https://w3id.org/pathogen/v1"
+        ],
+        "type": "DGCVaccine",
+        "code": "SCT#1119349007",
+        "targetDisease": "ICD-10#J12.82",
+        "marketingAuthHolder": "Moderna Biotech Spain S.L.",
+        "medicinalProductName": "COVID-19 Vaccine"
+      }
+    },
+    "sensor": "program"
+  },
+  {
+    "interface": "back up"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "personalInformation": {
+      "@context": [
+        "https://w3id.org/pathogen/v1"
+      ],
+      "type": "DGCSubject",
+      "familyName": "Runte",
+      "givenName": "Audra",
+      "birthDate": "1972-07-23T14:44:35.992Z",
+      "gender": "female"
+    },
+    "monitor": "compress",
+    "driver": "bypass",
+    "sensor": "navigate"
+  }
+]

@@ -1,45 +1,34 @@
 [
   {
-    "port": "bypass",
-    "panel": "connect",
-    "bus": "back up",
-    "protocol": "bypass"
-  },
-  {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
-    "initialRegistrationDate": "2020-01-01",
-    "lastUpdateDate": "2020-01-01",
-    "status": "REJECTED",
-    "nextRenewalDate": "2021-02-02",
-    "validationSources": "FULLY_CORROBORATED",
-    "validationAuthority": [
-      {
-        "type": "LEIauthority",
-        "validationAuthorityID": "RA000004",
-        "otherValidationAuthorityID": "MWK5CJBE",
-        "validationAuthorityEntityID": "RC3W80QNJY4KVXE1TFS9"
-      }
-    ],
-    "port": "bypass",
-    "bus": "synthesize"
-  },
-  {
-    "@context": [
-      "https://w3id.org/pathogen/v1"
-    ],
-    "lastUpdateDate": "2020-01-01",
+    "type": "LEIregistration",
     "status": "REQUESTED",
-    "managingLou": "MWKLQTOHBUNCUJLZBUUM",
+    "managingLou": "CJTZEIWHVXOCSTIZMXVQ",
+    "validationSources": "PARTIALLY_CORROBORATED",
     "validationAuthority": [
       {
         "type": "LEIauthority",
-        "validationAuthorityID": "RA000661",
-        "otherValidationAuthorityID": "KJIZ48UE",
-        "validationAuthorityEntityID": "QJ2SPJJM28GUHF55YNU7"
+        "validationAuthorityID": "RA000005",
+        "otherValidationAuthorityID": "IBYZFHZ4",
+        "validationAuthorityEntityID": "OQMB5ZVZFN540OK3I1PT"
       }
     ],
-    "application": "generate"
+    "transmitter": "program",
+    "array": "generate",
+    "microchip": "compress",
+    "monitor": "hack"
+  },
+  {
+    "validationSources": "NOT_CORROBORATED",
+    "interface": "calculate",
+    "application": "reboot"
+  },
+  {
+    "nextRenewalDate": "2021-02-02",
+    "transmitter": "generate",
+    "port": "calculate",
+    "bus": "connect"
   }
 ]

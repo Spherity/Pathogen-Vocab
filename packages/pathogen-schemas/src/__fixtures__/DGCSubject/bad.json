@@ -1,0 +1,29 @@
+[
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "familyName": "Gulgowski",
+    "givenName": "Edna",
+    "gender": "female",
+    "protocol": "compress",
+    "driver": "reboot",
+    "matrix": "back up"
+  },
+  {
+    "familyName": "Keebler",
+    "givenName": "Bernhard",
+    "gender": "female",
+    "capacitor": "transmit",
+    "application": "compress",
+    "bandwidth": "quantify",
+    "system": "parse"
+  },
+  {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCSubject",
+    "monitor": "parse"
+  }
+]

@@ -4,56 +4,56 @@
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Shanahan, Romaguera and Price",
-    "description": "Self-enabling stable access",
+    "name": "Crist, Hayes and Balistreri",
+    "description": "Open-architected multimedia function",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "83513 Princess Lake",
-      "addressLocality": "South Helmertown",
-      "addressRegion": "Arizona",
-      "postalCode": "70992",
-      "addressCountry": "Brunei Darussalam"
+      "streetAddress": "740 Kristina Harbors",
+      "addressLocality": "West Fritzstad",
+      "addressRegion": "Alaska",
+      "postalCode": "36535-1146",
+      "addressCountry": "Burundi"
     },
-    "email": "Vincent_Mraz30@example.net",
-    "phoneNumber": "555-872-7369",
-    "faxNumber": "555-362-9754"
+    "email": "Adalberto.Heaney@example.com",
+    "phoneNumber": "555-140-9010",
+    "faxNumber": "555-785-4112"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "Harris, Medhurst and Heaney",
-    "description": "Total zero defect collaboration",
+    "name": "Koch and Sons",
+    "description": "Face to face bi-directional superstructure",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "22005 Gutkowski Loop",
-      "addressLocality": "Millerton",
-      "addressRegion": "Iowa",
-      "postalCode": "27750",
-      "addressCountry": "Bahamas"
+      "streetAddress": "19420 Justyn Walks",
+      "addressLocality": "Collinsbury",
+      "addressRegion": "California",
+      "postalCode": "20934",
+      "addressCountry": "Cayman Islands"
     },
-    "email": "Arielle83@example.com",
-    "phoneNumber": "555-912-8895",
-    "faxNumber": "555-867-8895"
+    "email": "Bettye.Hilpert31@example.net",
+    "phoneNumber": "555-455-1210",
+    "faxNumber": "555-381-7805"
   },
   {
     "@context": [
       "https://w3id.org/pathogen/v1"
     ],
     "type": "Organization",
-    "name": "White - Murray",
-    "description": "Monitored maximized project",
+    "name": "Wisoky Group",
+    "description": "Optional intermediate forecast",
     "address": {
       "type": "PostalAddress",
-      "streetAddress": "59068 Thiel Stream",
-      "addressLocality": "Marquardttown",
-      "addressRegion": "Montana",
-      "postalCode": "40394-4716",
-      "addressCountry": "Grenada"
+      "streetAddress": "7591 Juvenal Manor",
+      "addressLocality": "Cathrynmouth",
+      "addressRegion": "Illinois",
+      "postalCode": "84338-2711",
+      "addressCountry": "Azerbaijan"
     },
-    "email": "Luciano_Ferry13@example.net",
-    "phoneNumber": "555-903-2483",
-    "faxNumber": "555-499-2535"
+    "email": "Kraig99@example.org",
+    "phoneNumber": "555-556-4082",
+    "faxNumber": "555-709-3432"
   }
 ]

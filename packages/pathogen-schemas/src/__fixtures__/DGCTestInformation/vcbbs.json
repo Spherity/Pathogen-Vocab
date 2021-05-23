@@ -1,0 +1,36 @@
+{
+  "@context": [
+    "https://www.w3.org/2018/credentials/v1",
+    "https://w3id.org/pathogen/v1",
+    "https://w3id.org/security/bbs/v1"
+  ],
+  "id": "http://example.org/credentials/",
+  "type": [
+    "VerifiableCredential"
+  ],
+  "issuanceDate": "2021-02-04T20:29:37+00:00",
+  "expirationDate": "2021-02-05T20:29:37+00:00",
+  "issuer": "did:example:123",
+  "credentialSubject": {
+    "@context": [
+      "https://w3id.org/pathogen/v1"
+    ],
+    "type": "DGCTestInformation",
+    "testName": "jrc#1232: Abbott Rapid Diagnostics Panbio™ COVID-19 Ag Rapid Test",
+    "testType": "loinc#LP6464-4: Nucleic acid amplification with probe detection",
+    "sampleOriginType": "sct#258529004:Throat swab",
+    "sampleCollectionDateTime": "2021-04-25T21:59:27.597Z",
+    "testResult": "1240591000000102-Severe acute respiratory syndrome coronavirus 2 not detected",
+    "testCenter": "AZ. OSPEDALIERO - UNIVERSITARIA CAREGGI",
+    "testValidatorId": "codiceFiscale:VRDRCR70H08H703B",
+    "countryOfTestAdminstration": "de"
+  },
+  "evidence": [],
+  "proof": {
+    "type": "BbsBlsSignature2020",
+    "created": "2021-05-17T16:53:26Z",
+    "proofPurpose": "assertionMethod",
+    "proofValue": "gqqG7axZXZZPZWFYT9mT42nkJzweqH1aYjpu1Q2LqIdn5tA+kWW0m/D8HUM5Rcs+aHYqRgScvqe77fIwOgAEYmg/EqM3kHDDAbg30LdDKopuyNWSlZ1X2982l5YP9asV3xjzGBLEJTYZGwEJCFyxQw==",
+    "verificationMethod": "did:example:123#key-1"
+  }
+}

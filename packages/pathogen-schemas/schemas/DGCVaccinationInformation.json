@@ -1,0 +1,74 @@
+{
+    
+        "$id": "https://w3id.org/pathogen/schemas/DGCVaccinationInformation.json",
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "$comment": "{\"term\": \"DGCVaccinationInformation\", \"@id\": \"https://w3id.org/pathogen#DGCVaccinationInformation\"}",
+        "title": "DGCVaccinationInformation",
+        "description": "Vaccination event information",
+        "type": "object",
+        "properties": {
+            "@context": {
+                "type": "array"
+            },
+            "type": {
+                "oneOf": [
+                    {
+                        "type": "string"
+                    },
+                    {
+                        "type": "array"
+                    }
+                ]
+            },
+            "administeringCentre": {
+                "$comment": "{\"term\": \"administeringCentre\", \"@id\": \"http://hl7.org/fhir/uv/ips/Immunization.location.name\" }",
+                "title": "Vaccine Administration Center",
+                "description": "Location where vaccination was administered",
+                "type": "string"
+            },
+            "batchNumber": {
+                "$comment": "{\"term\": \"batchNumber\", \"@id\": \"http://hl7.org/fhir/uv/ips/Immunization.lotNumber\"}",
+                "title": "Vaccine Batch or Lot number",
+                "description": "Alphanumeric batch or lot number of the vaccine administered",
+                "type": "string"
+            },
+            "countryOfVaccination": {
+                "$comment": "{\"term\": \"countryOfVaccination\", \"@id\": \"http://hl7.org/fhir/ValueSet/iso3166-1-2\"}",
+                "title": "Country of vaccination",
+                "description": "ISO country code",
+                "type":"string"
+            },
+            "dateOfVaccination": {
+                "$comment": "{\"term\": \"dateOfVaccination\", \"@id\": \"http://hl7.org/fhir/uv/ips/Immunization.occurenceDateTime\"}",
+                "title": "Date of Vaccination",
+                "description": "Date when the vaccination was administered",
+                "type": "string"
+            },
+            "healthProfessional": {
+                "$comment": "{\"term\": \"healthProfessional\", \"@id\": \"http://hl7.org/fhir/ValueSet/immunization-function\"}",
+                "title": "Identifier referring the health professional",
+                "description": "Health professional reference",
+                "type": "string"
+            },
+            "nextVaccinationDate": {
+                "$comment": "{\"term\": \"nextVaccinationDate\", \"@id\": \"http://hl7.org/fhir/ImmunizationRecommendation.dateCriterion.value\"}",
+                "title": "Date of next vaccination",
+                "description": "Date of next vaccination",
+                "type": "string"
+            },
+            "order": {
+                "$comment": "{\"term\": \"order\", \"@id\": \"http://hl7.org/fhir/Immunization.protocolApplied.doseNumber\"}",
+                "title": "Dose number",
+                "description": "Dose number in the vaccination series",
+                "type": "string"
+            },
+            "vaccine": {
+                "$comment": "{\"term\": \"vaccine\", \"@id\": \"http://id.who.int/icd/entity/164949870\" }",
+                "title": "Vaccine code",
+                "description": "Vaccine code",
+                "$ref": "https://w3id.org/pathogen/schemas/DGCVaccine.json"
+            }
+        },
+        "additionalProperties": false,
+        "examples": []
+}

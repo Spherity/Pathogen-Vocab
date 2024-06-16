@@ -36,7 +36,7 @@
     "faker": "^5.4.0",
     "fs-extra": "^9.1.0",
     "image-to-base64": "^2.1.1",
-    "jest": "^26.6.3",
+    "jest": "^29.7.0",
     "js-beautify": "^1.13.5",
     "json-mask": "^1.0.4",
     "json-schema-to-openapi-schema": "^0.4.0",
